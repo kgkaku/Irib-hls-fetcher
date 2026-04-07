@@ -41,11 +41,16 @@ jobs:
     - name: Run IRIB Extractor
       run: python irib.py
 
+    - name: List generated files
+      run: |
+        echo "Generated files:"
+        ls -la irib.m3u irib-extvlcopt.m3u irib.json epg.xml 2>/dev/null || echo "No files found"
+
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git pull origin main --rebase
-        git add irib.m3u irib_extvlcopt.m3u irib.json epg.xml
-        git diff --staged --quiet || git commit -m "Auto-refresh IRIB channels with EPG [$(date +'%Y-%m-%d %H:%M:%S')]"
+        git add irib.m3u irib-extvlcopt.m3u irib.json epg.xml
+        git diff --staged --quiet || git commit -m "Auto-refresh IRIB channels [$(date +'%Y-%m-%d %H:%M:%S')]"
         git push origin main
