@@ -3,8 +3,78 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
-  <programme start="20260409160015 +0000" stop="20260409161213 +0000" channel="tv1">
+  <programme start="20260409222948 +0000" stop="20260409223151 +0000" channel="tv1">
+    <title>رضا دوباره زدن...</title>
+    <sub-title>سرو سپید سرخ</sub-title>
+    <length units="seconds">124</length>
+  </programme>
+  <programme start="20260409205953 +0000" stop="20260409221655 +0000" channel="tv1">
     <title>20 فروردین 1405</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">4622</length>
+  </programme>
+  <programme start="20260409205907 +0000" stop="20260409205950 +0000" channel="tv1">
+    <title>سوره عنکبوت آیه 69 - 20 فروردین 1405</title>
+    <sub-title>یک آیه</sub-title>
+    <length units="seconds">42</length>
+  </programme>
+  <programme start="20260409205829 +0000" stop="20260409205903 +0000" channel="tv1">
+    <title>20 فروردین 1405</title>
+    <sub-title>تیتر یک </sub-title>
+    <length units="seconds">34</length>
+  </programme>
+  <programme start="20260409200723 +0000" stop="20260409205119 +0000" channel="tv1">
+    <title>20 فروردین 1405</title>
+    <sub-title>جریان </sub-title>
+    <length units="seconds">2636</length>
+  </programme>
+  <programme start="20260409195727 +0000" stop="20260409200722 +0000" channel="tv1">
+    <title>دعای توسل - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه 1)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20260409194051 +0000" stop="20260409195216 +0000" channel="tv1">
+    <title>20 فروردین 1405</title>
+    <sub-title>خاکریز مردم</sub-title>
+    <length units="seconds">684</length>
+  </programme>
+  <programme start="20260409190947 +0000" stop="20260409194046 +0000" channel="tv1">
+    <title>20 فروردین 1405 - بخش 4</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">1860</length>
+  </programme>
+  <programme start="20260409190702 +0000" stop="20260409190944 +0000" channel="tv1">
+    <title>20 فروردین 1405</title>
+    <sub-title>امام امت (شبکه 1)</sub-title>
+    <length units="seconds">160</length>
+  </programme>
+  <programme start="20260409190102 +0000" stop="20260409190656 +0000" channel="tv1">
+    <title>دعای نادعلی - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه 1)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20260409180020 +0000" stop="20260409182003 +0000" channel="tv1">
+    <title>20 فروردین 1405 - بخش 3</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">1184</length>
+  </programme>
+  <programme start="20260409174845 +0000" stop="20260409175545 +0000" channel="tv1">
+    <title>20 فروردین 1405</title>
+    <sub-title>غیر رسمی (شبکه ۱)</sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20260409173251 +0000" stop="20260409174843 +0000" channel="tv1">
+    <title>20 فروردین 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">952</length>
+  </programme>
+  <programme start="20260409171235 +0000" stop="20260409173249 +0000" channel="tv1">
+    <title>20 فروردین 1405 - بخش 2</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">1214</length>
+  </programme>
+  <programme start="20260409160015 +0000" stop="20260409161213 +0000" channel="tv1">
+    <title>20 فروردین 1405 - بخش 1</title>
     <sub-title>ایران امروز</sub-title>
     <length units="seconds">718</length>
   </programme>
@@ -27,6 +97,11 @@
     <title>20 فروردین 1405</title>
     <sub-title>آفتاب شرقی 1405</sub-title>
     <length units="seconds">908</length>
+  </programme>
+  <programme start="20260409112130 +0000" stop="20260409112405 +0000" channel="tv1">
+    <title>قرار بعد بماند برای صبح قیامت...</title>
+    <sub-title>ویژه برنامه های 1405</sub-title>
+    <length units="seconds">154</length>
   </programme>
   <programme start="20260409111827 +0000" stop="20260409120610 +0000" channel="tv1">
     <title>ویژه برنامه چهلم رهبر شهید - 20 فروردین 1405 - بخش 1</title>
@@ -66,6 +141,36 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260409211510 +0000" stop="20260409220025 +0000" channel="tv2">
+    <title>خلاصه قسمت های 13 تا 18</title>
+    <sub-title>کلانتری یازده </sub-title>
+    <length units="seconds">2714</length>
+  </programme>
+  <programme start="20260409203007 +0000" stop="20260409205747 +0000" channel="tv2">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1660</length>
+  </programme>
+  <programme start="20260409200413 +0000" stop="20260409202425 +0000" channel="tv2">
+    <title>20 فروردین 1405</title>
+    <sub-title>پاورقی</sub-title>
+    <length units="seconds">1212</length>
+  </programme>
+  <programme start="20260409193327 +0000" stop="20260409194847 +0000" channel="tv2">
+    <title>20 فروردین 1405</title>
+    <sub-title>سپیدار</sub-title>
+    <length units="seconds">920</length>
+  </programme>
+  <programme start="20260409191222 +0000" stop="20260409193324 +0000" channel="tv2">
+    <title>20 فروردین 1405</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1262</length>
+  </programme>
+  <programme start="20260409170048 +0000" stop="20260409184216 +0000" channel="tv2">
+    <title>20 فروردین 1405</title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">6088</length>
+  </programme>
   <programme start="20260409140056 +0000" stop="20260409160019 +0000" channel="tv2">
     <title>20 فروردین 1405</title>
     <sub-title>زمانه </sub-title>
@@ -144,10 +249,90 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
-  <programme start="20260409154400 +0000" stop="20260409154516 +0000" channel="tv3">
-    <title>درود به غیرت سید نجیب نقطه زن!</title>
+  <programme start="20260409220007 +0000" stop="20260409222229 +0000" channel="tv3">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 22:00 (۱۴05)</sub-title>
+    <length units="seconds">1342</length>
+  </programme>
+  <programme start="20260409214718 +0000" stop="20260409220007 +0000" channel="tv3">
+    <title>20 فروردین 1405 </title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">770</length>
+  </programme>
+  <programme start="20260409210556 +0000" stop="20260409213706 +0000" channel="tv3">
+    <title>بیانات رهبر معظم انقلاب اسلامی - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">1870</length>
+  </programme>
+  <programme start="20260409210137 +0000" stop="20260409210314 +0000" channel="tv3">
+    <title>پول که باشه، هر در بسته ای باز میشه۱</title>
+    <sub-title>بیگانگان</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260409205850 +0000" stop="20260409210112 +0000" channel="tv3">
+    <title>ابوخوله قبلا انقد دل نازک نبودید!</title>
+    <sub-title>بیگانگان</sub-title>
+    <length units="seconds">142</length>
+  </programme>
+  <programme start="20260409205218 +0000" stop="20260409205636 +0000" channel="tv3">
+    <title>به قاضی میگم از مالکیت این زن بگذره!</title>
+    <sub-title>بیگانگان</sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20260409204352 +0000" stop="20260409204610 +0000" channel="tv3">
+    <title>ما نقاط ضعف داعش و شناسایی کردیم</title>
+    <sub-title>بیگانگان</sub-title>
+    <length units="seconds">138</length>
+  </programme>
+  <programme start="20260409203830 +0000" stop="20260409204030 +0000" channel="tv3">
+    <title>بخاطر یه دختر کنیز کافر باید جواب بدم؟!</title>
+    <sub-title>بیگانگان</sub-title>
+    <length units="seconds">120</length>
+  </programme>
+  <programme start="20260409202430 +0000" stop="20260409214600 +0000" channel="tv3">
+    <title>قسمت 20</title>
+    <sub-title>بیگانگان</sub-title>
+    <length units="seconds">2976</length>
+  </programme>
+  <programme start="20260409200203 +0000" stop="20260409202124 +0000" channel="tv3">
+    <title>دعای توسل - 20 فروردین 1405 </title>
+    <sub-title>ادعیه و زیارت (شبکه 3)</sub-title>
+    <length units="seconds">1160</length>
+  </programme>
+  <programme start="20260409193854 +0000" stop="20260409200056 +0000" channel="tv3">
+    <title>20 فروردین 1405  - بخش 5</title>
     <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
-    <length units="seconds">76</length>
+    <length units="seconds">1322</length>
+  </programme>
+  <programme start="20260409185752 +0000" stop="20260409193834 +0000" channel="tv3">
+    <title>دماوند - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">2442</length>
+  </programme>
+  <programme start="20260409182201 +0000" stop="20260409184706 +0000" channel="tv3">
+    <title>20 فروردین 1405  - بخش 4</title>
+    <sub-title>خط مقاومت (شبکه 3)</sub-title>
+    <length units="seconds">1506</length>
+  </programme>
+  <programme start="20260409172153 +0000" stop="20260409180633 +0000" channel="tv3">
+    <title>20 فروردین 1405 </title>
+    <sub-title>علاج</sub-title>
+    <length units="seconds">2680</length>
+  </programme>
+  <programme start="20260409170942 +0000" stop="20260409171917 +0000" channel="tv3">
+    <title>20 فروردین 1405 - بخش 3</title>
+    <sub-title>خط مقاومت (شبکه 3)</sub-title>
+    <length units="seconds">574</length>
+  </programme>
+  <programme start="20260409165600 +0000" stop="20260409170940 +0000" channel="tv3">
+    <title>20 فروردین 1405 - بخش 5</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">820</length>
+  </programme>
+  <programme start="20260409162154 +0000" stop="20260409164935 +0000" channel="tv3">
+    <title>قصه قاب - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">1660</length>
   </programme>
   <programme start="20260409154221 +0000" stop="20260409162148 +0000" channel="tv3">
     <title>20 فروردین 1405  -بخش 4</title>
@@ -232,6 +417,51 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260409203001 +0000" stop="20260409211313 +0000" channel="tv4">
+    <title>20 فروردین 1405 </title>
+    <sub-title>سنجه</sub-title>
+    <length units="seconds">2591</length>
+  </programme>
+  <programme start="20260409200458 +0000" stop="20260409202031 +0000" channel="tv4">
+    <title>دعای توسل - 20 فروردین 1405 </title>
+    <sub-title>ادعیه و زیارت (شبکه 4)</sub-title>
+    <length units="seconds">932</length>
+  </programme>
+  <programme start="20260409194052 +0000" stop="20260409200456 +0000" channel="tv4">
+    <title>20 فروردین 1405  - بخش 4</title>
+    <sub-title>وضعیت جنگی</sub-title>
+    <length units="seconds">1445</length>
+  </programme>
+  <programme start="20260409193641 +0000" stop="20260409194049 +0000" channel="tv4">
+    <title>20 فروردین 1405  - بخش 3</title>
+    <sub-title>سرزمین شعر (شبکه 4)</sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260409190510 +0000" stop="20260409193256 +0000" channel="tv4">
+    <title>20 فروردین 1405  -  بخش 3</title>
+    <sub-title>وضعیت جنگی</sub-title>
+    <length units="seconds">1666</length>
+  </programme>
+  <programme start="20260409181529 +0000" stop="20260409185053 +0000" channel="tv4">
+    <title>20 فروردین 1405  - بخش 2</title>
+    <sub-title>سرزمین شعر (شبکه 4)</sub-title>
+    <length units="seconds">242</length>
+  </programme>
+  <programme start="20260409174846 +0000" stop="20260409181144 +0000" channel="tv4">
+    <title>20 فروردین 1405  - بخش 2</title>
+    <sub-title>وضعیت جنگی</sub-title>
+    <length units="seconds">1378</length>
+  </programme>
+  <programme start="20260409174310 +0000" stop="20260409174512 +0000" channel="tv4">
+    <title>20 فروردین 1405 </title>
+    <sub-title>سرزمین شعر (شبکه 4)</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260409154317 +0000" stop="20260409172309 +0000" channel="tv4">
+    <title>20 فروردین 1405 - بخش 1</title>
+    <sub-title>وضعیت جنگی</sub-title>
+    <length units="seconds">5991</length>
+  </programme>
   <programme start="20260409095219 +0000" stop="20260409120531 +0000" channel="tv4">
     <title>20 فروردین 1405</title>
     <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
@@ -260,6 +490,131 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260409221248 +0000" stop="20260409221610 +0000" channel="irinn">
+    <title>خبر ورزشی</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260409220746 +0000" stop="20260409221021 +0000" channel="irinn">
+    <title>اول خانه شهدا</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20260409215222 +0000" stop="20260409215715 +0000" channel="irinn">
+    <title>موج محکومیت جهانی علیه نقض آتش بس در لبنان</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">292</length>
+  </programme>
+  <programme start="20260409215122 +0000" stop="20260409215222 +0000" channel="irinn">
+    <title>پاسخ مقاومت لبنان با رگبار موشکی</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">62</length>
+  </programme>
+  <programme start="20260409215037 +0000" stop="20260409215122 +0000" channel="irinn">
+    <title>اگر آمریکا میخواهد با نابودی دیپلماسی اقتصاد خود را نابود کند ، ما آماده‌ایم</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">44</length>
+  </programme>
+  <programme start="20260409214037 +0000" stop="20260409214215 +0000" channel="irinn">
+    <title>محل برگزاری نماز جمعه این هفته تهران</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260409200226 +0000" stop="20260409205450 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">3144</length>
+  </programme>
+  <programme start="20260409195924 +0000" stop="20260409200222 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خبر)</sub-title>
+    <length units="seconds">178</length>
+  </programme>
+  <programme start="20260409193238 +0000" stop="20260409195900 +0000" channel="irinn">
+    <title>20 فروردین 1405 - بخش 1</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">1582</length>
+  </programme>
+  <programme start="20260409192947 +0000" stop="20260409193231 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 19:30</sub-title>
+    <length units="seconds">164</length>
+  </programme>
+  <programme start="20260409191049 +0000" stop="20260409192656 +0000" channel="irinn">
+    <title>بررسی آخرین تحولات لبنان - 20 فروردین 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">968</length>
+  </programme>
+  <programme start="20260409185949 +0000" stop="20260409191045 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">656</length>
+  </programme>
+  <programme start="20260409183313 +0000" stop="20260409185011 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>روایت همدلی</sub-title>
+    <length units="seconds">1018</length>
+  </programme>
+  <programme start="20260409182956 +0000" stop="20260409183310 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 18:30 </sub-title>
+    <length units="seconds">194</length>
+  </programme>
+  <programme start="20260409181459 +0000" stop="20260409182953 +0000" channel="irinn">
+    <title>20 فروردین 1405 - بخش 16</title>
+    <sub-title>جنگ رمضان</sub-title>
+    <length units="seconds">894</length>
+  </programme>
+  <programme start="20260409181040 +0000" stop="20260409181458 +0000" channel="irinn">
+    <title>مراسم اربعین شهید قائد امت - 20 فروردین 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">258</length>
+  </programme>
+  <programme start="20260409175943 +0000" stop="20260409181037 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
+    <length units="seconds">654</length>
+  </programme>
+  <programme start="20260409175708 +0000" stop="20260409175935 +0000" channel="irinn">
+    <title>ارتباط زنده میناب - 20 فروردین 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">146</length>
+  </programme>
+  <programme start="20260409173941 +0000" stop="20260409175706 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>جنگ رمضان</sub-title>
+    <length units="seconds">1046</length>
+  </programme>
+  <programme start="20260409173312 +0000" stop="20260409173940 +0000" channel="irinn">
+    <title>مراسم اربعین شهید قائد امت - 20 فروردین 1405</title>
+    <sub-title>جنگ رمضان</sub-title>
+    <length units="seconds">388</length>
+  </programme>
+  <programme start="20260409172936 +0000" stop="20260409173308 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 17:30 (خبر)</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20260409171235 +0000" stop="20260409172932 +0000" channel="irinn">
+    <title>20 فروردین 1405 - بخش 14</title>
+    <sub-title>جنگ رمضان</sub-title>
+    <length units="seconds">1018</length>
+  </programme>
+  <programme start="20260409170910 +0000" stop="20260409171232 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">202</length>
+  </programme>
+  <programme start="20260409165941 +0000" stop="20260409170859 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
+    <length units="seconds">558</length>
+  </programme>
+  <programme start="20260409163532 +0000" stop="20260409165735 +0000" channel="irinn">
+    <title>20 فروردین 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1322</length>
+  </programme>
   <programme start="20260409162949 +0000" stop="20260409163306 +0000" channel="irinn">
     <title>20 فروردین 1405</title>
     <sub-title>اخبار ساعت 16:30 </sub-title>
@@ -385,109 +740,99 @@
     <sub-title>روی خط خبر</sub-title>
     <length units="seconds">444</length>
   </programme>
-  <programme start="20260409101050 +0000" stop="20260409102630 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>نگاهی به مطبوعات</sub-title>
-    <length units="seconds">940</length>
-  </programme>
-  <programme start="20260409095951 +0000" stop="20260409100927 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 10:00 </sub-title>
-    <length units="seconds">576</length>
-  </programme>
-  <programme start="20260409095256 +0000" stop="20260409095948 +0000" channel="irinn">
-    <title>هم اکنون ، مراسم گرامیداشت اربعین شهادت امام امت - 20 فروردین 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">412</length>
-  </programme>
-  <programme start="20260409093538 +0000" stop="20260409095253 +0000" channel="irinn">
-    <title>20 فروردین 1405 - بخش 4</title>
-    <sub-title>جنگ رمضان</sub-title>
-    <length units="seconds">1034</length>
-  </programme>
-  <programme start="20260409091508 +0000" stop="20260409093041 +0000" channel="irinn">
-    <title>20 فروردین 1405 - بخش 3</title>
-    <sub-title>جنگ رمضان</sub-title>
-    <length units="seconds">932</length>
-  </programme>
-  <programme start="20260409085939 +0000" stop="20260409091010 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
-    <length units="seconds">630</length>
-  </programme>
-  <programme start="20260409083427 +0000" stop="20260409085934 +0000" channel="irinn">
-    <title>20 فروردین 1405 - بخش 3</title>
-    <sub-title>جنگ رمضان</sub-title>
-    <length units="seconds">1508</length>
-  </programme>
-  <programme start="20260409080000 +0000" stop="20260409083025 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1826</length>
-  </programme>
-  <programme start="20260409071555 +0000" stop="20260409075917 +0000" channel="irinn">
-    <title>20 فروردین 1405 - بخش 1</title>
-    <sub-title>جنگ رمضان</sub-title>
-    <length units="seconds">2600</length>
-  </programme>
-  <programme start="20260409065945 +0000" stop="20260409071035 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">650</length>
-  </programme>
-  <programme start="20260409062928 +0000" stop="20260409064810 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">1122</length>
-  </programme>
-  <programme start="20260409060927 +0000" stop="20260409062547 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>روایت اقتدار</sub-title>
-    <length units="seconds">982</length>
-  </programme>
-  <programme start="20260409055946 +0000" stop="20260409060921 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">576</length>
-  </programme>
-  <programme start="20260409045945 +0000" stop="20260409050530 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">344</length>
-  </programme>
-  <programme start="20260409042835 +0000" stop="20260409044733 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">1138</length>
-  </programme>
-  <programme start="20260409041526 +0000" stop="20260409042653 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>با خبرنگاران</sub-title>
-    <length units="seconds">688</length>
-  </programme>
-  <programme start="20260409035630 +0000" stop="20260409041211 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">942</length>
-  </programme>
-  <programme start="20260409025946 +0000" stop="20260409030959 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">614</length>
-  </programme>
-  <programme start="20260409020102 +0000" stop="20260409021024 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">562</length>
-  </programme>
-  <programme start="20260409005954 +0000" stop="20260409011052 +0000" channel="irinn">
-    <title>20 فروردین 1405</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">656</length>
-  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260409222046 +0000" stop="20260409222627 +0000" channel="nasim">
+    <title>آقای عزیزم - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نسیم)</sub-title>
+    <length units="seconds">342</length>
+  </programme>
+  <programme start="20260409220406 +0000" stop="20260409222045 +0000" channel="nasim">
+    <title>20 فروردین 1405 - بخش 2</title>
+    <sub-title>قاب اقتدار</sub-title>
+    <length units="seconds">1000</length>
+  </programme>
+  <programme start="20260409200004 +0000" stop="20260409205452 +0000" channel="nasim">
+    <title>20 فروردین 1405</title>
+    <sub-title>نسیم آوا (جدید)</sub-title>
+    <length units="seconds">3286</length>
+  </programme>
+  <programme start="20260409195920 +0000" stop="20260409195957 +0000" channel="nasim">
+    <title>همرزم - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نسیم)</sub-title>
+    <length units="seconds">38</length>
+  </programme>
+  <programme start="20260409195419 +0000" stop="20260409195605 +0000" channel="nasim">
+    <title>رهبر شهید - 20 فروردین 1405</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">106</length>
+  </programme>
+  <programme start="20260409194936 +0000" stop="20260409195104 +0000" channel="nasim">
+    <title>20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نسیم)</sub-title>
+    <length units="seconds">90</length>
+  </programme>
+  <programme start="20260409194820 +0000" stop="20260409194935 +0000" channel="nasim">
+    <title>جهانی کاتور - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نسیم)</sub-title>
+    <length units="seconds">76</length>
+  </programme>
+  <programme start="20260409194737 +0000" stop="20260409194818 +0000" channel="nasim">
+    <title>تیزر پویش جان فدا - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نسیم)</sub-title>
+    <length units="seconds">40</length>
+  </programme>
+  <programme start="20260409194418 +0000" stop="20260409194735 +0000" channel="nasim">
+    <title>خلیج فارس - 20 فروردین 1405</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20260409194304 +0000" stop="20260409194417 +0000" channel="nasim">
+    <title>تصویرسازی تصویر رهبر شهید انقلاب به وسیله شمع - 20 فروردین 1405</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">72</length>
+  </programme>
+  <programme start="20260409191248 +0000" stop="20260409194240 +0000" channel="nasim">
+    <title>20 فروردین 1405</title>
+    <sub-title>ققنوس </sub-title>
+    <length units="seconds">1790</length>
+  </programme>
+  <programme start="20260409191113 +0000" stop="20260409191240 +0000" channel="nasim">
+    <title>بیچاره خواهید شد - 20 فروردین 1405</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">88</length>
+  </programme>
+  <programme start="20260409190214 +0000" stop="20260409190809 +0000" channel="nasim">
+    <title>دعای ناد علی (ع) - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20260409183426 +0000" stop="20260409184214 +0000" channel="nasim">
+    <title>کجایید ای شهیدان خدایی - 20 فروردین 1405</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260409183111 +0000" stop="20260409183423 +0000" channel="nasim">
+    <title>20 فروردین 1405</title>
+    <sub-title>با وطن</sub-title>
+    <length units="seconds">192</length>
+  </programme>
+  <programme start="20260409181147 +0000" stop="20260409183108 +0000" channel="nasim">
+    <title>20 فروردین 1405</title>
+    <sub-title>نمای نزدیک</sub-title>
+    <length units="seconds">1160</length>
+  </programme>
+  <programme start="20260409181058 +0000" stop="20260409181140 +0000" channel="nasim">
+    <title>ورود ممنو... - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نسیم)</sub-title>
+    <length units="seconds">40</length>
+  </programme>
+  <programme start="20260409155836 +0000" stop="20260409161610 +0000" channel="nasim">
+    <title>20 فروردین 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">1054</length>
+  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
@@ -507,6 +852,61 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260409191758 +0000" stop="20260409192357 +0000" channel="pooya">
+    <title>عزیزم مهدی - 20 فروردین 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">360</length>
+  </programme>
+  <programme start="20260409185504 +0000" stop="20260409190025 +0000" channel="pooya">
+    <title>آرزوی منی - 20 فروردین 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">320</length>
+  </programme>
+  <programme start="20260409184608 +0000" stop="20260409184743 +0000" channel="pooya">
+    <title>20 فروردین 1405</title>
+    <sub-title>حکمت ستاره ها</sub-title>
+    <length units="seconds">96</length>
+  </programme>
+  <programme start="20260409184148 +0000" stop="20260409184507 +0000" channel="pooya">
+    <title>نوری در جانم - 20 فروردین 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260409183628 +0000" stop="20260409184145 +0000" channel="pooya">
+    <title>20 فروردین 1405</title>
+    <sub-title>ماجراهای نوید </sub-title>
+    <length units="seconds">318</length>
+  </programme>
+  <programme start="20260409182729 +0000" stop="20260409183148 +0000" channel="pooya">
+    <title>همیشه مظلوم - 20 فروردین 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">258</length>
+  </programme>
+  <programme start="20260409180018 +0000" stop="20260409182614 +0000" channel="pooya">
+    <title>20 فروردین 1405</title>
+    <sub-title>عروسک خونه</sub-title>
+    <length units="seconds">1556</length>
+  </programme>
+  <programme start="20260409175557 +0000" stop="20260409175849 +0000" channel="pooya">
+    <title>نهال من - 20 فروردین 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">172</length>
+  </programme>
+  <programme start="20260409172700 +0000" stop="20260409173105 +0000" channel="pooya">
+    <title>20 فروردین 1405</title>
+    <sub-title>جشن فرشته ها ۱۴۰۵</sub-title>
+    <length units="seconds">246</length>
+  </programme>
+  <programme start="20260409170145 +0000" stop="20260409172632 +0000" channel="pooya">
+    <title>قسمت 6</title>
+    <sub-title>شهر موشکی</sub-title>
+    <length units="seconds">1486</length>
+  </programme>
+  <programme start="20260409165640 +0000" stop="20260409170104 +0000" channel="pooya">
+    <title>پسراتو ببین - 20 فروردین 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">264</length>
+  </programme>
   <programme start="20260409160213 +0000" stop="20260409163337 +0000" channel="pooya">
     <title>قسمت 15</title>
     <sub-title>کارآگاهان کوچک</sub-title>
@@ -650,12 +1050,72 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260409210038 +0000" stop="20260409214952 +0000" channel="ifilm">
+    <title>قسمت 18</title>
+    <sub-title>لحظه گرگ و میش </sub-title>
+    <length units="seconds">2620</length>
+  </programme>
+  <programme start="20260409200040 +0000" stop="20260409205319 +0000" channel="ifilm">
+    <title>قسمت پایانی</title>
+    <sub-title>مرز</sub-title>
+    <length units="seconds">2942</length>
+  </programme>
+  <programme start="20260409190424 +0000" stop="20260409195428 +0000" channel="ifilm">
+    <title>قسمت 34</title>
+    <sub-title>خانه امن </sub-title>
+    <length units="seconds">2742</length>
+  </programme>
+  <programme start="20260409180023 +0000" stop="20260409184257 +0000" channel="ifilm">
+    <title>قسمت 19</title>
+    <sub-title>در پناه تو</sub-title>
+    <length units="seconds">2362</length>
+  </programme>
+  <programme start="20260409170023 +0000" stop="20260409174223 +0000" channel="ifilm">
+    <title>قسمت 8</title>
+    <sub-title>نیکان</sub-title>
+    <length units="seconds">2350</length>
+  </programme>
+  <programme start="20260409160026 +0000" stop="20260409164853 +0000" channel="ifilm">
+    <title>قسمت 21</title>
+    <sub-title>وضعیت سفید</sub-title>
+    <length units="seconds">2570</length>
+  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260409221312 +0000" stop="20260409221500 +0000" channel="tehran">
+    <title>خلیج فارس - 20 فروردین 1405</title>
+    <sub-title>نماهنگ (شبکه تهران)</sub-title>
+    <length units="seconds">108</length>
+  </programme>
+  <programme start="20260409215559 +0000" stop="20260409221311 +0000" channel="tehran">
+    <title>سحر آبان - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">1033</length>
+  </programme>
+  <programme start="20260409200911 +0000" stop="20260409215111 +0000" channel="tehran">
+    <title>چهلم پدر امت - 20 فروردین 1405 - بخش 5</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">6120</length>
+  </programme>
+  <programme start="20260409195914 +0000" stop="20260409200910 +0000" channel="tehran">
+    <title>دعای توسل - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه تهران)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20260409191506 +0000" stop="20260409195913 +0000" channel="tehran">
+    <title>چهلم پدر امت - 20 فروردین 1405 - بخش 4</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">2647</length>
+  </programme>
+  <programme start="20260409160007 +0000" stop="20260409183350 +0000" channel="tehran">
+    <title>چهلم پدر امت - 20 فروردین 1405 - بخش 3</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">9223</length>
+  </programme>
   <programme start="20260409132924 +0000" stop="20260409153449 +0000" channel="tehran">
     <title>چهلم پدر امت - 20 فروردین 1405 - بخش 2</title>
     <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
@@ -689,6 +1149,41 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260409214859 +0000" stop="20260409223108 +0000" channel="mostanad">
+    <title>عاشق خمینی - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2528</length>
+  </programme>
+  <programme start="20260409210141 +0000" stop="20260409214258 +0000" channel="mostanad">
+    <title>20 فروردین 1405</title>
+    <sub-title>غیررسمی</sub-title>
+    <length units="seconds">2476</length>
+  </programme>
+  <programme start="20260409201723 +0000" stop="20260409205901 +0000" channel="mostanad">
+    <title>ایران شهر - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2498</length>
+  </programme>
+  <programme start="20260409191557 +0000" stop="20260409195837 +0000" channel="mostanad">
+    <title>این ستاره ها - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2560</length>
+  </programme>
+  <programme start="20260409180803 +0000" stop="20260409183418 +0000" channel="mostanad">
+    <title>قاب خاکی - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">1574</length>
+  </programme>
+  <programme start="20260409180145 +0000" stop="20260409180707 +0000" channel="mostanad">
+    <title>آن او - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">322</length>
+  </programme>
+  <programme start="20260409170007 +0000" stop="20260409180144 +0000" channel="mostanad">
+    <title>ضیاالدین - 20 فروردین 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (مستند)</sub-title>
+    <length units="seconds">3696</length>
+  </programme>
   <programme start="20260409155528 +0000" stop="20260409162750 +0000" channel="mostanad">
     <title>20 فروردین 1405</title>
     <sub-title>روایت فتح (مستند)</sub-title>
@@ -697,6 +1192,46 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260409212812 +0000" stop="20260409215930 +0000" channel="quran">
+    <title>دعای کمیل - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">1878</length>
+  </programme>
+  <programme start="20260409212049 +0000" stop="20260409212543 +0000" channel="quran">
+    <title>بعثت خون</title>
+    <sub-title>نماهنگ (قرآن)</sub-title>
+    <length units="seconds">294</length>
+  </programme>
+  <programme start="20260409200122 +0000" stop="20260409212048 +0000" channel="quran">
+    <title>ارتباط مستقیم با حرم مطهر امام رضا (ع) - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">4766</length>
+  </programme>
+  <programme start="20260409192353 +0000" stop="20260409200112 +0000" channel="quran">
+    <title>20 فروردین 1405</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">2238</length>
+  </programme>
+  <programme start="20260409183633 +0000" stop="20260409184530 +0000" channel="quran">
+    <title>آقای حامد شاکرنژاد - 20 فروردین 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">536</length>
+  </programme>
+  <programme start="20260409175705 +0000" stop="20260409183608 +0000" channel="quran">
+    <title>20 فروردین 1405</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">2342</length>
+  </programme>
+  <programme start="20260409171318 +0000" stop="20260409174854 +0000" channel="quran">
+    <title>ارتباط مستقیم با مسجد مقدس جمکران - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">2136</length>
+  </programme>
+  <programme start="20260409150835 +0000" stop="20260409170130 +0000" channel="quran">
+    <title>20 فروردین 1405</title>
+    <sub-title>عهد خون</sub-title>
+    <length units="seconds">6774</length>
+  </programme>
   <programme start="20260409140918 +0000" stop="20260409145100 +0000" channel="quran">
     <title>20 فروردین 1405</title>
     <sub-title>ایران ما (قرآن)</sub-title>
@@ -815,6 +1350,21 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260409201834 +0000" stop="20260409205953 +0000" channel="amouzesh">
+    <title>غیر رسمی - 20 فروردین 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (آموزش)</sub-title>
+    <length units="seconds">2477</length>
+  </programme>
+  <programme start="20260409191807 +0000" stop="20260409200016 +0000" channel="amouzesh">
+    <title>عاشق خمینی - 20 فروردین 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (آموزش)</sub-title>
+    <length units="seconds">2529</length>
+  </programme>
+  <programme start="20260409181325 +0000" stop="20260409183537 +0000" channel="amouzesh">
+    <title>مراسم اربعین شهادت امام امت - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰۵</sub-title>
+    <length units="seconds">1321</length>
+  </programme>
   <programme start="20260409152636 +0000" stop="20260409155954 +0000" channel="amouzesh">
     <title>مراسم اربعین امام امت - 20 فروردین 1405</title>
     <sub-title>ویژه برنامه های ۱۴۰۵</sub-title>
@@ -868,6 +1418,31 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260409211348 +0000" stop="20260409215953 +0000" channel="salamat">
+    <title>20 فروردین 1405</title>
+    <sub-title>سپهر سلامت</sub-title>
+    <length units="seconds">2765</length>
+  </programme>
+  <programme start="20260409202152 +0000" stop="20260409205535 +0000" channel="salamat">
+    <title>20 فروردین 1405</title>
+    <sub-title>استدیو سلامت</sub-title>
+    <length units="seconds">2023</length>
+  </programme>
+  <programme start="20260409200002 +0000" stop="20260409201557 +0000" channel="salamat">
+    <title>دعای توسل - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (سلامت)</sub-title>
+    <length units="seconds">955</length>
+  </programme>
+  <programme start="20260409192008 +0000" stop="20260409195300 +0000" channel="salamat">
+    <title>دکتر مصطفی قانعی - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (سلامت)</sub-title>
+    <length units="seconds">1971</length>
+  </programme>
+  <programme start="20260409165732 +0000" stop="20260409173325 +0000" channel="salamat">
+    <title>20 فروردین 1405</title>
+    <sub-title>شمسا</sub-title>
+    <length units="seconds">2154</length>
+  </programme>
   <programme start="20260409133024 +0000" stop="20260409140811 +0000" channel="salamat">
     <title>20 فروردین 1405</title>
     <sub-title>مثبت سلامت ۱۴۰5</sub-title>
@@ -900,6 +1475,46 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260409213615 +0000" stop="20260409215336 +0000" channel="ofogh">
+    <title>20 فروردین 1405 </title>
+    <sub-title>سروستان </sub-title>
+    <length units="seconds">1040</length>
+  </programme>
+  <programme start="20260409211900 +0000" stop="20260409213136 +0000" channel="ofogh">
+    <title>20 فروردین 1405 </title>
+    <sub-title>روزهای زندگی</sub-title>
+    <length units="seconds">756</length>
+  </programme>
+  <programme start="20260409210829 +0000" stop="20260409211858 +0000" channel="ofogh">
+    <title>از قلب ایران - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">628</length>
+  </programme>
+  <programme start="20260409204442 +0000" stop="20260409205953 +0000" channel="ofogh">
+    <title>20 فروردین 1405 </title>
+    <sub-title>کارزار</sub-title>
+    <length units="seconds">912</length>
+  </programme>
+  <programme start="20260409201519 +0000" stop="20260409202711 +0000" channel="ofogh">
+    <title>دعای توسل - 20 فروردین 1405 </title>
+    <sub-title>ادعیه و زیارت (افق)</sub-title>
+    <length units="seconds">712</length>
+  </programme>
+  <programme start="20260409190354 +0000" stop="20260409201500 +0000" channel="ofogh">
+    <title>20 فروردین 1405  - بخش 5</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">4266</length>
+  </programme>
+  <programme start="20260409180731 +0000" stop="20260409185018 +0000" channel="ofogh">
+    <title>20 فروردین 1405  - بخش 4</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">2566</length>
+  </programme>
+  <programme start="20260409153708 +0000" stop="20260409174942 +0000" channel="ofogh">
+    <title>20 فروردین 1405 - بخش 3</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">7954</length>
+  </programme>
   <programme start="20260409150937 +0000" stop="20260409152643 +0000" channel="ofogh">
     <title>ایران وتن - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (افق)</sub-title>
@@ -928,6 +1543,36 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260409201710 +0000" stop="20260409210012 +0000" channel="omid">
+    <title>20 فروردین 1405  - بخش 7</title>
+    <sub-title>اشاره (امید)</sub-title>
+    <length units="seconds">2580</length>
+  </programme>
+  <programme start="20260409200010 +0000" stop="20260409201234 +0000" channel="omid">
+    <title>دعای توسل - 20 فروردین 1405 </title>
+    <sub-title>ادعیه و زیارت (امید)</sub-title>
+    <length units="seconds">745</length>
+  </programme>
+  <programme start="20260409193400 +0000" stop="20260409200007 +0000" channel="omid">
+    <title>20 فروردین 1405  - بخش 6</title>
+    <sub-title>اشاره (امید)</sub-title>
+    <length units="seconds">1566</length>
+  </programme>
+  <programme start="20260409191518 +0000" stop="20260409193430 +0000" channel="omid">
+    <title>قسمت 6</title>
+    <sub-title>کشتی گیران</sub-title>
+    <length units="seconds">1151</length>
+  </programme>
+  <programme start="20260409175705 +0000" stop="20260409184416 +0000" channel="omid">
+    <title>غیر رسمی - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (امید)</sub-title>
+    <length units="seconds">2830</length>
+  </programme>
+  <programme start="20260409163009 +0000" stop="20260409175548 +0000" channel="omid">
+    <title>20 فروردین 1405 - بخش 4</title>
+    <sub-title>اشاره (امید)</sub-title>
+    <length units="seconds">5138</length>
+  </programme>
   <programme start="20260409141724 +0000" stop="20260409155150 +0000" channel="omid">
     <title>20 فروردین 1405 - بخش 3</title>
     <sub-title>اشاره (امید)</sub-title>
@@ -951,6 +1596,21 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260409210416 +0000" stop="20260409212521 +0000" channel="irinn2">
+    <title>پیام رهبر انقلاب به مناسبت چهلم شهادت امام امت و مسائل مهم روز - 20 فروردین 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1266</length>
+  </programme>
+  <programme start="20260409195350 +0000" stop="20260409210000 +0000" channel="irinn2">
+    <title>مراسم بیعت با رهبر شهید - 20 فروردین 1405 - بخش 6</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3968</length>
+  </programme>
+  <programme start="20260409163000 +0000" stop="20260409185230 +0000" channel="irinn2">
+    <title>مراسم بیعت با رهبر شهید - 20 فروردین 1405 - بخش 5</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">8542</length>
+  </programme>
   <programme start="20260409142000 +0000" stop="20260409162900 +0000" channel="irinn2">
     <title>مراسم بیعت با رهبر شهید - 20 فروردین 1405 - بخش 4</title>
     <sub-title>گزارش خبری </sub-title>
@@ -974,6 +1634,26 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20260409203206 +0000" stop="20260409210242 +0000" channel="azarbayjangharbi">
+    <title>20 فروردین 1405 </title>
+    <sub-title>زاویه</sub-title>
+    <length units="seconds">1836</length>
+  </programme>
+  <programme start="20260409200016 +0000" stop="20260409202642 +0000" channel="azarbayjangharbi">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 20:00 (آذربایجان غربی)</sub-title>
+    <length units="seconds">1586</length>
+  </programme>
+  <programme start="20260409180051 +0000" stop="20260409190001 +0000" channel="azarbayjangharbi">
+    <title>رهبر شهید - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">3536</length>
+  </programme>
+  <programme start="20260409172420 +0000" stop="20260409175910 +0000" channel="azarbayjangharbi">
+    <title>پدر امت - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">2090</length>
+  </programme>
   <programme start="20260409090149 +0000" stop="20260409115300 +0000" channel="azarbayjangharbi">
     <title>رهبر شهید - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
@@ -1037,6 +1717,21 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260409193001 +0000" stop="20260409195323 +0000" channel="sahand">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1401</length>
+  </programme>
+  <programme start="20260409182213 +0000" stop="20260409185809 +0000" channel="sahand">
+    <title>20 فروردین 1405  </title>
+    <sub-title>کندیمیز (سهند)</sub-title>
+    <length units="seconds">2155</length>
+  </programme>
+  <programme start="20260409150953 +0000" stop="20260409171900 +0000" channel="sahand">
+    <title>20 فروردین 1405 - بخش 3</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">7744</length>
+  </programme>
   <programme start="20260409101037 +0000" stop="20260409121520 +0000" channel="sahand">
     <title>20 فروردین 1405 - بخش 2</title>
     <sub-title>ایرانیم (سهند)</sub-title>
@@ -1090,6 +1785,26 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260409200002 +0000" stop="20260409203250 +0000" channel="alborz">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20:00 (البرز)</sub-title>
+    <length units="seconds">1968</length>
+  </programme>
+  <programme start="20260409191218 +0000" stop="20260409195650 +0000" channel="alborz">
+    <title>20 فروردین 1405</title>
+    <sub-title>نگاه مردم (البرز)</sub-title>
+    <length units="seconds">2671</length>
+  </programme>
+  <programme start="20260409190600 +0000" stop="20260409191215 +0000" channel="alborz">
+    <title>20 فروردین 1405</title>
+    <sub-title>سین هشتم</sub-title>
+    <length units="seconds">374</length>
+  </programme>
+  <programme start="20260409170720 +0000" stop="20260409185000 +0000" channel="alborz">
+    <title>20 فروردین 1405</title>
+    <sub-title>سین هشتم</sub-title>
+    <length units="seconds">6160</length>
+  </programme>
   <programme start="20260409102750 +0000" stop="20260409135832 +0000" channel="alborz">
     <title>ویژه برنامه بعثت خون - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (البرز)</sub-title>
@@ -1103,6 +1818,36 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260409203900 +0000" stop="20260409205431 +0000" channel="esfahan">
+    <title>20 فروردین 1405</title>
+    <sub-title>روایت خدمت</sub-title>
+    <length units="seconds">931</length>
+  </programme>
+  <programme start="20260409200008 +0000" stop="20260409203856 +0000" channel="esfahan">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
+    <length units="seconds">2328</length>
+  </programme>
+  <programme start="20260409195545 +0000" stop="20260409195942 +0000" channel="esfahan">
+    <title>ساعت صفر - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">235</length>
+  </programme>
+  <programme start="20260409172220 +0000" stop="20260409175701 +0000" channel="esfahan">
+    <title>آن یار سفر کرده - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">2080</length>
+  </programme>
+  <programme start="20260409161305 +0000" stop="20260409172214 +0000" channel="esfahan">
+    <title>مراسم چهلمین روز شهادت امام امت - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">4149</length>
+  </programme>
+  <programme start="20260409141525 +0000" stop="20260409155900 +0000" channel="esfahan">
+    <title>چله فتح - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">6216</length>
+  </programme>
   <programme start="20260409123253 +0000" stop="20260409130348 +0000" channel="esfahan">
     <title>20 فروردین 1405</title>
     <sub-title>درس هایی از نهج البلاغه</sub-title>
@@ -1121,12 +1866,72 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260409060551 +0000" stop="20260409063305 +0000" channel="sabalan">
+    <title>وتنهاوطن - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">1634</length>
+  </programme>
+  <programme start="20260409053929 +0000" stop="20260409055428 +0000" channel="sabalan">
+    <title>سیاحت غرب - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">897</length>
+  </programme>
+  <programme start="20260409052140 +0000" stop="20260409053928 +0000" channel="sabalan">
+    <title>20 فروردین 1405</title>
+    <sub-title>جهان گرد (سبلان)</sub-title>
+    <length units="seconds">1068</length>
+  </programme>
+  <programme start="20260409044753 +0000" stop="20260409052134 +0000" channel="sabalan">
+    <title>درس هایی از نهج البلاغه - 20 فروردین 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">2020</length>
+  </programme>
+  <programme start="20260409043745 +0000" stop="20260409044630 +0000" channel="sabalan">
+    <title>دعای عهد - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
+    <length units="seconds">525</length>
+  </programme>
+  <programme start="20260409040320 +0000" stop="20260409041159 +0000" channel="sabalan">
+    <title>زیارت آل یاسین - 20 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
+    <length units="seconds">518</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260409125205 +0000" stop="20260409125615 +0000" channel="bushehr">
+    <title>در تیررس -20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">249</length>
+  </programme>
+  <programme start="20260409101333 +0000" stop="20260409111915 +0000" channel="bushehr">
+    <title>مراسم گرامیداشت چهلم امام شهید امت - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های 1405</sub-title>
+    <length units="seconds">3940</length>
+  </programme>
+  <programme start="20260409092750 +0000" stop="20260409101330 +0000" channel="bushehr">
+    <title>20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">2738</length>
+  </programme>
+  <programme start="20260409080249 +0000" stop="20260409084710 +0000" channel="bushehr">
+    <title>رهنما - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">2661</length>
+  </programme>
+  <programme start="20260409060809 +0000" stop="20260409064356 +0000" channel="bushehr">
+    <title>صهبای تسنیم - 20 فروردین 1405</title>
+    <sub-title>برنامه مذهبی (بوشهر)</sub-title>
+    <length units="seconds">2145</length>
+  </programme>
+  <programme start="20260409024119 +0000" stop="20260409034121 +0000" channel="bushehr">
+    <title>20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">3602</length>
+  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
@@ -1176,6 +1981,36 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260409203042 +0000" stop="20260409212121 +0000" channel="khorasanrazavi">
+    <title>آیت الله مروی - 20 فروردین 1405</title>
+    <sub-title>سخنرانی (خراسان رضوی)</sub-title>
+    <length units="seconds">3040</length>
+  </programme>
+  <programme start="20260409195937 +0000" stop="20260409203024 +0000" channel="khorasanrazavi">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20</sub-title>
+    <length units="seconds">1845</length>
+  </programme>
+  <programme start="20260409183923 +0000" stop="20260409195631 +0000" channel="khorasanrazavi">
+    <title>20 فروردین 1405</title>
+    <sub-title>فرکانس</sub-title>
+    <length units="seconds">4627</length>
+  </programme>
+  <programme start="20260409162513 +0000" stop="20260409174355 +0000" channel="khorasanrazavi">
+    <title>20 فروردین 1405 - بخش 2</title>
+    <sub-title>ملت بیدارتر (خراسان رضوی)</sub-title>
+    <length units="seconds">4720</length>
+  </programme>
+  <programme start="20260409155954 +0000" stop="20260409162458 +0000" channel="khorasanrazavi">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خراسان رضوی)</sub-title>
+    <length units="seconds">1504</length>
+  </programme>
+  <programme start="20260409150115 +0000" stop="20260409155923 +0000" channel="khorasanrazavi">
+    <title>20 فروردین 1405 - بخش 1</title>
+    <sub-title>ملت بیدارتر (خراسان رضوی)</sub-title>
+    <length units="seconds">3487</length>
+  </programme>
   <programme start="20260409120139 +0000" stop="20260409130030 +0000" channel="khorasanrazavi">
     <title>20 فروردین 1405</title>
     <sub-title>تا آسمان (خراسان رضوی)</sub-title>
@@ -1199,6 +2034,21 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260409202619 +0000" stop="20260409205839 +0000" channel="atrak">
+    <title>مراسم خون خواهی و گرامیداشت اربعین شهادت امام امت - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1940</length>
+  </programme>
+  <programme start="20260409200010 +0000" stop="20260409202612 +0000" channel="atrak">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
+    <length units="seconds">1562</length>
+  </programme>
+  <programme start="20260409174800 +0000" stop="20260409182003 +0000" channel="atrak">
+    <title>مراسم خون خواهی و گرامیداشت اربعین شهادت امام امت - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1923</length>
+  </programme>
   <programme start="20260409123049 +0000" stop="20260409131444 +0000" channel="atrak">
     <title>مراسم خون خواهی و گرامیداشت اربعین شهادت امام امت - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (اترک)</sub-title>
@@ -1237,6 +2087,21 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260409195948 +0000" stop="20260409202839 +0000" channel="khalijefars">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 20:00 (خلیج فارس)</sub-title>
+    <length units="seconds">1732</length>
+  </programme>
+  <programme start="20260409190809 +0000" stop="20260409195650 +0000" channel="khalijefars">
+    <title>مراسم چهلم رهبر شهید - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">2920</length>
+  </programme>
+  <programme start="20260409164457 +0000" stop="20260409170520 +0000" channel="khalijefars">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت ۱۶:۴۵ (خلیج فارس)</sub-title>
+    <length units="seconds">1224</length>
+  </programme>
   <programme start="20260409092157 +0000" stop="20260409112330 +0000" channel="khalijefars">
     <title>مراسم عزاداری رهبر شهید - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
@@ -1280,6 +2145,26 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260409195859 +0000" stop="20260409210220 +0000" channel="khoozestan">
+    <title>20 فروردین 1405 </title>
+    <sub-title>ملت بیدارتر (خوزستان )</sub-title>
+    <length units="seconds">3801</length>
+  </programme>
+  <programme start="20260409191022 +0000" stop="20260409195857 +0000" channel="khoozestan">
+    <title>20 فروردین 1405 </title>
+    <sub-title>مراحب</sub-title>
+    <length units="seconds">2812</length>
+  </programme>
+  <programme start="20260409183002 +0000" stop="20260409184409 +0000" channel="khoozestan">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 18:30 (خوزستان)</sub-title>
+    <length units="seconds">844</length>
+  </programme>
+  <programme start="20260409170004 +0000" stop="20260409172327 +0000" channel="khoozestan">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 17:00 (خوزستان)</sub-title>
+    <length units="seconds">1404</length>
+  </programme>
   <programme start="20260409110235 +0000" stop="20260409120821 +0000" channel="khoozestan">
     <title>20 فروردین 1405 - بخش 1</title>
     <sub-title>مردم قهرمان (خوزستان)</sub-title>
@@ -1367,6 +2252,26 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260409195950 +0000" stop="20260409204200 +0000" channel="fars">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">2529</length>
+  </programme>
+  <programme start="20260409192704 +0000" stop="20260409195935 +0000" channel="fars">
+    <title>مراسم اربعین شهادت قائد امت - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">1948</length>
+  </programme>
+  <programme start="20260409184438 +0000" stop="20260409185700 +0000" channel="fars">
+    <title>ارتباط مستقیم با حرم مطهر - 20 فروردین 1405</title>
+    <sub-title>برنامه مذهبی (فارس)</sub-title>
+    <length units="seconds">741</length>
+  </programme>
+  <programme start="20260409162000 +0000" stop="20260409173400 +0000" channel="fars">
+    <title>مراسم تشییع پیکر شهید خادمی - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">4440</length>
+  </programme>
   <programme start="20260409111333 +0000" stop="20260409115522 +0000" channel="fars">
     <title>20 فروردین 1405</title>
     <sub-title>نسیم حرم (فارس)</sub-title>
@@ -1388,6 +2293,31 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260409203353 +0000" stop="20260409211430 +0000" channel="noor">
+    <title>20 فروردین 1405</title>
+    <sub-title>ایستاده ایم </sub-title>
+    <length units="seconds">2436</length>
+  </programme>
+  <programme start="20260409200020 +0000" stop="20260409202923 +0000" channel="noor">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1742</length>
+  </programme>
+  <programme start="20260409184200 +0000" stop="20260409191230 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - 20 فروردین 1405</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">1828</length>
+  </programme>
+  <programme start="20260409181529 +0000" stop="20260409182235 +0000" channel="noor">
+    <title>20 فروردین 1405</title>
+    <sub-title>مسجد ما</sub-title>
+    <length units="seconds">424</length>
+  </programme>
+  <programme start="20260409171350 +0000" stop="20260409181355 +0000" channel="noor">
+    <title>ویژه برنامه چهلمین روز شهادت قائد امت - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">3604</length>
+  </programme>
   <programme start="20260409124323 +0000" stop="20260409134726 +0000" channel="noor">
     <title>ارتباط مستقیم با حرم مطهر حضرت معصومه (س) - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (نور)</sub-title>
@@ -1437,6 +2367,16 @@
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260409193222 +0000" stop="20260409201050 +0000" channel="zagros">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 19:30 (زاگرس)</sub-title>
+    <length units="seconds">2308</length>
+  </programme>
+  <programme start="20260409160142 +0000" stop="20260409171322 +0000" channel="zagros">
+    <title>بعثت خون  بخش 2 - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">4300</length>
+  </programme>
   <programme start="20260409101004 +0000" stop="20260409115857 +0000" channel="zagros">
     <title>مراسم بیعت با رهبر شهید - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
@@ -1483,6 +2423,11 @@
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
+  <programme start="20260409164501 +0000" stop="20260409170549 +0000" channel="kish">
+    <title>20 فروردین 1405</title>
+    <sub-title>خبر مشروح کیش</sub-title>
+    <length units="seconds">1238</length>
+  </programme>
   <programme start="20260409141927 +0000" stop="20260409143510 +0000" channel="kish">
     <title>آرمان حضور - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (کیش)</sub-title>
@@ -1557,6 +2502,51 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260409212948 +0000" stop="20260409215725 +0000" channel="kordestan">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 21:30 (کردستان)</sub-title>
+    <length units="seconds">1656</length>
+  </programme>
+  <programme start="20260409202402 +0000" stop="20260409212909 +0000" channel="kordestan">
+    <title>اجتماع عزاداران اربعین قائد شهید امت - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">3907</length>
+  </programme>
+  <programme start="20260409195300 +0000" stop="20260409202400 +0000" channel="kordestan">
+    <title>مردم در میدان - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">1860</length>
+  </programme>
+  <programme start="20260409191921 +0000" stop="20260409195257 +0000" channel="kordestan">
+    <title>آبیدر - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">2016</length>
+  </programme>
+  <programme start="20260409184538 +0000" stop="20260409191900 +0000" channel="kordestan">
+    <title>مردم در میدان - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">2001</length>
+  </programme>
+  <programme start="20260409174221 +0000" stop="20260409181145 +0000" channel="kordestan">
+    <title>20 فروردین 1405</title>
+    <sub-title>سلاو ئاویه ر</sub-title>
+    <length units="seconds">1764</length>
+  </programme>
+  <programme start="20260409162430 +0000" stop="20260409162925 +0000" channel="kordestan">
+    <title>محفل شعر به یاد رهبر شهید - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">295</length>
+  </programme>
+  <programme start="20260409154226 +0000" stop="20260409154415 +0000" channel="kordestan">
+    <title>مردم در میدان - 20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">108</length>
+  </programme>
+  <programme start="20260409151107 +0000" stop="20260409153430 +0000" channel="kordestan">
+    <title>20 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">1401</length>
+  </programme>
   <programme start="20260409111555 +0000" stop="20260409114305 +0000" channel="kordestan">
     <title>روستای دلبران - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (کردستان)</sub-title>
@@ -1618,6 +2608,16 @@
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260409200002 +0000" stop="20260409203240 +0000" channel="tabarestan">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 20:00 (تبرستان)</sub-title>
+    <length units="seconds">2011</length>
+  </programme>
+  <programme start="20260409185824 +0000" stop="20260409195800 +0000" channel="tabarestan">
+    <title>20 فروردین 1405  - بخش 2</title>
+    <sub-title>بهارون (تبرستان)</sub-title>
+    <length units="seconds">3596</length>
+  </programme>
   <programme start="20260409110002 +0000" stop="20260409111551 +0000" channel="tabarestan">
     <title>20 فروردین 1405</title>
     <sub-title>اخبار ساعت 11:00 (تبرستان)</sub-title>
@@ -1676,6 +2676,21 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260409195959 +0000" stop="20260409204500 +0000" channel="aftab">
+    <title>20 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 20:00 (آفتاب)</sub-title>
+    <length units="seconds">2701</length>
+  </programme>
+  <programme start="20260409173835 +0000" stop="20260409184416 +0000" channel="aftab">
+    <title>20 فروردین 1405  - بخش 2</title>
+    <sub-title>ایران سرای امید</sub-title>
+    <length units="seconds">3941</length>
+  </programme>
+  <programme start="20260409150831 +0000" stop="20260409170608 +0000" channel="aftab">
+    <title>مراسم چهلم رهبر شهید - 20 فروردین 1405 </title>
+    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
+    <length units="seconds">7057</length>
+  </programme>
   <programme start="20260409102615 +0000" stop="20260409120500 +0000" channel="aftab">
     <title>مراسم بیعت با رهبر شهید  - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
@@ -1714,6 +2729,21 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260409195931 +0000" stop="20260409202015 +0000" channel="mahabad">
+    <title>20 فروردین 1405</title>
+    <sub-title>در شهر (مهاباد)</sub-title>
+    <length units="seconds">1243</length>
+  </programme>
+  <programme start="20260409192927 +0000" stop="20260409195920 +0000" channel="mahabad">
+    <title>20 فروردین 1405</title>
+    <sub-title>اخبار ساعت 19:30 (مهاباد)</sub-title>
+    <length units="seconds">1792</length>
+  </programme>
+  <programme start="20260409164022 +0000" stop="20260409170900 +0000" channel="mahabad">
+    <title>20 فروردین 1405</title>
+    <sub-title>نه مامی نوژین (مهاباد)</sub-title>
+    <length units="seconds">1716</length>
+  </programme>
   <programme start="20260409111034 +0000" stop="20260409120040 +0000" channel="mahabad">
     <title>ویژه برنامه اربعین رهبر شهید - 20 فروردین 1405 - بخش 2</title>
     <sub-title>برنامه اجتماعی (مهاباد)</sub-title>
@@ -1727,6 +2757,11 @@
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20260409110444 +0000" stop="20260409120952 +0000" channel="sina">
+    <title>اربعین امام شهید بخش 2 - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های 1405</sub-title>
+    <length units="seconds">3907</length>
+  </programme>
   <programme start="20260409101909 +0000" stop="20260409110442 +0000" channel="sina">
     <title>مراسم اربعین امام شهید - 20 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (همدان)</sub-title>
@@ -1735,6 +2770,36 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260409115849 +0000" stop="20260409121105 +0000" channel="khavaran">
+    <title>روایت حضور - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">736</length>
+  </programme>
+  <programme start="20260409111733 +0000" stop="20260409113626 +0000" channel="khavaran">
+    <title>اربعین قائد - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">1135</length>
+  </programme>
+  <programme start="20260409104312 +0000" stop="20260409111733 +0000" channel="khavaran">
+    <title>گرامیداشت چهلمین روز شهادت رهبر شهید - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2059</length>
+  </programme>
+  <programme start="20260409100853 +0000" stop="20260409104309 +0000" channel="khavaran">
+    <title>اربعین قائد - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2054</length>
+  </programme>
+  <programme start="20260409095640 +0000" stop="20260409100853 +0000" channel="khavaran">
+    <title>مراسم چهلمین روز شهادت رهبر شهید - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">734</length>
+  </programme>
+  <programme start="20260409081935 +0000" stop="20260409095640 +0000" channel="khavaran">
+    <title>اربعین قائد - 20 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">5824</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
