@@ -3,18 +3,262 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260418084706 +0000" stop="20260418085045 +0000" channel="tv1">
+    <title>29 فروردین 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20260418084303 +0000" stop="20260418084605 +0000" channel="tv1">
+    <title>29 فروردین 1405</title>
+    <sub-title>راه</sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20260418084229 +0000" stop="20260418084300 +0000" channel="tv1">
+    <title>29 فروردین 1405</title>
+    <sub-title>تیتر یک </sub-title>
+    <length units="seconds">32</length>
+  </programme>
+  <programme start="20260418080000 +0000" stop="20260418082804 +0000" channel="tv1">
+    <title>29 فروردین 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1684</length>
+  </programme>
+  <programme start="20260418060300 +0000" stop="20260418075410 +0000" channel="tv1">
+    <title>29 فروردین 1405</title>
+    <sub-title>صبح بخیر ایران 1405</sub-title>
+    <length units="seconds">6670</length>
+  </programme>
+  <programme start="20260418010723 +0000" stop="20260418013658 +0000" channel="tv1">
+    <title>29 فروردین 1405</title>
+    <sub-title>فراز</sub-title>
+    <length units="seconds">1776</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260418082142 +0000" stop="20260418082310 +0000" channel="tv2">
+    <title>مسئولان عزیز، با مردم صحبت کنید!</title>
+    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
+    <length units="seconds">88</length>
+  </programme>
+  <programme start="20260418081810 +0000" stop="20260418082142 +0000" channel="tv2">
+    <title>ماجرای یک خبر درباره بازگشایی تنگه هرمز!</title>
+    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20260418080014 +0000" stop="20260418100005 +0000" channel="tv2">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
+    <length units="seconds">7008</length>
+  </programme>
+  <programme start="20260418073700 +0000" stop="20260418075625 +0000" channel="tv2">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1166</length>
+  </programme>
+  <programme start="20260418070824 +0000" stop="20260418072339 +0000" channel="tv2">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">916</length>
+  </programme>
+  <programme start="20260418064533 +0000" stop="20260418070532 +0000" channel="tv2">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>قاب اقتدار </sub-title>
+    <length units="seconds">1198</length>
+  </programme>
+  <programme start="20260418060135 +0000" stop="20260418060255 +0000" channel="tv2">
+    <title>محمود حبیبی کسبی - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ایران سرا</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20260418055642 +0000" stop="20260418060133 +0000" channel="tv2">
+    <title>قسمت ۱۰ </title>
+    <sub-title>مسافری از ژاپن </sub-title>
+    <length units="seconds">292</length>
+  </programme>
+  <programme start="20260418052111 +0000" stop="20260418053210 +0000" channel="tv2">
+    <title>ناوگروه ایران با پرچم داری و دنا -  ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">658</length>
+  </programme>
+  <programme start="20260418042027 +0000" stop="20260418042241 +0000" channel="tv2">
+    <title>حجت الاسلام بی آزار طهرانی -  ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>جان کلام (شبکه ۲)</sub-title>
+    <length units="seconds">134</length>
+  </programme>
+  <programme start="20260418035515 +0000" stop="20260418035615 +0000" channel="tv2">
+    <title> ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>جرعه</sub-title>
+    <length units="seconds">60</length>
+  </programme>
+  <programme start="20260418025305 +0000" stop="20260418030513 +0000" channel="tv2">
+    <title>امت مبعوث -  ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">728</length>
+  </programme>
+  <programme start="20260418024323 +0000" stop="20260418025300 +0000" channel="tv2">
+    <title>رهبر شهید -  ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">576</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260418094833 +0000" stop="20260418095039 +0000" channel="tv3">
+    <title>از افتخار سقایی تا اوج شهادت - 29 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">126</length>
+  </programme>
+  <programme start="20260418094443 +0000" stop="20260418094830 +0000" channel="tv3">
+    <title>خلیج تا ابد فارس - 29 فروردین 1405</title>
+    <sub-title>نماهنگ (شبکه 3)</sub-title>
+    <length units="seconds">226</length>
+  </programme>
+  <programme start="20260418080205 +0000" stop="20260418093327 +0000" channel="tv3">
+    <title>29 فروردین 1405</title>
+    <sub-title>سلام صبح بخیر 1405</sub-title>
+    <length units="seconds">5482</length>
+  </programme>
+  <programme start="20260418065435 +0000" stop="20260418075017 +0000" channel="tv3">
+    <title>29 فروردین 1405</title>
+    <sub-title>ایران ما (شبکه ۳)</sub-title>
+    <length units="seconds">3342</length>
+  </programme>
+  <programme start="20260418061111 +0000" stop="20260418064622 +0000" channel="tv3">
+    <title>29 فروردین 1405</title>
+    <sub-title>حدیث نور</sub-title>
+    <length units="seconds">2110</length>
+  </programme>
+  <programme start="20260418060116 +0000" stop="20260418061106 +0000" channel="tv3">
+    <title>29 فروردین 1405</title>
+    <sub-title>دعای عهد (شبکه ۳)</sub-title>
+    <length units="seconds">590</length>
+  </programme>
+  <programme start="20260418045956 +0000" stop="20260418051242 +0000" channel="tv3">
+    <title>ارگ راین - 29 فروردین 1405</title>
+    <sub-title>وطن من</sub-title>
+    <length units="seconds">764</length>
+  </programme>
+  <programme start="20260418035200 +0000" stop="20260418042009 +0000" channel="tv3">
+    <title>29 فروردین 1405 - بخش 1</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1690</length>
+  </programme>
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260418080325 +0000" stop="20260418085334 +0000" channel="tv4">
+    <title>دکتر الهی قمشه ای - 29 فروردین 1405</title>
+    <sub-title>سخنرانی (شبکه 4)</sub-title>
+    <length units="seconds">3009</length>
+  </programme>
+  <programme start="20260418065840 +0000" stop="20260418080038 +0000" channel="tv4">
+    <title>29 فروردین 1405</title>
+    <sub-title>نغمه ها</sub-title>
+    <length units="seconds">3718</length>
+  </programme>
+  <programme start="20260418061332 +0000" stop="20260418064655 +0000" channel="tv4">
+    <title>29 فروردین 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">2001</length>
+  </programme>
+  <programme start="20260418060237 +0000" stop="20260418061125 +0000" channel="tv4">
+    <title>29 فروردین 1405</title>
+    <sub-title>دعای عهد (شبکه ۴)</sub-title>
+    <length units="seconds">528</length>
+  </programme>
+  <programme start="20260418060112 +0000" stop="20260418060234 +0000" channel="tv4">
+    <title>29 فروردین 1405</title>
+    <sub-title>از باران تا ایمان</sub-title>
+    <length units="seconds">82</length>
+  </programme>
+  <programme start="20260418011026 +0000" stop="20260418031455 +0000" channel="tv4">
+    <title>چ</title>
+    <length units="seconds">7468</length>
+  </programme>
+  <programme start="20260418001831 +0000" stop="20260418010815 +0000" channel="tv4">
+    <title>قسمت 8</title>
+    <sub-title>مدار صفر درجه</sub-title>
+    <length units="seconds">2985</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260418103010 +0000" stop="20260418103335 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">205</length>
+  </programme>
+  <programme start="20260418100915 +0000" stop="20260418103010 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1254</length>
+  </programme>
+  <programme start="20260418100010 +0000" stop="20260418100915 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20260418095705 +0000" stop="20260418100005 +0000" channel="irinn">
+    <title>راه - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خبر)</sub-title>
+    <length units="seconds">180</length>
+  </programme>
+  <programme start="20260418094440 +0000" stop="20260418095400 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>روایتگر</sub-title>
+    <length units="seconds">560</length>
+  </programme>
+  <programme start="20260418093410 +0000" stop="20260418094440 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">630</length>
+  </programme>
+  <programme start="20260418093005 +0000" stop="20260418093410 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
+    <length units="seconds">246</length>
+  </programme>
+  <programme start="20260418090835 +0000" stop="20260418092950 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵ - سید رحیم هاشمی</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">1276</length>
+  </programme>
+  <programme start="20260418090010 +0000" stop="20260418090835 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20260418080000 +0000" stop="20260418082800 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1680</length>
+  </programme>
+  <programme start="20260418073445 +0000" stop="20260418075950 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵ - حمیدرضا رستکار</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">1505</length>
+  </programme>
+  <programme start="20260418073015 +0000" stop="20260418073450 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">276</length>
+  </programme>
+  <programme start="20260418071500 +0000" stop="20260418073010 +0000" channel="irinn">
+    <title>۲۹ فروردین ۱۴۰۵ - محدحسن نیک‌بین</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">910</length>
+  </programme>
+  <programme start="20260418070006 +0000" stop="20260418070934 +0000" channel="irinn">
+    <title>29 فروردین 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">568</length>
+  </programme>
+  <programme start="20260418060010 +0000" stop="20260418061204 +0000" channel="irinn">
+    <title>29 فروردین 1405</title>
+    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
+    <length units="seconds">714</length>
+  </programme>
   <programme start="20260418050007 +0000" stop="20260418051034 +0000" channel="irinn">
     <title>29 فروردین 1405</title>
     <sub-title>اخبار ساعت 5:00 </sub-title>
@@ -51,12 +295,57 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260418100034 +0000" stop="20260418102006 +0000" channel="varzesh">
+    <title>29 فروردین 1405</title>
+    <sub-title>دست اول ۱۴۰5</sub-title>
+    <length units="seconds">1172</length>
+  </programme>
+  <programme start="20260418080015 +0000" stop="20260418084126 +0000" channel="varzesh">
+    <title>29 فروردین 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2470</length>
+  </programme>
+  <programme start="20260418060608 +0000" stop="20260418063544 +0000" channel="varzesh">
+    <title>29 فروردین 1405</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1776</length>
+  </programme>
+  <programme start="20260418060249 +0000" stop="20260418060548 +0000" channel="varzesh">
+    <title>29 فروردین 1405</title>
+    <sub-title>مرشد زورخانه ای</sub-title>
+    <length units="seconds">178</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260418101355 +0000" stop="20260418101520 +0000" channel="pooya">
+    <title>۲۹ فروردین ۱۴۰۵ - بخش ۲</title>
+    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20260418100910 +0000" stop="20260418101355 +0000" channel="pooya">
+    <title>۲۹ فروردین ۱۴۰۵ - بخش ۲</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260418094345 +0000" stop="20260418094520 +0000" channel="pooya">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
+    <length units="seconds">94</length>
+  </programme>
+  <programme start="20260418085535 +0000" stop="20260418090000 +0000" channel="pooya">
+    <title>۲۹ فروردین ۱۴۰۵ - بخش ۱</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">264</length>
+  </programme>
+  <programme start="20260418080340 +0000" stop="20260418080620 +0000" channel="pooya">
+    <title>ورزش - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">160</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -66,21 +355,296 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260418083600 +0000" stop="20260418083810 +0000" channel="tehran">
+    <title>رویای رنگ ها - 29 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">130</length>
+  </programme>
+  <programme start="20260418041922 +0000" stop="20260418044803 +0000" channel="tehran">
+    <title>29 فروردین 1405</title>
+    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
+    <length units="seconds">1721</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260418083042 +0000" stop="20260418095650 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>آیه</sub-title>
+    <length units="seconds">5168</length>
+  </programme>
+  <programme start="20260418080211 +0000" stop="20260418082100 +0000" channel="quran">
+    <title>حامد ولی زاده - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1128</length>
+  </programme>
+  <programme start="20260418075414 +0000" stop="20260418075644 +0000" channel="quran">
+    <title>بوم بیدار - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260418071930 +0000" stop="20260418075017 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">1848</length>
+  </programme>
+  <programme start="20260418071545 +0000" stop="20260418071900 +0000" channel="quran">
+    <title>روایت خانه آقا - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">194</length>
+  </programme>
+  <programme start="20260418070645 +0000" stop="20260418071544 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دعای عهد (قرآن)</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20260418070250 +0000" stop="20260418070618 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>فضیلت آیة الکرسی </sub-title>
+    <length units="seconds">208</length>
+  </programme>
+  <programme start="20260418064545 +0000" stop="20260418070248 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دعای بیست و هفتم صحیفه سجادیه (قرآن) </sub-title>
+    <length units="seconds">1022</length>
+  </programme>
+  <programme start="20260418062104 +0000" stop="20260418063201 +0000" channel="quran">
+    <title>مهدی سیاحی - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">658</length>
+  </programme>
+  <programme start="20260418061424 +0000" stop="20260418062051 +0000" channel="quran">
+    <title>آیت الله سیدمحمدتقی حکیم - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>تربت ما (قرآن)</sub-title>
+    <length units="seconds">388</length>
+  </programme>
+  <programme start="20260418061136 +0000" stop="20260418061421 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">166</length>
+  </programme>
+  <programme start="20260418055253 +0000" stop="20260418060900 +0000" channel="quran">
+    <title>حدیث کساء - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">966</length>
+  </programme>
+  <programme start="20260418044009 +0000" stop="20260418054825 +0000" channel="quran">
+    <title>جزء ۲۹ - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">4096</length>
+  </programme>
+  <programme start="20260418042813 +0000" stop="20260418044007 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">714</length>
+  </programme>
+  <programme start="20260418042213 +0000" stop="20260418042745 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>آیه های باران</sub-title>
+    <length units="seconds">332</length>
+  </programme>
+  <programme start="20260418041424 +0000" stop="20260418042212 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">468</length>
+  </programme>
+  <programme start="20260418034106 +0000" stop="20260418035415 +0000" channel="quran">
+    <title>حبیب صداقت - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">790</length>
+  </programme>
+  <programme start="20260418010430 +0000" stop="20260418020930 +0000" channel="quran">
+    <title>جزء ۲۹ - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3900</length>
+  </programme>
+  <programme start="20260418000324 +0000" stop="20260418003148 +0000" channel="quran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>عبرتهای بنی اسرائیل </sub-title>
+    <length units="seconds">1704</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260418100235 +0000" stop="20260418101915 +0000" channel="amouzesh">
+    <title>پایه دوم - فارسی - تمرینات درس پرچم و نگارش - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title> مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">1000</length>
+  </programme>
+  <programme start="20260418100000 +0000" stop="20260418100235 +0000" channel="amouzesh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵</sub-title>
+    <length units="seconds">155</length>
+  </programme>
+  <programme start="20260418092735 +0000" stop="20260418094705 +0000" channel="amouzesh">
+    <title>پایه ششم دانش آموزان با نیازهای ویژه - فارسی - درس چهاردهم - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title> مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">1170</length>
+  </programme>
+  <programme start="20260418091605 +0000" stop="20260418092735 +0000" channel="amouzesh">
+    <title>پایه پنجم دانش آموزان با نیازهای ویژه - ریاضی - خاصیت جابجایی ضرب - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title> مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">689</length>
+  </programme>
+  <programme start="20260418090100 +0000" stop="20260418091605 +0000" channel="amouzesh">
+    <title>پایه چهارم دانش آموزان با نیازهای ویژه - ریاضی - معرفی پول ۵۰۰۰ ریالی و جمع پول‌ها - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title> مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">904</length>
+  </programme>
+  <programme start="20260418085105 +0000" stop="20260418085550 +0000" channel="amouzesh">
+    <title>صابر خراسانی - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">283</length>
+  </programme>
+  <programme start="20260418065500 +0000" stop="20260418065900 +0000" channel="amouzesh">
+    <title>ذوالفقار حضرت حیدر - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">239</length>
+  </programme>
+  <programme start="20260418064850 +0000" stop="20260418065500 +0000" channel="amouzesh">
+    <title>ظهور ابرقدرت جدید جهانی - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">371</length>
+  </programme>
+  <programme start="20260418062505 +0000" stop="20260418064630 +0000" channel="amouzesh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>آزمایش ها (آموزش)</sub-title>
+    <length units="seconds">1285</length>
+  </programme>
+  <programme start="20260418060015 +0000" stop="20260418062250 +0000" channel="amouzesh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1356</length>
+  </programme>
+  <programme start="20260418054415 +0000" stop="20260418055205 +0000" channel="amouzesh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">469</length>
+  </programme>
+  <programme start="20260418053945 +0000" stop="20260418054400 +0000" channel="amouzesh">
+    <title>بچه هاتو ببین - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">255</length>
+  </programme>
+  <programme start="20260418042435 +0000" stop="20260418043120 +0000" channel="amouzesh">
+    <title>دعای چهاردهم صحیفه سجادیه - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (آموزش)</sub-title>
+    <length units="seconds">405</length>
+  </programme>
+  <programme start="20260418040940 +0000" stop="20260418041740 +0000" channel="amouzesh">
+    <title>دعای ناد علی - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (آموزش)</sub-title>
+    <length units="seconds">482</length>
+  </programme>
+  <programme start="20260418034150 +0000" stop="20260418034805 +0000" channel="amouzesh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>مواهب (آموزش)</sub-title>
+    <length units="seconds">374</length>
+  </programme>
+  <programme start="20260418033705 +0000" stop="20260418034125 +0000" channel="amouzesh">
+    <title>منطقه ممنوعه - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">259</length>
+  </programme>
+  <programme start="20260418033430 +0000" stop="20260418033705 +0000" channel="amouzesh">
+    <title>در تیررس - ۲۹ فروردین ۱۴۰۵ - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">154</length>
+  </programme>
+  <programme start="20260418025655 +0000" stop="20260418025955 +0000" channel="amouzesh">
+    <title>تنگه هرمز - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">180</length>
+  </programme>
+  <programme start="20260418024415 +0000" stop="20260418024625 +0000" channel="amouzesh">
+    <title>در تیررس - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">129</length>
+  </programme>
+  <programme start="20260418024045 +0000" stop="20260418024415 +0000" channel="amouzesh">
+    <title>صدای فتح - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260418094538 +0000" stop="20260418095635 +0000" channel="salamat">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>با هم تا بهشت </sub-title>
+    <length units="seconds">656</length>
+  </programme>
+  <programme start="20260418090059 +0000" stop="20260418093830 +0000" channel="salamat">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2250</length>
+  </programme>
+  <programme start="20260418083413 +0000" stop="20260418085838 +0000" channel="salamat">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1465</length>
+  </programme>
+  <programme start="20260418075124 +0000" stop="20260418081626 +0000" channel="salamat">
+    <title>کار اول - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>خانه پرتقالی</sub-title>
+    <length units="seconds">1502</length>
+  </programme>
+  <programme start="20260418064705 +0000" stop="20260418070046 +0000" channel="salamat">
+    <title>تغذیه سالم ۳ - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>آقای تمارض در کوچه سلامت</sub-title>
+    <length units="seconds">820</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260418092928 +0000" stop="20260418095150 +0000" channel="ofogh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>سروستان </sub-title>
+    <length units="seconds">1342</length>
+  </programme>
+  <programme start="20260418075826 +0000" stop="20260418085025 +0000" channel="ofogh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3120</length>
+  </programme>
+  <programme start="20260418074106 +0000" stop="20260418075118 +0000" channel="ofogh">
+    <title>هیچی نیست دا - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">612</length>
+  </programme>
+  <programme start="20260418072835 +0000" stop="20260418073636 +0000" channel="ofogh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>مقاوم شهر </sub-title>
+    <length units="seconds">480</length>
+  </programme>
+  <programme start="20260418065949 +0000" stop="20260418072610 +0000" channel="ofogh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>روایت فتح</sub-title>
+    <length units="seconds">1580</length>
+  </programme>
+  <programme start="20260418065442 +0000" stop="20260418065903 +0000" channel="ofogh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>روزهای زندگی</sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260418055715 +0000" stop="20260418055909 +0000" channel="ofogh">
+    <title>ادامه دارد - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260418044920 +0000" stop="20260418045620 +0000" channel="ofogh">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ببین کجا ایستاده ای</sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20260418005832 +0000" stop="20260418010255 +0000" channel="ofogh">
+    <title>منطقه ممنوعه - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>برنامه سیاسی تاریخی (افق)</sub-title>
+    <length units="seconds">262</length>
+  </programme>
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
@@ -105,6 +669,21 @@
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20260418092556 +0000" stop="20260418094707 +0000" channel="ilam">
+    <title>پویش ایستاده چون سرو - 29 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
+    <length units="seconds">1271</length>
+  </programme>
+  <programme start="20260418084230 +0000" stop="20260418090231 +0000" channel="ilam">
+    <title>29 فروردین 1405</title>
+    <sub-title>قاب مردم</sub-title>
+    <length units="seconds">1201</length>
+  </programme>
+  <programme start="20260418061701 +0000" stop="20260418063715 +0000" channel="ilam">
+    <title>29 فروردین 1405</title>
+    <sub-title>پرتویی از نور (ایلام)</sub-title>
+    <length units="seconds">1216</length>
+  </programme>
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
@@ -117,15 +696,40 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260418060242 +0000" stop="20260418062643 +0000" channel="khorasanrazavi">
+    <title>29 فروردین 1405</title>
+    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
+    <length units="seconds">1440</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260418070246 +0000" stop="20260418080000 +0000" channel="atrak">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>صبح اترک (اترک)</sub-title>
+    <length units="seconds">3432</length>
+  </programme>
+  <programme start="20260418040021 +0000" stop="20260418044139 +0000" channel="atrak">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>مدافعان حرم</sub-title>
+    <length units="seconds">2479</length>
+  </programme>
+  <programme start="20260418032357 +0000" stop="20260418032621 +0000" channel="atrak">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نجوا (اترک)</sub-title>
+    <length units="seconds">144</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260418075732 +0000" stop="20260418080230 +0000" channel="khoozestan">
+    <title>جان من ایران - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>نماهنگ (خوزستان)</sub-title>
+    <length units="seconds">297</length>
+  </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
@@ -135,6 +739,21 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260418095956 +0000" stop="20260418101705 +0000" channel="hamoon">
+    <title>مراسم درختکاری به مناسبت روز ارتش - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (هامون)</sub-title>
+    <length units="seconds">1027</length>
+  </programme>
+  <programme start="20260418092630 +0000" stop="20260418093802 +0000" channel="hamoon">
+    <title>مثبت هامون - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (هامون)</sub-title>
+    <length units="seconds">691</length>
+  </programme>
+  <programme start="20260418090028 +0000" stop="20260418091300 +0000" channel="hamoon">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>خبر هامون</sub-title>
+    <length units="seconds">751</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
@@ -144,27 +763,97 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260418062115 +0000" stop="20260418063247 +0000" channel="noor">
+    <title>29 فروردین 1405</title>
+    <sub-title>برگ اول (نور)</sub-title>
+    <length units="seconds">691</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20260418090101 +0000" stop="20260418102534 +0000" channel="aflak">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>صبح امید (لرستان)</sub-title>
+    <length units="seconds">5073</length>
+  </programme>
+  <programme start="20260418044513 +0000" stop="20260418050818 +0000" channel="aflak">
+    <title>ایستاده تا همیشه - ۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1384</length>
+  </programme>
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
+  <programme start="20260418071230 +0000" stop="20260418075600 +0000" channel="kerman">
+    <title>29 فروردین 1405</title>
+    <sub-title>کرمان سلام</sub-title>
+    <length units="seconds">2611</length>
+  </programme>
+  <programme start="20260418061400 +0000" stop="20260418065330 +0000" channel="kerman">
+    <title>29 فروردین 1405</title>
+    <sub-title>رنگین کمان</sub-title>
+    <length units="seconds">2371</length>
+  </programme>
+  <programme start="20260418060100 +0000" stop="20260418061030 +0000" channel="kerman">
+    <title>29 فروردین 1405</title>
+    <sub-title>دعای عهد (کرمان)</sub-title>
+    <length units="seconds">571</length>
+  </programme>
+  <programme start="20260418050000 +0000" stop="20260418055900 +0000" channel="kerman">
+    <title>چهارسوی علم - 29 فروردین 1405</title>
+    <sub-title>برنامه علمی</sub-title>
+    <length units="seconds">3540</length>
+  </programme>
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20260418065452 +0000" stop="20260418075036 +0000" channel="dena">
+    <title>29 فروردین 1405</title>
+    <sub-title>ایران جان</sub-title>
+    <length units="seconds">3345</length>
+  </programme>
+  <programme start="20260418053115 +0000" stop="20260418060702 +0000" channel="dena">
+    <title>آیت الله جوادی آملی - 29 فروردین 1405</title>
+    <sub-title>سخنرانی (دنا)</sub-title>
+    <length units="seconds">2145</length>
+  </programme>
+  <programme start="20260418052245 +0000" stop="20260418053112 +0000" channel="dena">
+    <title>29 فروردین 1405</title>
+    <sub-title>دعای عهد (دنا)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260418080054 +0000" stop="20260418085552 +0000" channel="sabz">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>صبح عالی (سبز)</sub-title>
+    <length units="seconds">3298</length>
+  </programme>
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260418090931 +0000" stop="20260418095655 +0000" channel="baran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>دریچه (باران)</sub-title>
+    <length units="seconds">2810</length>
+  </programme>
+  <programme start="20260418072946 +0000" stop="20260418084000 +0000" channel="baran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>صبح تازه</sub-title>
+    <length units="seconds">4192</length>
+  </programme>
+  <programme start="20260418043923 +0000" stop="20260418054616 +0000" channel="baran">
+    <title>۲۹ فروردین ۱۴۰۵</title>
+    <sub-title>ترتیل قرآن کریم (باران)</sub-title>
+    <length units="seconds">3978</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
@@ -177,6 +866,11 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260418080253 +0000" stop="20260418093240 +0000" channel="aftab">
+    <title>29 فروردین 1405</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5387</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -186,6 +880,16 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260418073000 +0000" stop="20260418082810 +0000" channel="khavaran">
+    <title>29 فروردین 1405</title>
+    <sub-title>صبحانه (خاوران)</sub-title>
+    <length units="seconds">3490</length>
+  </programme>
+  <programme start="20260418065708 +0000" stop="20260418072900 +0000" channel="khavaran">
+    <title>29 فروردین 1405</title>
+    <sub-title>کوچه باغ (خاوران)</sub-title>
+    <length units="seconds">1912</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
@@ -233,12 +937,6 @@
   </channel>
   <channel id="kawthar">
     <display-name>kawthar</display-name>
-  </channel>
-  <channel id="presstv">
-    <display-name>Press TV channel </display-name>
-  </channel>
-  <channel id="Al-Alam">
-    <display-name>Al-Alam channel</display-name>
   </channel>
   <channel id="radioava">
     <display-name>radioava</display-name>
