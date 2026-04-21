@@ -6,6 +6,11 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260421013311 +0000" stop="20260421021838 +0000" channel="tv2">
+    <title>قسمت ۲۷</title>
+    <sub-title>کلانتری یازده </sub-title>
+    <length units="seconds">2466</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
@@ -15,6 +20,16 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260421010005 +0000" stop="20260421011415 +0000" channel="irinn">
+    <title>۱ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 1:00 </sub-title>
+    <length units="seconds">850</length>
+  </programme>
+  <programme start="20260421000000 +0000" stop="20260421002930 +0000" channel="irinn">
+    <title>۱ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
+    <length units="seconds">1770</length>
+  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
