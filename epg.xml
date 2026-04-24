@@ -3,12 +3,91 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260424090015 +0000" stop="20260424095631 +0000" channel="tv1">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">3376</length>
+  </programme>
+  <programme start="20260424080000 +0000" stop="20260424083047 +0000" channel="tv1">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1846</length>
+  </programme>
+  <programme start="20260424075816 +0000" stop="20260424075957 +0000" channel="tv1">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>صلوات خاصه امام رضا (ع)</sub-title>
+    <length units="seconds">100</length>
+  </programme>
+  <programme start="20260424065934 +0000" stop="20260424070006 +0000" channel="tv1">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>تیتر یک </sub-title>
+    <length units="seconds">32</length>
+  </programme>
+  <programme start="20260424064820 +0000" stop="20260424065828 +0000" channel="tv1">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>سایه سار </sub-title>
+    <length units="seconds">608</length>
+  </programme>
+  <programme start="20260424042420 +0000" stop="20260424061248 +0000" channel="tv1">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>منتظران ظهور</sub-title>
+    <length units="seconds">6508</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260424080014 +0000" stop="20260424093022 +0000" channel="tv2">
+    <title>قلب خورشید</title>
+    <length units="seconds">5258</length>
+  </programme>
+  <programme start="20260424073130 +0000" stop="20260424075409 +0000" channel="tv2">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1360</length>
+  </programme>
+  <programme start="20260424064719 +0000" stop="20260424070135 +0000" channel="tv2">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>قاب اقتدار </sub-title>
+    <length units="seconds">856</length>
+  </programme>
+  <programme start="20260424061744 +0000" stop="20260424062729 +0000" channel="tv2">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">586</length>
+  </programme>
+  <programme start="20260424050417 +0000" stop="20260424050635 +0000" channel="tv2">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>کوه پایه</sub-title>
+    <length units="seconds">138</length>
+  </programme>
+  <programme start="20260424024148 +0000" stop="20260424024419 +0000" channel="tv2">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>حساسیت فصلی </sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260424023029 +0000" stop="20260424023641 +0000" channel="tv2">
+    <title>دست خدا - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">372</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260424081252 +0000" stop="20260424085941 +0000" channel="tv3">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>صبح و نشاط 1405</sub-title>
+    <length units="seconds">2808</length>
+  </programme>
+  <programme start="20260424073701 +0000" stop="20260424074122 +0000" channel="tv3">
+    <title>اجتماع مردمی - 4 اردیبهشت 1405</title>
+    <sub-title>گزارش روز ۱۴04 (شبکه ۳)</sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260424060855 +0000" stop="20260424064046 +0000" channel="tv3">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>سخنرانی حجت الاسلام و المسلمین رفیعی</sub-title>
+    <length units="seconds">1912</length>
+  </programme>
   <programme start="20260424051316 +0000" stop="20260424055157 +0000" channel="tv3">
     <title>4 اردیبهشت 1405</title>
     <sub-title>دماوند</sub-title>
@@ -22,6 +101,21 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260424081652 +0000" stop="20260424090700 +0000" channel="tv4">
+    <title>4 اردیبهشت 1405 - دکتر الهی قمشه ای</title>
+    <sub-title>سخنرانی (شبکه 4)</sub-title>
+    <length units="seconds">3007</length>
+  </programme>
+  <programme start="20260424061454 +0000" stop="20260424064811 +0000" channel="tv4">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">1997</length>
+  </programme>
+  <programme start="20260424060251 +0000" stop="20260424061137 +0000" channel="tv4">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (شبکه ۴)</sub-title>
+    <length units="seconds">526</length>
+  </programme>
   <programme start="20260424060101 +0000" stop="20260424060249 +0000" channel="tv4">
     <title>4 اردیبهشت 1405</title>
     <sub-title>از باران تا ایمان</sub-title>
@@ -40,6 +134,116 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260424111213 +0000" stop="20260424112931 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405 - قاسم علیدوستی</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">1038</length>
+  </programme>
+  <programme start="20260424110012 +0000" stop="20260424110924 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">552</length>
+  </programme>
+  <programme start="20260424103820 +0000" stop="20260424105753 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>هرمز جان</sub-title>
+    <length units="seconds">1172</length>
+  </programme>
+  <programme start="20260424103014 +0000" stop="20260424103456 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">282</length>
+  </programme>
+  <programme start="20260424101218 +0000" stop="20260424101700 +0000" channel="irinn">
+    <title>چرا مردم از صحنه کنار نمی‌روند؟</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">282</length>
+  </programme>
+  <programme start="20260424101016 +0000" stop="20260424102912 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1136</length>
+  </programme>
+  <programme start="20260424100237 +0000" stop="20260424100601 +0000" channel="irinn">
+    <title>اجتماع دختران جان فدا </title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">204</length>
+  </programme>
+  <programme start="20260424100110 +0000" stop="20260424100202 +0000" channel="irinn">
+    <title>تشدید تنش‌ها در تنگه هرمز عرضه گازوئیل را مختل کرده است</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">52</length>
+  </programme>
+  <programme start="20260424100014 +0000" stop="20260424101007 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">592</length>
+  </programme>
+  <programme start="20260424093008 +0000" stop="20260424093428 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20260424091315 +0000" stop="20260424092728 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405 - پیمان صالحی</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">854</length>
+  </programme>
+  <programme start="20260424090008 +0000" stop="20260424091014 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">606</length>
+  </programme>
+  <programme start="20260424083736 +0000" stop="20260424085611 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405 - عماد نجار</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">1114</length>
+  </programme>
+  <programme start="20260424081649 +0000" stop="20260424081728 +0000" channel="irinn">
+    <title>بیانیه حزب‌الله در پاسخ به جنایات اسرائیل</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">40</length>
+  </programme>
+  <programme start="20260424080000 +0000" stop="20260424083050 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1850</length>
+  </programme>
+  <programme start="20260424075059 +0000" stop="20260424075941 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405 - محمدحسن نیک بین </title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">522</length>
+  </programme>
+  <programme start="20260424073537 +0000" stop="20260424074603 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405 - خالدی</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">626</length>
+  </programme>
+  <programme start="20260424073008 +0000" stop="20260424073534 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">326</length>
+  </programme>
+  <programme start="20260424072015 +0000" stop="20260424072958 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405 - محمدحسن نیک بین</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">584</length>
+  </programme>
+  <programme start="20260424070007 +0000" stop="20260424070921 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">554</length>
+  </programme>
+  <programme start="20260424063008 +0000" stop="20260424063308 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
+    <length units="seconds">180</length>
+  </programme>
+  <programme start="20260424060010 +0000" stop="20260424061031 +0000" channel="irinn">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
+    <length units="seconds">620</length>
+  </programme>
   <programme start="20260424020008 +0000" stop="20260424020954 +0000" channel="irinn">
     <title>4 اردیبهشت 1405</title>
     <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
@@ -61,12 +265,92 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260424100048 +0000" stop="20260424102615 +0000" channel="varzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دست اول ۱۴۰5</sub-title>
+    <length units="seconds">1528</length>
+  </programme>
+  <programme start="20260424081449 +0000" stop="20260424085600 +0000" channel="varzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2470</length>
+  </programme>
+  <programme start="20260424060710 +0000" stop="20260424063708 +0000" channel="varzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1798</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260424112102 +0000" stop="20260424112404 +0000" channel="pooya">
+    <title>میریم به اون دور دورا - 4 اردیبهشت 1405</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20260424110045 +0000" stop="20260424112100 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>اعجوبه ها </sub-title>
+    <length units="seconds">1214</length>
+  </programme>
+  <programme start="20260424105855 +0000" stop="20260424110031 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405 - بخش 3</title>
+    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
+    <length units="seconds">96</length>
+  </programme>
+  <programme start="20260424105344 +0000" stop="20260424105853 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405 - بخش 3</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">310</length>
+  </programme>
+  <programme start="20260424104236 +0000" stop="20260424104521 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>قصه های لینا لونا</sub-title>
+    <length units="seconds">166</length>
+  </programme>
+  <programme start="20260424103032 +0000" stop="20260424104233 +0000" channel="pooya">
+    <title>قسمت 7</title>
+    <sub-title>ببعی در شهر</sub-title>
+    <length units="seconds">722</length>
+  </programme>
+  <programme start="20260424100909 +0000" stop="20260424101435 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">326</length>
+  </programme>
+  <programme start="20260424095911 +0000" stop="20260424100033 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
+    <length units="seconds">82</length>
+  </programme>
+  <programme start="20260424094333 +0000" stop="20260424094521 +0000" channel="pooya">
+    <title>وطن - 4 اردیبهشت 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">108</length>
+  </programme>
+  <programme start="20260424092454 +0000" stop="20260424092811 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>قصه های لینا لونا</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20260424085859 +0000" stop="20260424090020 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405 - بخش 1</title>
+    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20260424085342 +0000" stop="20260424085857 +0000" channel="pooya">
+    <title>4 اردیبهشت 1405 - بخش 1</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20260424080340 +0000" stop="20260424080638 +0000" channel="pooya">
+    <title>نقاشی خدا - 4 اردیبهشت 1405</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">178</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -76,21 +360,131 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260424080938 +0000" stop="20260424083840 +0000" channel="tehran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>میراث آبی تهران</sub-title>
+    <length units="seconds">1742</length>
+  </programme>
+  <programme start="20260424050932 +0000" stop="20260424053946 +0000" channel="tehran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>کهن دیار (شبکه تهران)</sub-title>
+    <length units="seconds">1812</length>
+  </programme>
+  <programme start="20260424045522 +0000" stop="20260424050917 +0000" channel="tehran">
+    <title>آبروی بازار - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">835</length>
+  </programme>
+  <programme start="20260424042505 +0000" stop="20260424044925 +0000" channel="tehran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
+    <length units="seconds">1461</length>
+  </programme>
+  <programme start="20260424032458 +0000" stop="20260424034046 +0000" channel="tehran">
+    <title>در میان دیوارها - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">948</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260424095753 +0000" stop="20260424100104 +0000" channel="quran">
+    <title>آقای محمدمهدی اژدری - 4 اردیبهشت 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20260424093210 +0000" stop="20260424095753 +0000" channel="quran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>یکی بود یکی نبود</sub-title>
+    <length units="seconds">1544</length>
+  </programme>
+  <programme start="20260424082355 +0000" stop="20260424082931 +0000" channel="quran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>آیه های باران</sub-title>
+    <length units="seconds">336</length>
+  </programme>
+  <programme start="20260424074925 +0000" stop="20260424082353 +0000" channel="quran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>صبح ظهور (قرآن)</sub-title>
+    <length units="seconds">2068</length>
+  </programme>
+  <programme start="20260424060428 +0000" stop="20260424074439 +0000" channel="quran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (قرآن)</sub-title>
+    <length units="seconds">6012</length>
+  </programme>
+  <programme start="20260424043406 +0000" stop="20260424053655 +0000" channel="quran">
+    <title>جز 4 - 4 اردیبهشت 1405</title>
+    <sub-title>ترتیل قرآن کریم (قرآن)</sub-title>
+    <length units="seconds">3770</length>
+  </programme>
+  <programme start="20260424003717 +0000" stop="20260424015940 +0000" channel="quran">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>نیایش به وقت حاج قاسم</sub-title>
+    <length units="seconds">4942</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260424070039 +0000" stop="20260424073443 +0000" channel="amouzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>ایرانگرد (آموزش)</sub-title>
+    <length units="seconds">2044</length>
+  </programme>
+  <programme start="20260424060058 +0000" stop="20260424062021 +0000" channel="amouzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1162</length>
+  </programme>
+  <programme start="20260424054517 +0000" stop="20260424055603 +0000" channel="amouzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>آموزش اسکرچ</sub-title>
+    <length units="seconds">645</length>
+  </programme>
+  <programme start="20260424050032 +0000" stop="20260424054306 +0000" channel="amouzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>خانه ما</sub-title>
+    <length units="seconds">2553</length>
+  </programme>
+  <programme start="20260424043123 +0000" stop="20260424045322 +0000" channel="amouzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>علمی طور </sub-title>
+    <length units="seconds">1319</length>
+  </programme>
+  <programme start="20260424041700 +0000" stop="20260424042345 +0000" channel="amouzesh">
+    <title>دعای چهاردهم - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (آموزش)</sub-title>
+    <length units="seconds">407</length>
+  </programme>
+  <programme start="20260424040022 +0000" stop="20260424040725 +0000" channel="amouzesh">
+    <title>دعای نادعلی - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (آموزش)</sub-title>
+    <length units="seconds">424</length>
+  </programme>
+  <programme start="20260424033938 +0000" stop="20260424034214 +0000" channel="amouzesh">
+    <title>درسی از اندیشه اخلاقی - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (آموزش)</sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20260424022603 +0000" stop="20260424025038 +0000" channel="amouzesh">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>آزمایش ها (آموزش)</sub-title>
+    <length units="seconds">1476</length>
+  </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260424080042 +0000" stop="20260424085437 +0000" channel="ofogh">
+    <title>4 اردیبهشت 1405 - حجت الاسلام عاملی </title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3234</length>
+  </programme>
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
@@ -100,9 +494,64 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20260424050846 +0000" stop="20260424055703 +0000" channel="azarbayjangharbi">
+    <title>نبرد برای زندگی - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (آذربایجان غربی)</sub-title>
+    <length units="seconds">2899</length>
+  </programme>
+  <programme start="20260424043434 +0000" stop="20260424050010 +0000" channel="azarbayjangharbi">
+    <title>حجت الاسلام پناهیان - 4 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1536</length>
+  </programme>
+  <programme start="20260424041733 +0000" stop="20260424042439 +0000" channel="azarbayjangharbi">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>گنجینه احکام (آذربایجان غربی)</sub-title>
+    <length units="seconds">424</length>
+  </programme>
+  <programme start="20260424041347 +0000" stop="20260424041725 +0000" channel="azarbayjangharbi">
+    <title>دعای فرج - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (آذربایجان غربی)</sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20260424033009 +0000" stop="20260424040305 +0000" channel="azarbayjangharbi">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>حدیث سرو (آذربایجان غربی)</sub-title>
+    <length units="seconds">1975</length>
+  </programme>
+  <programme start="20260424001956 +0000" stop="20260424005430 +0000" channel="azarbayjangharbi">
+    <title>حیوانات باستان - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (آذربایجان غربی)</sub-title>
+    <length units="seconds">2076</length>
+  </programme>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260424070443 +0000" stop="20260424074801 +0000" channel="sahand">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (سهند)</sub-title>
+    <length units="seconds">2598</length>
+  </programme>
+  <programme start="20260424064538 +0000" stop="20260424070004 +0000" channel="sahand">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>ترنم صبحگاهی</sub-title>
+    <length units="seconds">866</length>
+  </programme>
+  <programme start="20260424063508 +0000" stop="20260424064538 +0000" channel="sahand">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">630</length>
+  </programme>
+  <programme start="20260424051430 +0000" stop="20260424053546 +0000" channel="sahand">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>سیر آفاقی (سهند)</sub-title>
+    <length units="seconds">1396</length>
+  </programme>
+  <programme start="20260424044329 +0000" stop="20260424051423 +0000" channel="sahand">
+    <title>حجت الاسلام میرباقری - 4 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (سهند)</sub-title>
+    <length units="seconds">1854</length>
+  </programme>
   <programme start="20260424040930 +0000" stop="20260424042930 +0000" channel="sahand">
     <title>دعا برای مرزداران - 4 اردیبهشت 1405</title>
     <sub-title>ادعیه و زیارت (سهند)</sub-title>
@@ -119,6 +568,11 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260424031751 +0000" stop="20260424034044 +0000" channel="esfahan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>شرح پریشانی (اصفهان)</sub-title>
+    <length units="seconds">1373</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -137,15 +591,105 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260424055810 +0000" stop="20260424065005 +0000" channel="khorasanrazavi">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (خراسان رضوی)</sub-title>
+    <length units="seconds">3115</length>
+  </programme>
+  <programme start="20260424003547 +0000" stop="20260424011246 +0000" channel="khorasanrazavi">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای کمیل (خراسان رضوی)</sub-title>
+    <length units="seconds">2219</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260424060117 +0000" stop="20260424064125 +0000" channel="atrak">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (اترک)</sub-title>
+    <length units="seconds">2408</length>
+  </programme>
+  <programme start="20260424010621 +0000" stop="20260424020632 +0000" channel="atrak">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای کمیل (اترک)</sub-title>
+    <length units="seconds">3611</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260424090052 +0000" stop="20260424095631 +0000" channel="khalijefars">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>گنج آبی </sub-title>
+    <length units="seconds">3340</length>
+  </programme>
+  <programme start="20260424080205 +0000" stop="20260424083814 +0000" channel="khalijefars">
+    <title>تنها در قطب شمال - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (خلیج فارس)</sub-title>
+    <length units="seconds">2168</length>
+  </programme>
+  <programme start="20260424073633 +0000" stop="20260424080030 +0000" channel="khalijefars">
+    <title>تاریخ معاصر - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">1436</length>
+  </programme>
+  <programme start="20260424052919 +0000" stop="20260424061253 +0000" channel="khalijefars">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (خلیج فارس)</sub-title>
+    <length units="seconds">2614</length>
+  </programme>
+  <programme start="20260424051955 +0000" stop="20260424052910 +0000" channel="khalijefars">
+    <title>دعای عهد - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (خلیج فارس)</sub-title>
+    <length units="seconds">554</length>
+  </programme>
+  <programme start="20260424041953 +0000" stop="20260424042119 +0000" channel="khalijefars">
+    <title>راه امام - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">86</length>
+  </programme>
+  <programme start="20260424040808 +0000" stop="20260424041948 +0000" channel="khalijefars">
+    <title>صبح ظهور - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">700</length>
+  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260424062157 +0000" stop="20260424065145 +0000" channel="khoozestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>مستند جلگه</sub-title>
+    <length units="seconds">1788</length>
+  </programme>
+  <programme start="20260424060141 +0000" stop="20260424061910 +0000" channel="khoozestan">
+    <title>دعا برای مرزداران - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
+    <length units="seconds">1049</length>
+  </programme>
+  <programme start="20260424044624 +0000" stop="20260424052930 +0000" channel="khoozestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (خوزستان)</sub-title>
+    <length units="seconds">2586</length>
+  </programme>
+  <programme start="20260424042721 +0000" stop="20260424043549 +0000" channel="khoozestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (خوزستان)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260424035404 +0000" stop="20260424040815 +0000" channel="khoozestan">
+    <title>مناجات امیرالمومنین - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
+    <length units="seconds">851</length>
+  </programme>
+  <programme start="20260424033745 +0000" stop="20260424035428 +0000" channel="khoozestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">1003</length>
+  </programme>
+  <programme start="20260424015500 +0000" stop="20260424024032 +0000" channel="khoozestan">
+    <title>دعای کمیل - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
+    <length units="seconds">2732</length>
+  </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
@@ -173,12 +717,72 @@
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260424080245 +0000" stop="20260424080555 +0000" channel="zagros">
+    <title>روایت مردم ایران - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20260424072000 +0000" stop="20260424074808 +0000" channel="zagros">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (زاگرس)</sub-title>
+    <length units="seconds">1688</length>
+  </programme>
+  <programme start="20260424060113 +0000" stop="20260424061003 +0000" channel="zagros">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (زاگرس)</sub-title>
+    <length units="seconds">530</length>
+  </programme>
+  <programme start="20260424043456 +0000" stop="20260424050054 +0000" channel="zagros">
+    <title>درس هایی از نهج البلاغه - 4 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (زاگرس)</sub-title>
+    <length units="seconds">1558</length>
+  </programme>
+  <programme start="20260424035722 +0000" stop="20260424035858 +0000" channel="zagros">
+    <title>با شهدا - 4 اردیبهشت 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (زاگرس)</sub-title>
+    <length units="seconds">96</length>
+  </programme>
+  <programme start="20260424034147 +0000" stop="20260424035716 +0000" channel="zagros">
+    <title>آیت الله سبحانی - 4 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (زاگرس)</sub-title>
+    <length units="seconds">929</length>
+  </programme>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
+  <programme start="20260424090058 +0000" stop="20260424095639 +0000" channel="kish">
+    <title>گنج آبی - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (کیش)</sub-title>
+    <length units="seconds">3341</length>
+  </programme>
+  <programme start="20260424080210 +0000" stop="20260424083806 +0000" channel="kish">
+    <title>تنها , قطب شمال - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (کیش)</sub-title>
+    <length units="seconds">2156</length>
+  </programme>
+  <programme start="20260424073056 +0000" stop="20260424080044 +0000" channel="kish">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (کیش)</sub-title>
+    <length units="seconds">1786</length>
+  </programme>
+  <programme start="20260424052923 +0000" stop="20260424061255 +0000" channel="kish">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (کیش)</sub-title>
+    <length units="seconds">2610</length>
+  </programme>
+  <programme start="20260424051957 +0000" stop="20260424052912 +0000" channel="kish">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (کیش)</sub-title>
+    <length units="seconds">554</length>
+  </programme>
+  <programme start="20260424013315 +0000" stop="20260424021619 +0000" channel="kish">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای کمیل (کیش)</sub-title>
+    <length units="seconds">2584</length>
+  </programme>
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
@@ -194,9 +798,94 @@
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260424070300 +0000" stop="20260424075750 +0000" channel="tabarestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (تبرستان)</sub-title>
+    <length units="seconds">3288</length>
+  </programme>
+  <programme start="20260424054439 +0000" stop="20260424055741 +0000" channel="tabarestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>نگاتیو </sub-title>
+    <length units="seconds">781</length>
+  </programme>
+  <programme start="20260424044034 +0000" stop="20260424050830 +0000" channel="tabarestan">
+    <title>میراث کهن - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">1675</length>
+  </programme>
+  <programme start="20260424041459 +0000" stop="20260424043505 +0000" channel="tabarestan">
+    <title>ایت الله تهرانی - 4 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (تبرستان)</sub-title>
+    <length units="seconds">1207</length>
+  </programme>
+  <programme start="20260424035547 +0000" stop="20260424040414 +0000" channel="tabarestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (تبرستان)</sub-title>
+    <length units="seconds">505</length>
+  </programme>
+  <programme start="20260424032726 +0000" stop="20260424033302 +0000" channel="tabarestan">
+    <title>زیارت امین الله - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
+    <length units="seconds">337</length>
+  </programme>
+  <programme start="20260424031528 +0000" stop="20260424032722 +0000" channel="tabarestan">
+    <title>صبح ظهور - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (تبرستان)</sub-title>
+    <length units="seconds">712</length>
+  </programme>
+  <programme start="20260424024318 +0000" stop="20260424031434 +0000" channel="tabarestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>حدیث سرو (تبرستان)</sub-title>
+    <length units="seconds">1876</length>
+  </programme>
+  <programme start="20260424020032 +0000" stop="20260424024200 +0000" channel="tabarestan">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>چهار سوی علم (تبرستان)</sub-title>
+    <length units="seconds">2486</length>
+  </programme>
+  <programme start="20260424013015 +0000" stop="20260424015920 +0000" channel="tabarestan">
+    <title>دعای کمیل - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
+    <length units="seconds">1743</length>
+  </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260424065954 +0000" stop="20260424080211 +0000" channel="aftab">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>دعای ندبه (آفتاب)</sub-title>
+    <length units="seconds">3737</length>
+  </programme>
+  <programme start="20260424060016 +0000" stop="20260424065917 +0000" channel="aftab">
+    <title>حسابان 2 - 4 اردیبهشت 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">3541</length>
+  </programme>
+  <programme start="20260424045231 +0000" stop="20260424055320 +0000" channel="aftab">
+    <title>عربی یازدهم - 4 اردیبهشت 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">3649</length>
+  </programme>
+  <programme start="20260424041826 +0000" stop="20260424044803 +0000" channel="aftab">
+    <title>بناها - 4 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
+    <length units="seconds">1777</length>
+  </programme>
+  <programme start="20260424032524 +0000" stop="20260424034813 +0000" channel="aftab">
+    <title>4 اردیبهشت 1405</title>
+    <sub-title>تفسیر نور (آفتاب)</sub-title>
+    <length units="seconds">1369</length>
+  </programme>
+  <programme start="20260424020221 +0000" stop="20260424030323 +0000" channel="aftab">
+    <title>شیمی یازدهم - 4 اردیبهشت 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">3662</length>
+  </programme>
+  <programme start="20260424012934 +0000" stop="20260424015843 +0000" channel="aftab">
+    <title>دعای کمیل - 4 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (آفتاب)</sub-title>
+    <length units="seconds">1749</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -247,6 +936,9 @@
   </channel>
   <channel id="palestine">
     <display-name>palestine</display-name>
+  </channel>
+  <channel id="nesfejahan">
+    <display-name>nesfejahan channel</display-name>
   </channel>
   <channel id="kawthar">
     <display-name>kawthar</display-name>
