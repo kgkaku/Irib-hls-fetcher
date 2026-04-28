@@ -3,6 +3,71 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260428221322 +0000" stop="20260428225747 +0000" channel="tv1">
+    <title>قسمت 4</title>
+    <sub-title>گذرگاه</sub-title>
+    <length units="seconds">2301</length>
+  </programme>
+  <programme start="20260428210000 +0000" stop="20260428220042 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">3642</length>
+  </programme>
+  <programme start="20260428200900 +0000" stop="20260428204730 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>جریان </sub-title>
+    <length units="seconds">2310</length>
+  </programme>
+  <programme start="20260428200030 +0000" stop="20260428200514 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405 - بخش 5</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">284</length>
+  </programme>
+  <programme start="20260428192433 +0000" stop="20260428195201 +0000" channel="tv1">
+    <title>ویژه برنامه شب ولادت امام رضا (ع) در حرم مطهر رضوی - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (شبکه 1)</sub-title>
+    <length units="seconds">1648</length>
+  </programme>
+  <programme start="20260428192230 +0000" stop="20260428192430 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>مکتب </sub-title>
+    <length units="seconds">120</length>
+  </programme>
+  <programme start="20260428185130 +0000" stop="20260428185800 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>حدیث زندگی </sub-title>
+    <length units="seconds">390</length>
+  </programme>
+  <programme start="20260428183500 +0000" stop="20260428185100 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>آستان جانان </sub-title>
+    <length units="seconds">960</length>
+  </programme>
+  <programme start="20260428181521 +0000" stop="20260428183130 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405 - بخش 4</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">969</length>
+  </programme>
+  <programme start="20260428175830 +0000" stop="20260428181208 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>خاکریز مردم</sub-title>
+    <length units="seconds">818</length>
+  </programme>
+  <programme start="20260428174750 +0000" stop="20260428174905 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>قاب یک</sub-title>
+    <length units="seconds">75</length>
+  </programme>
+  <programme start="20260428173212 +0000" stop="20260428174225 +0000" channel="tv1">
+    <title>8 اردیبهشت 1405 - بخش 3</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">613</length>
+  </programme>
+  <programme start="20260428163330 +0000" stop="20260428173204 +0000" channel="tv1">
+    <title>ایستاده در غبار  - 8 اردیبهشت 1405</title>
+    <sub-title>ثریا 1405</sub-title>
+    <length units="seconds">3514</length>
+  </programme>
   <programme start="20260428161515 +0000" stop="20260428162545 +0000" channel="tv1">
     <title>8 اردیبهشت 1405 - بخش 1</title>
     <sub-title>ایران امروز</sub-title>
@@ -20,7 +85,7 @@
   </programme>
   <programme start="20260428124515 +0000" stop="20260428133241 +0000" channel="tv1">
     <title>8 اردیبهشت 1405</title>
-    <sub-title>سیمای مدرسه </sub-title>
+    <sub-title>سیمای خانواده 1405</sub-title>
     <length units="seconds">2620</length>
   </programme>
   <programme start="20260428121500 +0000" stop="20260428123010 +0000" channel="tv1">
@@ -61,6 +126,51 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260428220028 +0000" stop="20260428223536 +0000" channel="tv2">
+    <title>۸ اردیبهشت 1405 - دکتر جعفر صادق منش </title>
+    <sub-title>پدر امت </sub-title>
+    <length units="seconds">2108</length>
+  </programme>
+  <programme start="20260428212132 +0000" stop="20260428215623 +0000" channel="tv2">
+    <title>قسمت</title>
+    <sub-title>کلانتری یازده </sub-title>
+    <length units="seconds">2091</length>
+  </programme>
+  <programme start="20260428205849 +0000" stop="20260428211539 +0000" channel="tv2">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نوسان (شبکه 2)</sub-title>
+    <length units="seconds">1010</length>
+  </programme>
+  <programme start="20260428202946 +0000" stop="20260428205848 +0000" channel="tv2">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1742</length>
+  </programme>
+  <programme start="20260428192447 +0000" stop="20260428201810 +0000" channel="tv2">
+    <title>لشگریان امام رضا(ع) - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایران امام رضا(ع)</sub-title>
+    <length units="seconds">3203</length>
+  </programme>
+  <programme start="20260428184635 +0000" stop="20260428184850 +0000" channel="tv2">
+    <title>فکر نمی‌کردم حضرت آقا اینقدر صرفه‌جویی کنند!</title>
+    <sub-title>ایران امام رضا(ع)</sub-title>
+    <length units="seconds">135</length>
+  </programme>
+  <programme start="20260428184423 +0000" stop="20260428184627 +0000" channel="tv2">
+    <title>مبنای مراسم نقاره‌نوازی افق شرقی می‌باشد</title>
+    <sub-title>ایران امام رضا(ع)</sub-title>
+    <length units="seconds">124</length>
+  </programme>
+  <programme start="20260428182038 +0000" stop="20260428190649 +0000" channel="tv2">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایران امام رضا(ع)</sub-title>
+    <length units="seconds">2771</length>
+  </programme>
+  <programme start="20260428175250 +0000" stop="20260428180335 +0000" channel="tv2">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دی بی سی </sub-title>
+    <length units="seconds">645</length>
+  </programme>
   <programme start="20260428150929 +0000" stop="20260428155435 +0000" channel="tv2">
     <title>گزیده - ۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>زمانه </sub-title>
@@ -139,6 +249,81 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260428220000 +0000" stop="20260428221515 +0000" channel="tv3">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 22:00 (۱۴05)</sub-title>
+    <length units="seconds">915</length>
+  </programme>
+  <programme start="20260428211720 +0000" stop="20260428215956 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">2556</length>
+  </programme>
+  <programme start="20260428203710 +0000" stop="20260428211716 +0000" channel="tv3">
+    <title>قسمت ۶</title>
+    <sub-title>کلینیک رویا</sub-title>
+    <length units="seconds">2406</length>
+  </programme>
+  <programme start="20260428201254 +0000" stop="20260428202659 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شهر خوش حساب ها</sub-title>
+    <length units="seconds">845</length>
+  </programme>
+  <programme start="20260428200111 +0000" stop="20260428201240 +0000" channel="tv3">
+    <title>حدیث کساء - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (شبکه 3)</sub-title>
+    <length units="seconds">689</length>
+  </programme>
+  <programme start="20260428195753 +0000" stop="20260428200110 +0000" channel="tv3">
+    <title>قرار حرم - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">197</length>
+  </programme>
+  <programme start="20260428195644 +0000" stop="20260428201240 +0000" channel="tv3">
+    <title>اجتماع لشکریان امام رضا (ع) - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ویژه برنامه ولادت امام رضا (شبکه سه)</sub-title>
+    <length units="seconds">758</length>
+  </programme>
+  <programme start="20260428192045 +0000" stop="20260428195232 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>کاپیتان </sub-title>
+    <length units="seconds">1907</length>
+  </programme>
+  <programme start="20260428190027 +0000" stop="20260428192026 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۳</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1199</length>
+  </programme>
+  <programme start="20260428182908 +0000" stop="20260428190012 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵ - دکتر علی خضریان </title>
+    <sub-title>سیاست خارجی ۱۴۰5</sub-title>
+    <length units="seconds">1864</length>
+  </programme>
+  <programme start="20260428181901 +0000" stop="20260428182332 +0000" channel="tv3">
+    <title>ایران امام رضا(ع) - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 3)</sub-title>
+    <length units="seconds">271</length>
+  </programme>
+  <programme start="20260428180632 +0000" stop="20260428181650 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روایت ایران</sub-title>
+    <length units="seconds">618</length>
+  </programme>
+  <programme start="20260428175853 +0000" stop="20260428180323 +0000" channel="tv3">
+    <title>بیعت مردم با رهبر معظم انقلاب و نیروهای مسلح - میدان ونک - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>گزارش روز ۱۴0۵ (شبکه ۳)</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260428175247 +0000" stop="20260428175555 +0000" channel="tv3">
+    <title>ایران وطن ماست - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 3)</sub-title>
+    <length units="seconds">188</length>
+  </programme>
+  <programme start="20260428171430 +0000" stop="20260428174930 +0000" channel="tv3">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>علاج</sub-title>
+    <length units="seconds">2100</length>
+  </programme>
   <programme start="20260428160350 +0000" stop="20260428165610 +0000" channel="tv3">
     <title>پشت صحنه - 8 اردیبهشت 1405</title>
     <sub-title>مسابقه صد</sub-title>
@@ -171,7 +356,7 @@
   </programme>
   <programme start="20260428093929 +0000" stop="20260428094407 +0000" channel="tv3">
     <title>فعالیت های گروه جهادی شهید علیرضایی افسریه - 8 اردیبهشت 1405</title>
-    <sub-title>گزارش روز ۱۴04 (شبکه ۳)</sub-title>
+    <sub-title>گزارش روز ۱۴0۵ (شبکه ۳)</sub-title>
     <length units="seconds">278</length>
   </programme>
   <programme start="20260428075624 +0000" stop="20260428093819 +0000" channel="tv3">
@@ -217,6 +402,51 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260428212542 +0000" stop="20260428214608 +0000" channel="tv4">
+    <title>تجمع مردمی بیعت با رهبر انقلاب و حمایت از رزمندگان اسلام - ۸ اردیبهشت 1405 </title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1226</length>
+  </programme>
+  <programme start="20260428210508 +0000" stop="20260428212541 +0000" channel="tv4">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>بیانات مقام معظم رهبری </sub-title>
+    <length units="seconds">1233</length>
+  </programme>
+  <programme start="20260428204851 +0000" stop="20260428210505 +0000" channel="tv4">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>سیاحت غرب</sub-title>
+    <length units="seconds">974</length>
+  </programme>
+  <programme start="20260428202317 +0000" stop="20260428204846 +0000" channel="tv4">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نقش نفس</sub-title>
+    <length units="seconds">1529</length>
+  </programme>
+  <programme start="20260428200635 +0000" stop="20260428201815 +0000" channel="tv4">
+    <title>حدیث کساء - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (شبکه 4)</sub-title>
+    <length units="seconds">700</length>
+  </programme>
+  <programme start="20260428191505 +0000" stop="20260428200011 +0000" channel="tv4">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>وضعیت جنگی</sub-title>
+    <length units="seconds">2706</length>
+  </programme>
+  <programme start="20260428191059 +0000" stop="20260428191458 +0000" channel="tv4">
+    <title>دعای نادعلی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (شبکه 4)</sub-title>
+    <length units="seconds">239</length>
+  </programme>
+  <programme start="20260428185907 +0000" stop="20260428190332 +0000" channel="tv4">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۳</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">265</length>
+  </programme>
+  <programme start="20260428184011 +0000" stop="20260428185305 +0000" channel="tv4">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>سیاحت غرب</sub-title>
+    <length units="seconds">774</length>
+  </programme>
   <programme start="20260428151945 +0000" stop="20260428154919 +0000" channel="tv4">
     <title>8 اردیبهشت 1405</title>
     <sub-title>قرن جدید</sub-title>
@@ -265,35 +495,120 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260428223435 +0000" stop="20260428224610 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">695</length>
+  </programme>
+  <programme start="20260428223300 +0000" stop="20260428223421 +0000" channel="irinn">
+    <title>ابعاد جدید در پرونده جفری اپستین منتشر شده است</title>
+    <sub-title>اخبار ساعت 22:30</sub-title>
+    <length units="seconds">81</length>
+  </programme>
+  <programme start="20260428223143 +0000" stop="20260428223259 +0000" channel="irinn">
+    <title>هلاکت یک نظامی صهیونیستی در حمله پهیادی مقاومت </title>
+    <sub-title>اخبار ساعت 22:30</sub-title>
+    <length units="seconds">76</length>
+  </programme>
+  <programme start="20260428223010 +0000" stop="20260428223435 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30</sub-title>
+    <length units="seconds">265</length>
+  </programme>
+  <programme start="20260428220045 +0000" stop="20260428223010 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵ - ساسان زارع</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1765</length>
+  </programme>
+  <programme start="20260428210000 +0000" stop="20260428220045 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3645</length>
+  </programme>
+  <programme start="20260428200245 +0000" stop="20260428205655 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">3250</length>
+  </programme>
+  <programme start="20260428200010 +0000" stop="20260428200245 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (خبر)</sub-title>
+    <length units="seconds">155</length>
+  </programme>
+  <programme start="20260428193540 +0000" stop="20260428200000 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">1460</length>
+  </programme>
+  <programme start="20260428193010 +0000" stop="20260428193540 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260428191355 +0000" stop="20260428192905 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">910</length>
+  </programme>
+  <programme start="20260428190005 +0000" stop="20260428191350 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">625</length>
+  </programme>
+  <programme start="20260428183845 +0000" stop="20260428185845 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روایت همدلی</sub-title>
+    <length units="seconds">1200</length>
+  </programme>
+  <programme start="20260428183005 +0000" stop="20260428183845 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>خبر اقتصاد و بازار (خبر)</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260428180735 +0000" stop="20260428182850 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵ - حجت الاسلام علی کریمیان</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">1275</length>
+  </programme>
+  <programme start="20260428180010 +0000" stop="20260428180730 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
+    <length units="seconds">450</length>
+  </programme>
+  <programme start="20260428175145 +0000" stop="20260428175540 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (خبر)</sub-title>
+    <length units="seconds">235</length>
+  </programme>
+  <programme start="20260428174805 +0000" stop="20260428175140 +0000" channel="irinn">
+    <title>حرف حساب - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">215</length>
+  </programme>
+  <programme start="20260428174025 +0000" stop="20260428174805 +0000" channel="irinn">
+    <title>مسافر بهشت - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خبر)</sub-title>
+    <length units="seconds">460</length>
+  </programme>
+  <programme start="20260428173410 +0000" stop="20260428174025 +0000" channel="irinn">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم </sub-title>
+    <length units="seconds">375</length>
+  </programme>
   <programme start="20260428173010 +0000" stop="20260428173410 +0000" channel="irinn">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>اخبار ساعت 17:30 (خبر)</sub-title>
     <length units="seconds">240</length>
   </programme>
   <programme start="20260428170835 +0000" stop="20260428172900 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵ - حجت الاسلام آقاتهرانی</title>
+    <title>۸ اردیبهشت ۱۴۰۵ - حجت الاسلام مرتضی آقاتهرانی</title>
     <sub-title>دفاع مقدس سوم </sub-title>
     <length units="seconds">1225</length>
-  </programme>
-  <programme start="20260428170542 +0000" stop="20260428170822 +0000" channel="irinn">
-    <title>پویش اول خانواده شهدا </title>
-    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
-    <length units="seconds">160</length>
   </programme>
   <programme start="20260428170241 +0000" stop="20260428170541 +0000" channel="irinn">
     <title>بارش های بهاری امید را به دلها برگرداند</title>
     <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
     <length units="seconds">180</length>
-  </programme>
-  <programme start="20260428170148 +0000" stop="20260428170239 +0000" channel="irinn">
-    <title>هشدار نارنجی بارش باران برای مناطق غربی کشور</title>
-    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
-    <length units="seconds">51</length>
-  </programme>
-  <programme start="20260428170028 +0000" stop="20260428170146 +0000" channel="irinn">
-    <title>عبور از تنگه هرمز بعد از جنگ با شیوه نامه ها جدید جمهوری اسلامی ایران </title>
-    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
-    <length units="seconds">78</length>
   </programme>
   <programme start="20260428170010 +0000" stop="20260428170835 +0000" channel="irinn">
     <title>۸ اردیبهشت ۱۴۰۵</title>
@@ -430,89 +745,59 @@
     <sub-title>دفاع مقدس سوم </sub-title>
     <length units="seconds">1070</length>
   </programme>
-  <programme start="20260428090005 +0000" stop="20260428090920 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
-    <length units="seconds">555</length>
-  </programme>
-  <programme start="20260428084045 +0000" stop="20260428085950 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵ - سید نظام‌الدین موسوی</title>
-    <sub-title>دفاع مقدس سوم </sub-title>
-    <length units="seconds">1145</length>
-  </programme>
-  <programme start="20260428080000 +0000" stop="20260428083345 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">2025</length>
-  </programme>
-  <programme start="20260428073730 +0000" stop="20260428075555 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵ - حجت الاسلام علی لطیفی</title>
-    <sub-title>دفاع مقدس سوم </sub-title>
-    <length units="seconds">1105</length>
-  </programme>
-  <programme start="20260428073010 +0000" stop="20260428073435 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
-    <length units="seconds">265</length>
-  </programme>
-  <programme start="20260428071420 +0000" stop="20260428072730 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵ - مجتبی شاهسونی</title>
-    <sub-title>دفاع مقدس سوم </sub-title>
-    <length units="seconds">790</length>
-  </programme>
-  <programme start="20260428070010 +0000" stop="20260428070855 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">525</length>
-  </programme>
-  <programme start="20260428063010 +0000" stop="20260428063355 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
-    <length units="seconds">225</length>
-  </programme>
-  <programme start="20260428061745 +0000" stop="20260428062600 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>با خبرنگاران</sub-title>
-    <length units="seconds">495</length>
-  </programme>
-  <programme start="20260428060010 +0000" stop="20260428060945 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">575</length>
-  </programme>
-  <programme start="20260428050010 +0000" stop="20260428051220 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">730</length>
-  </programme>
-  <programme start="20260428040010 +0000" stop="20260428040920 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">550</length>
-  </programme>
-  <programme start="20260428030010 +0000" stop="20260428030940 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">570</length>
-  </programme>
-  <programme start="20260428020010 +0000" stop="20260428021030 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">620</length>
-  </programme>
-  <programme start="20260428010010 +0000" stop="20260428011005 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">595</length>
-  </programme>
-  <programme start="20260428000030 +0000" stop="20260428002705 +0000" channel="irinn">
-    <title>۸ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">1595</length>
-  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260428220940 +0000" stop="20260428222545 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شور واژه ها</sub-title>
+    <length units="seconds">965</length>
+  </programme>
+  <programme start="20260428210805 +0000" stop="20260428220425 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>چهل تیکه ۱۴۰۵</sub-title>
+    <length units="seconds">3080</length>
+  </programme>
+  <programme start="20260428200635 +0000" stop="20260428205950 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ماندنی ها (فصل دوم)</sub-title>
+    <length units="seconds">3025</length>
+  </programme>
+  <programme start="20260428192940 +0000" stop="20260428200010 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ققنوس </sub-title>
+    <length units="seconds">1830</length>
+  </programme>
+  <programme start="20260428191810 +0000" stop="20260428192410 +0000" channel="nasim">
+    <title>دعای ناد علی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
+    <length units="seconds">360</length>
+  </programme>
+  <programme start="20260428190015 +0000" stop="20260428190710 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه </sub-title>
+    <length units="seconds">415</length>
+  </programme>
+  <programme start="20260428185220 +0000" stop="20260428185905 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایران امام رضا (ع)</sub-title>
+    <length units="seconds">405</length>
+  </programme>
+  <programme start="20260428184425 +0000" stop="20260428185045 +0000" channel="nasim">
+    <title>امام شهید - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">380</length>
+  </programme>
+  <programme start="20260428183450 +0000" stop="20260428184010 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روزبین</sub-title>
+    <length units="seconds">320</length>
+  </programme>
+  <programme start="20260428181735 +0000" stop="20260428182925 +0000" channel="nasim">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>بزنگاه</sub-title>
+    <length units="seconds">710</length>
+  </programme>
   <programme start="20260428160200 +0000" stop="20260428162115 +0000" channel="nasim">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>قاب اقتدار</sub-title>
@@ -531,6 +816,21 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260428204510 +0000" stop="20260428212405 +0000" channel="varzesh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>خاطره بازی با آقا جواد</sub-title>
+    <length units="seconds">2069</length>
+  </programme>
+  <programme start="20260428192742 +0000" stop="20260428204505 +0000" channel="varzesh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>کادر فنی (فصل هشتم)</sub-title>
+    <length units="seconds">4643</length>
+  </programme>
+  <programme start="20260428182524 +0000" stop="20260428185735 +0000" channel="varzesh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>تک به تک</sub-title>
+    <length units="seconds">1931</length>
+  </programme>
   <programme start="20260428162417 +0000" stop="20260428162605 +0000" channel="varzesh">
     <title>رقابت های صخره نوردی بازی های آسیایی چین - 8 اردیبهشت 1405 - بخش 5</title>
     <sub-title>بازی های ساحلی سانیا</sub-title>
@@ -612,6 +912,61 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260428214505 +0000" stop="20260428215930 +0000" channel="pooya">
+    <title>مهمان مامان - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شب رویایی</sub-title>
+    <length units="seconds">865</length>
+  </programme>
+  <programme start="20260428213035 +0000" stop="20260428214505 +0000" channel="pooya">
+    <title>کبوترهای امام رضا - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شب رویایی</sub-title>
+    <length units="seconds">870</length>
+  </programme>
+  <programme start="20260428212540 +0000" stop="20260428213035 +0000" channel="pooya">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۷</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">295</length>
+  </programme>
+  <programme start="20260428195455 +0000" stop="20260428195820 +0000" channel="pooya">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>ماجراهای نوید </sub-title>
+    <length units="seconds">205</length>
+  </programme>
+  <programme start="20260428192520 +0000" stop="20260428192950 +0000" channel="pooya">
+    <title>بابارضا - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260428192000 +0000" stop="20260428192520 +0000" channel="pooya">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ماجراهای نوید </sub-title>
+    <length units="seconds">320</length>
+  </programme>
+  <programme start="20260428190125 +0000" stop="20260428190245 +0000" channel="pooya">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>حکمت ستاره ها</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20260428183740 +0000" stop="20260428184315 +0000" channel="pooya">
+    <title>ما اهل روستاییم - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">335</length>
+  </programme>
+  <programme start="20260428182420 +0000" stop="20260428182815 +0000" channel="pooya">
+    <title>گنبد ایران - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">235</length>
+  </programme>
+  <programme start="20260428180035 +0000" stop="20260428182415 +0000" channel="pooya">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">1420</length>
+  </programme>
+  <programme start="20260428175425 +0000" stop="20260428175930 +0000" channel="pooya">
+    <title>بابارضا ۲ - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">305</length>
+  </programme>
   <programme start="20260428172735 +0000" stop="20260428173005 +0000" channel="pooya">
     <title>زنگ آخر - ۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
@@ -775,6 +1130,36 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260428220040 +0000" stop="20260428225144 +0000" channel="ifilm">
+    <title>قسمت ۱</title>
+    <sub-title>دیوار </sub-title>
+    <length units="seconds">2703</length>
+  </programme>
+  <programme start="20260428210038 +0000" stop="20260428215150 +0000" channel="ifilm">
+    <title>قسمت ۳۷</title>
+    <sub-title>لحظه گرگ و میش </sub-title>
+    <length units="seconds">2692</length>
+  </programme>
+  <programme start="20260428200031 +0000" stop="20260428205739 +0000" channel="ifilm">
+    <title>قسمت ۱۹</title>
+    <sub-title>ذهن زیبا</sub-title>
+    <length units="seconds">3139</length>
+  </programme>
+  <programme start="20260428191655 +0000" stop="20260428200002 +0000" channel="ifilm">
+    <title>قسمت ۳</title>
+    <sub-title>ناریا </sub-title>
+    <length units="seconds">2587</length>
+  </programme>
+  <programme start="20260428185238 +0000" stop="20260428185608 +0000" channel="ifilm">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شما و آی فیلم (سری جدید)</sub-title>
+    <length units="seconds">319</length>
+  </programme>
+  <programme start="20260428180026 +0000" stop="20260428184854 +0000" channel="ifilm">
+    <title>قسمت ۱۲</title>
+    <sub-title>گاهی به پشت سر نگاه کن</sub-title>
+    <length units="seconds">2431</length>
+  </programme>
   <programme start="20260428170023 +0000" stop="20260428174436 +0000" channel="ifilm">
     <title>قسمت ۲۷</title>
     <sub-title>نیکان</sub-title>
@@ -788,9 +1173,43 @@
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20260428210330 +0000" stop="20260428224100 +0000" channel="namayesh">
+    <title>شب</title>
+    <length units="seconds">5550</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260428220230 +0000" stop="20260428221100 +0000" channel="tehran">
+    <title>نظرات شهروندان تهرانی درباره جوانی جمعیت- 8 اردیبهشت 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">510</length>
+  </programme>
+  <programme start="20260428212200 +0000" stop="20260428215950 +0000" channel="tehran">
+    <title>گفتگوی ویژه مردمی - میدان شهید طهرانی مقدم - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">2270</length>
+  </programme>
+  <programme start="20260428195243 +0000" stop="20260428210310 +0000" channel="tehran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>تهران 20 (1405)</sub-title>
+    <length units="seconds">3117</length>
+  </programme>
+  <programme start="20260428194708 +0000" stop="20260428195230 +0000" channel="tehran">
+    <title>8 اردیبهشت 1405 - بخش 3</title>
+    <sub-title>خبرنگار مردمی</sub-title>
+    <length units="seconds">322</length>
+  </programme>
+  <programme start="20260428190217 +0000" stop="20260428194440 +0000" channel="tehran">
+    <title>قسمت 11</title>
+    <sub-title>مسافران شهر</sub-title>
+    <length units="seconds">2273</length>
+  </programme>
+  <programme start="20260428161508 +0000" stop="20260428172330 +0000" channel="tehran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>به خانه بر می گردیم 1405</sub-title>
+    <length units="seconds">4102</length>
+  </programme>
   <programme start="20260428150512 +0000" stop="20260428150720 +0000" channel="tehran">
     <title>8 اردیبهشت 1405 - بخش 2</title>
     <sub-title>خبرنگار مردمی</sub-title>
@@ -823,6 +1242,41 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260428220100 +0000" stop="20260428223330 +0000" channel="mostanad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>معرکه</sub-title>
+    <length units="seconds">1950</length>
+  </programme>
+  <programme start="20260428210015 +0000" stop="20260428214700 +0000" channel="mostanad">
+    <title>قصیده کوچ - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (مستند)</sub-title>
+    <length units="seconds">2805</length>
+  </programme>
+  <programme start="20260428200046 +0000" stop="20260428204400 +0000" channel="mostanad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>نجات خودرو</sub-title>
+    <length units="seconds">2594</length>
+  </programme>
+  <programme start="20260428193145 +0000" stop="20260428195200 +0000" channel="mostanad">
+    <title>یک عشق مشترک - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (مستند)</sub-title>
+    <length units="seconds">1215</length>
+  </programme>
+  <programme start="20260428183910 +0000" stop="20260428184130 +0000" channel="mostanad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">140</length>
+  </programme>
+  <programme start="20260428174715 +0000" stop="20260428183600 +0000" channel="mostanad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>تماشای بهار (مستند)</sub-title>
+    <length units="seconds">2925</length>
+  </programme>
+  <programme start="20260428170100 +0000" stop="20260428174230 +0000" channel="mostanad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>آیینه عمر (مستند)</sub-title>
+    <length units="seconds">2490</length>
+  </programme>
   <programme start="20260428155904 +0000" stop="20260428165310 +0000" channel="mostanad">
     <title>8 اردیبهشت 1405</title>
     <sub-title>کارگاه مرمت</sub-title>
@@ -831,6 +1285,56 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260428202048 +0000" stop="20260428202531 +0000" channel="quran">
+    <title>حاج محمدرضا طاهری - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مولودی خوانی (قرآن)</sub-title>
+    <length units="seconds">283</length>
+  </programme>
+  <programme start="20260428201000 +0000" stop="20260428202045 +0000" channel="quran">
+    <title>حکایت ام علی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>حاجت یافتگان </sub-title>
+    <length units="seconds">645</length>
+  </programme>
+  <programme start="20260428194350 +0000" stop="20260428200925 +0000" channel="quran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">1535</length>
+  </programme>
+  <programme start="20260428193142 +0000" stop="20260428194325 +0000" channel="quran">
+    <title>حدیث کساء - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">703</length>
+  </programme>
+  <programme start="20260428192634 +0000" stop="20260428193116 +0000" channel="quran">
+    <title>حاج محمدرضا طاهری - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مولودی خوانی (قرآن)</sub-title>
+    <length units="seconds">282</length>
+  </programme>
+  <programme start="20260428185344 +0000" stop="20260428190150 +0000" channel="quran">
+    <title>سجاد پروینی نژاد - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">486</length>
+  </programme>
+  <programme start="20260428181417 +0000" stop="20260428185225 +0000" channel="quran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">2288</length>
+  </programme>
+  <programme start="20260428180719 +0000" stop="20260428181159 +0000" channel="quran">
+    <title>حاج محمدرضا طاهری - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مولودی خوانی (قرآن)</sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260428180425 +0000" stop="20260428180718 +0000" channel="quran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جان فدا </sub-title>
+    <length units="seconds">173</length>
+  </programme>
+  <programme start="20260428174220 +0000" stop="20260428175922 +0000" channel="quran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دعای بیست و هفتم صحیفه سجادیه (قرآن) </sub-title>
+    <length units="seconds">1022</length>
+  </programme>
   <programme start="20260428173155 +0000" stop="20260428174218 +0000" channel="quran">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>صبح ظهور (قرآن)</sub-title>
@@ -1019,6 +1523,61 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260428222115 +0000" stop="20260428225010 +0000" channel="amouzesh">
+    <title>کنکور تجربی - زیست‌شناسی - پایه دوازدهم - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1735</length>
+  </programme>
+  <programme start="20260428214925 +0000" stop="20260428221725 +0000" channel="amouzesh">
+    <title>کنکور ریاضی - فیزیک - اصطکاک - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1680</length>
+  </programme>
+  <programme start="20260428213205 +0000" stop="20260428214915 +0000" channel="amouzesh">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۳</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1030</length>
+  </programme>
+  <programme start="20260428210030 +0000" stop="20260428213155 +0000" channel="amouzesh">
+    <title>کنکور ریاضی - حسابان - مفهوم حد در بی‌نهایت - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1885</length>
+  </programme>
+  <programme start="20260428203820 +0000" stop="20260428205710 +0000" channel="amouzesh">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1130</length>
+  </programme>
+  <programme start="20260428203410 +0000" stop="20260428203550 +0000" channel="amouzesh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>موشن گرافیک</sub-title>
+    <length units="seconds">100</length>
+  </programme>
+  <programme start="20260428202720 +0000" stop="20260428203220 +0000" channel="amouzesh">
+    <title>میهن امام رضا - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260428200010 +0000" stop="20260428201645 +0000" channel="amouzesh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>حدیث کسا</sub-title>
+    <length units="seconds">995</length>
+  </programme>
+  <programme start="20260428191835 +0000" stop="20260428195855 +0000" channel="amouzesh">
+    <title>خادم الرضا - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه مذهبی (آموزش)</sub-title>
+    <length units="seconds">2420</length>
+  </programme>
+  <programme start="20260428183940 +0000" stop="20260428184645 +0000" channel="amouzesh">
+    <title>از قلب ایران - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">425</length>
+  </programme>
+  <programme start="20260428183435 +0000" stop="20260428183835 +0000" channel="amouzesh">
+    <title>چو ایران نباشد تن من مباد - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">240</length>
+  </programme>
   <programme start="20260428171255 +0000" stop="20260428172550 +0000" channel="amouzesh">
     <title>پایه یازدهم - آمار و احتمال - احتمال - ۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
@@ -1192,6 +1751,36 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260428221510 +0000" stop="20260428222950 +0000" channel="salamat">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>با هم تا بهشت </sub-title>
+    <length units="seconds">880</length>
+  </programme>
+  <programme start="20260428220136 +0000" stop="20260428221321 +0000" channel="salamat">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>همراه با مردم </sub-title>
+    <length units="seconds">705</length>
+  </programme>
+  <programme start="20260428215047 +0000" stop="20260428215816 +0000" channel="salamat">
+    <title>حضور گروههای جهادی در تجمعات شبانه - ۸ اردیبهشت 1405</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">449</length>
+  </programme>
+  <programme start="20260428205101 +0000" stop="20260428213715 +0000" channel="salamat">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>داستان های ناگفته اورژانس </sub-title>
+    <length units="seconds">2774</length>
+  </programme>
+  <programme start="20260428201723 +0000" stop="20260428204711 +0000" channel="salamat">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>استودیو سلامت 1405</sub-title>
+    <length units="seconds">1788</length>
+  </programme>
+  <programme start="20260428193552 +0000" stop="20260428200020 +0000" channel="salamat">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>خانه سلامت</sub-title>
+    <length units="seconds">1468</length>
+  </programme>
   <programme start="20260428160338 +0000" stop="20260428164945 +0000" channel="salamat">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>ضربان ۱۴۰5</sub-title>
@@ -1235,6 +1824,61 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260428224232 +0000" stop="20260428230047 +0000" channel="ofogh">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>سروستان </sub-title>
+    <length units="seconds">1095</length>
+  </programme>
+  <programme start="20260428215801 +0000" stop="20260428224152 +0000" channel="ofogh">
+    <title>تبیین - ۸ اردیبهشت 1405</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">2631</length>
+  </programme>
+  <programme start="20260428215604 +0000" stop="20260428215721 +0000" channel="ofogh">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>روزنگار </sub-title>
+    <length units="seconds">77</length>
+  </programme>
+  <programme start="20260428214925 +0000" stop="20260428215600 +0000" channel="ofogh">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>میدان </sub-title>
+    <length units="seconds">395</length>
+  </programme>
+  <programme start="20260428201935 +0000" stop="20260428213045 +0000" channel="ofogh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایران امام رضا(ع)</sub-title>
+    <length units="seconds">4270</length>
+  </programme>
+  <programme start="20260428193249 +0000" stop="20260428201745 +0000" channel="ofogh">
+    <title>قسمت ۳۷ </title>
+    <sub-title>در چشم باد</sub-title>
+    <length units="seconds">2696</length>
+  </programme>
+  <programme start="20260428192826 +0000" stop="20260428193210 +0000" channel="ofogh">
+    <title>حاج محمود کریمی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مولودی خوانی (افق)</sub-title>
+    <length units="seconds">224</length>
+  </programme>
+  <programme start="20260428191937 +0000" stop="20260428192805 +0000" channel="ofogh">
+    <title>دعای چهاردهم صحیفه سجادیه - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (افق)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260428183323 +0000" stop="20260428190014 +0000" channel="ofogh">
+    <title>فتح - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">1611</length>
+  </programme>
+  <programme start="20260428182844 +0000" stop="20260428183242 +0000" channel="ofogh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اتاق صدا</sub-title>
+    <length units="seconds">238</length>
+  </programme>
+  <programme start="20260428170406 +0000" stop="20260428182841 +0000" channel="ofogh">
+    <title>مردم - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">5075</length>
+  </programme>
   <programme start="20260428163629 +0000" stop="20260428165519 +0000" channel="ofogh">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>سروستان </sub-title>
@@ -1313,6 +1957,36 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260428215030 +0000" stop="20260428215505 +0000" channel="omid">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>نیتروژن</sub-title>
+    <length units="seconds">275</length>
+  </programme>
+  <programme start="20260428200016 +0000" stop="20260428205130 +0000" channel="omid">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>هزار و یک اسم</sub-title>
+    <length units="seconds">3074</length>
+  </programme>
+  <programme start="20260428193030 +0000" stop="20260428195300 +0000" channel="omid">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>هیس طوری</sub-title>
+    <length units="seconds">1350</length>
+  </programme>
+  <programme start="20260428182900 +0000" stop="20260428185300 +0000" channel="omid">
+    <title>قسمت 4</title>
+    <sub-title>جوانمردان</sub-title>
+    <length units="seconds">1440</length>
+  </programme>
+  <programme start="20260428180840 +0000" stop="20260428182130 +0000" channel="omid">
+    <title>سرنخ - 8 اردیبهشت 1405</title>
+    <sub-title>فیلم کوتاه (امید)</sub-title>
+    <length units="seconds">770</length>
+  </programme>
+  <programme start="20260428172940 +0000" stop="20260428180500 +0000" channel="omid">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>وارثان حبیب </sub-title>
+    <length units="seconds">2120</length>
+  </programme>
   <programme start="20260428143130 +0000" stop="20260428165700 +0000" channel="omid">
     <title>8 اردیبهشت 1405</title>
     <sub-title>شبکه بازی: فصل 3 </sub-title>
@@ -1321,6 +1995,16 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260428205300 +0000" stop="20260428222645 +0000" channel="irinn2">
+    <title>تجمع مردمی بیعت با رهبر انقلاب و حمایت از رزمندگان اسلام - ۸ اردیبهشت 1405 - بخش ۱</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">5625</length>
+  </programme>
+  <programme start="20260428193005 +0000" stop="20260428205300 +0000" channel="irinn2">
+    <title>اجتماع لشکریان امام رضا(ع) - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">4975</length>
+  </programme>
   <programme start="20260428161447 +0000" stop="20260428172621 +0000" channel="irinn2">
     <title>گردهمایی اصحاب فرهنگ و هنر به مناسبت میلاد امام رضا (ع) - 8 اردیبهشت 1405</title>
     <sub-title>گزارش خبری </sub-title>
@@ -1334,6 +2018,16 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20260428200007 +0000" stop="20260428202707 +0000" channel="azarbayjangharbi">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آذربایجان غربی)</sub-title>
+    <length units="seconds">1620</length>
+  </programme>
+  <programme start="20260428160753 +0000" stop="20260428173603 +0000" channel="azarbayjangharbi">
+    <title>همایش دختران حاج قاسم - وقارلی قیزلار - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
+    <length units="seconds">5290</length>
+  </programme>
   <programme start="20260428130011 +0000" stop="20260428132220 +0000" channel="azarbayjangharbi">
     <title>8 اردیبهشت 1405</title>
     <sub-title>اخبار ساعت 13:00 (آذربایجان غربی)</sub-title>
@@ -1387,6 +2081,36 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260428200845 +0000" stop="20260428221755 +0000" channel="sahand">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۴</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">7750</length>
+  </programme>
+  <programme start="20260428193000 +0000" stop="20260428195905 +0000" channel="sahand">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1745</length>
+  </programme>
+  <programme start="20260428184205 +0000" stop="20260428192350 +0000" channel="sahand">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>کندیمیز (سهند)</sub-title>
+    <length units="seconds">2505</length>
+  </programme>
+  <programme start="20260428180115 +0000" stop="20260428183610 +0000" channel="sahand">
+    <title>از ماووت تا ملکوت - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (سهند)</sub-title>
+    <length units="seconds">2095</length>
+  </programme>
+  <programme start="20260428173000 +0000" stop="20260428174650 +0000" channel="sahand">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (سهند)</sub-title>
+    <length units="seconds">1010</length>
+  </programme>
+  <programme start="20260428160005 +0000" stop="20260428172155 +0000" channel="sahand">
+    <title>۸ اردیبهشت ۱۴۰۵ - بخش ۳</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">4910</length>
+  </programme>
   <programme start="20260428133010 +0000" stop="20260428133600 +0000" channel="sahand">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>اخبار ساعت 13:30 (سهند)</sub-title>
@@ -1456,6 +2180,31 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260428205100 +0000" stop="20260428214521 +0000" channel="sabalan">
+    <title>شمس الشموس - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">3261</length>
+  </programme>
+  <programme start="20260428203557 +0000" stop="20260428204937 +0000" channel="sabalan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">820</length>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428203216 +0000" channel="sabalan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (سبلان)</sub-title>
+    <length units="seconds">1936</length>
+  </programme>
+  <programme start="20260428184526 +0000" stop="20260428190148 +0000" channel="sabalan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>با مردم </sub-title>
+    <length units="seconds">982</length>
+  </programme>
+  <programme start="20260428163037 +0000" stop="20260428170424 +0000" channel="sabalan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اوشاقلار سلام (سبلان)</sub-title>
+    <length units="seconds">2027</length>
+  </programme>
   <programme start="20260428160011 +0000" stop="20260428161527 +0000" channel="sabalan">
     <title>8 اردیبهشت 1405</title>
     <sub-title>اخبار 16:00 </sub-title>
@@ -1494,6 +2243,41 @@
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20260428223216 +0000" stop="20260428225550 +0000" channel="ilam">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405 - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1414</length>
+  </programme>
+  <programme start="20260428220135 +0000" stop="20260428223215 +0000" channel="ilam">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 22:30 (ایلام)</sub-title>
+    <length units="seconds">1840</length>
+  </programme>
+  <programme start="20260428212315 +0000" stop="20260428220133 +0000" channel="ilam">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">2298</length>
+  </programme>
+  <programme start="20260428203731 +0000" stop="20260428212315 +0000" channel="ilam">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر </sub-title>
+    <length units="seconds">2744</length>
+  </programme>
+  <programme start="20260428202718 +0000" stop="20260428203121 +0000" channel="ilam">
+    <title>شمس و فانوس - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (ایلام)</sub-title>
+    <length units="seconds">243</length>
+  </programme>
+  <programme start="20260428200105 +0000" stop="20260428202442 +0000" channel="ilam">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (ایلام)</sub-title>
+    <length units="seconds">1417</length>
+  </programme>
+  <programme start="20260428194341 +0000" stop="20260428195943 +0000" channel="ilam">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ریوار </sub-title>
+    <length units="seconds">962</length>
+  </programme>
   <programme start="20260428170100 +0000" stop="20260428172935 +0000" channel="ilam">
     <title>8 اردیبهشت 1405</title>
     <sub-title>اخبار ساعت 17:00 (ایلام)</sub-title>
@@ -1517,12 +2301,92 @@
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260428180123 +0000" stop="20260428183057 +0000" channel="bushehr">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">1774</length>
+  </programme>
+  <programme start="20260428170013 +0000" stop="20260428171942 +0000" channel="bushehr">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 17:00 (بوشهر)</sub-title>
+    <length units="seconds">1169</length>
+  </programme>
+  <programme start="20260428153207 +0000" stop="20260428163226 +0000" channel="bushehr">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>بچه های آفتاب</sub-title>
+    <length units="seconds">3619</length>
+  </programme>
+  <programme start="20260428121630 +0000" stop="20260428122342 +0000" channel="bushehr">
+    <title>دعای 14 صحیفه سجادیه-8 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (بوشهر)</sub-title>
+    <length units="seconds">432</length>
+  </programme>
+  <programme start="20260428110212 +0000" stop="20260428113141 +0000" channel="bushehr">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">1769</length>
+  </programme>
+  <programme start="20260428104245 +0000" stop="20260428110102 +0000" channel="bushehr">
+    <title>روایت مردم-8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">1097</length>
+  </programme>
+  <programme start="20260428090211 +0000" stop="20260428100229 +0000" channel="bushehr">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>بچه های آفتاب</sub-title>
+    <length units="seconds">3618</length>
+  </programme>
+  <programme start="20260428060818 +0000" stop="20260428064709 +0000" channel="bushehr">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>صهبای تسنیم </sub-title>
+    <length units="seconds">2331</length>
+  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20260428170000 +0000" stop="20260428172100 +0000" channel="abadan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 17:00 (آبادان)</sub-title>
+    <length units="seconds">1260</length>
+  </programme>
+  <programme start="20260428143600 +0000" stop="20260428143828 +0000" channel="abadan">
+    <title>بوم بیدار-8 اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">148</length>
+  </programme>
+  <programme start="20260428130144 +0000" stop="20260428133236 +0000" channel="abadan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>تحلیل جنگ تحمیلی سوم </sub-title>
+    <length units="seconds">1852</length>
+  </programme>
+  <programme start="20260428124259 +0000" stop="20260428125814 +0000" channel="abadan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>خروش الوند </sub-title>
+    <length units="seconds">915</length>
+  </programme>
+  <programme start="20260428122807 +0000" stop="20260428124257 +0000" channel="abadan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>حدیث کسا </sub-title>
+    <length units="seconds">890</length>
+  </programme>
+  <programme start="20260428120014 +0000" stop="20260428120914 +0000" channel="abadan">
+    <title>دعای 14 صحیفه سجادیه-8 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (آبادان)</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20260428094510 +0000" stop="20260428103300 +0000" channel="abadan">
+    <title>کتاب استر-8 اردیبهشت 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (آبادان)</sub-title>
+    <length units="seconds">2870</length>
+  </programme>
+  <programme start="20260428042733 +0000" stop="20260428043737 +0000" channel="abadan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>دعای عهد (آبادان)</sub-title>
+    <length units="seconds">604</length>
+  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
@@ -1564,6 +2428,26 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260428220825 +0000" stop="20260428222719 +0000" channel="atrak">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1134</length>
+  </programme>
+  <programme start="20260428210350 +0000" stop="20260428220825 +0000" channel="atrak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر</sub-title>
+    <length units="seconds">3875</length>
+  </programme>
+  <programme start="20260428203510 +0000" stop="20260428210350 +0000" channel="atrak">
+    <title>اجتماع مردمی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1720</length>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428202912 +0000" channel="atrak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
+    <length units="seconds">1752</length>
+  </programme>
   <programme start="20260428170044 +0000" stop="20260428172518 +0000" channel="atrak">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>آوای ایران </sub-title>
@@ -1602,6 +2486,51 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260428214833 +0000" stop="20260428215623 +0000" channel="khalijefars">
+    <title>پارک موزیکال شهدای شهرداری - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260428203609 +0000" stop="20260428214823 +0000" channel="khalijefars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>مهد دلیران</sub-title>
+    <length units="seconds">4334</length>
+  </programme>
+  <programme start="20260428195815 +0000" stop="20260428202656 +0000" channel="khalijefars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خلیج فارس)</sub-title>
+    <length units="seconds">1721</length>
+  </programme>
+  <programme start="20260428194503 +0000" stop="20260428194936 +0000" channel="khalijefars">
+    <title>دیدار با خانواده شهید بدراق - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">273</length>
+  </programme>
+  <programme start="20260428192918 +0000" stop="20260428194502 +0000" channel="khalijefars">
+    <title>آستان جانان - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
+    <length units="seconds">944</length>
+  </programme>
+  <programme start="20260428190707 +0000" stop="20260428192558 +0000" channel="khalijefars">
+    <title>ضیافت غزل - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">1131</length>
+  </programme>
+  <programme start="20260428182333 +0000" stop="20260428182550 +0000" channel="khalijefars">
+    <title>حجت الاسلام سعیدی آریا - 8 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (خلیج فارس)</sub-title>
+    <length units="seconds">137</length>
+  </programme>
+  <programme start="20260428181649 +0000" stop="20260428182333 +0000" channel="khalijefars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>تا آسمان (خلیج فارس)</sub-title>
+    <length units="seconds">404</length>
+  </programme>
+  <programme start="20260428180835 +0000" stop="20260428181450 +0000" channel="khalijefars">
+    <title>دعای چهاردهم صحیفه سجادیه - 8 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (خلیج فارس)</sub-title>
+    <length units="seconds">375</length>
+  </programme>
   <programme start="20260428151655 +0000" stop="20260428153820 +0000" channel="khalijefars">
     <title>آستان جانان - 8 اردیبهشت 1405</title>
     <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
@@ -1625,6 +2554,31 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260428211241 +0000" stop="20260428224545 +0000" channel="khoozestan">
+    <title>اجتماع مردمی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">5584</length>
+  </programme>
+  <programme start="20260428203728 +0000" stop="20260428211237 +0000" channel="khoozestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>الامه </sub-title>
+    <length units="seconds">2109</length>
+  </programme>
+  <programme start="20260428193511 +0000" stop="20260428203400 +0000" channel="khoozestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مراحب</sub-title>
+    <length units="seconds">3529</length>
+  </programme>
+  <programme start="20260428183415 +0000" stop="20260428184655 +0000" channel="khoozestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:30 (خوزستان)</sub-title>
+    <length units="seconds">760</length>
+  </programme>
+  <programme start="20260428175620 +0000" stop="20260428180845 +0000" channel="khoozestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روز خدا</sub-title>
+    <length units="seconds">745</length>
+  </programme>
   <programme start="20260428165955 +0000" stop="20260428172128 +0000" channel="khoozestan">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>اخبار ساعت 17:00 (خوزستان)</sub-title>
@@ -1658,6 +2612,21 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260428210040 +0000" stop="20260428210310 +0000" channel="eshragh">
+    <title>مشت گره کرده - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (اشراق)</sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428204740 +0000" channel="eshragh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اشراق)</sub-title>
+    <length units="seconds">2860</length>
+  </programme>
+  <programme start="20260428180040 +0000" stop="20260428182935 +0000" channel="eshragh">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>حسینیه اعظم ایران</sub-title>
+    <length units="seconds">1735</length>
+  </programme>
   <programme start="20260428122850 +0000" stop="20260428124005 +0000" channel="eshragh">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>خیابان</sub-title>
@@ -1689,6 +2658,41 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260428214620 +0000" stop="20260428224604 +0000" channel="hamoon">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>پناه ایران </sub-title>
+    <length units="seconds">3584</length>
+  </programme>
+  <programme start="20260428204655 +0000" stop="20260428214615 +0000" channel="hamoon">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">3560</length>
+  </programme>
+  <programme start="20260428200010 +0000" stop="20260428202124 +0000" channel="hamoon">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (هامون)</sub-title>
+    <length units="seconds">1274</length>
+  </programme>
+  <programme start="20260428193230 +0000" stop="20260428194224 +0000" channel="hamoon">
+    <title>دعای توسل - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (هامون)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20260428191720 +0000" stop="20260428193227 +0000" channel="hamoon">
+    <title>تجمع جوانان برای ایران - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">907</length>
+  </programme>
+  <programme start="20260428183200 +0000" stop="20260428184620 +0000" channel="hamoon">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>خبر هامون</sub-title>
+    <length units="seconds">860</length>
+  </programme>
+  <programme start="20260428163000 +0000" stop="20260428164620 +0000" channel="hamoon">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:30 (هامون)</sub-title>
+    <length units="seconds">980</length>
+  </programme>
   <programme start="20260428150012 +0000" stop="20260428155455 +0000" channel="hamoon">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>مهر هنکین </sub-title>
@@ -1712,6 +2716,36 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260428204930 +0000" stop="20260428223000 +0000" channel="fars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ایراندخت</sub-title>
+    <length units="seconds">6030</length>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428203350 +0000" channel="fars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">2030</length>
+  </programme>
+  <programme start="20260428191630 +0000" stop="20260428193900 +0000" channel="fars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>روایت خانه</sub-title>
+    <length units="seconds">1350</length>
+  </programme>
+  <programme start="20260428181300 +0000" stop="20260428184430 +0000" channel="fars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>میدان نخبگان</sub-title>
+    <length units="seconds">1890</length>
+  </programme>
+  <programme start="20260428175500 +0000" stop="20260428180500 +0000" channel="fars">
+    <title>رادار  - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260428164500 +0000" stop="20260428170100 +0000" channel="fars">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 16:45 (فارس)</sub-title>
+    <length units="seconds">960</length>
+  </programme>
   <programme start="20260428121000 +0000" stop="20260428122900 +0000" channel="fars">
     <title>آیت الله دژکام - 8 اردیبهشت 1405</title>
     <sub-title>سخنرانی (فارس)</sub-title>
@@ -1745,12 +2779,157 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260428184103 +0000" stop="20260428190854 +0000" channel="qazvin">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ره پیش</sub-title>
+    <length units="seconds">1671</length>
+  </programme>
+  <programme start="20260428173135 +0000" stop="20260428182319 +0000" channel="qazvin">
+    <title>8 اردیبهشت 1405-سید احمد نصری</title>
+    <sub-title>وطن یار</sub-title>
+    <length units="seconds">3104</length>
+  </programme>
+  <programme start="20260428162230 +0000" stop="20260428164933 +0000" channel="qazvin">
+    <title>دانش فنی تخصصی پایه دوازدهم-8 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی شبکه قزوین</sub-title>
+    <length units="seconds">1623</length>
+  </programme>
+  <programme start="20260428160055 +0000" stop="20260428162225 +0000" channel="qazvin">
+    <title>عربی پایه یازدهم-8 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی شبکه قزوین</sub-title>
+    <length units="seconds">1290</length>
+  </programme>
+  <programme start="20260428153315 +0000" stop="20260428160054 +0000" channel="qazvin">
+    <title>آموزش درس طراحی لباس به روش حجمی پایه دوازدهم-8 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی شبکه قزوین</sub-title>
+    <length units="seconds">1659</length>
+  </programme>
+  <programme start="20260428150318 +0000" stop="20260428151909 +0000" channel="qazvin">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">951</length>
+  </programme>
+  <programme start="20260428103848 +0000" stop="20260428105120 +0000" channel="qazvin">
+    <title>ایران امام رضا-8 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (قزوین)</sub-title>
+    <length units="seconds">752</length>
+  </programme>
+  <programme start="20260428090232 +0000" stop="20260428093258 +0000" channel="qazvin">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی شبکه قزوین</sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260428075535 +0000" stop="20260428085947 +0000" channel="qazvin">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>صبح بخیر قزوین (قزوین)</sub-title>
+    <length units="seconds">3852</length>
+  </programme>
+  <programme start="20260428044552 +0000" stop="20260428054428 +0000" channel="qazvin">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>تلاوت نور</sub-title>
+    <length units="seconds">3516</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260428220000 +0000" stop="20260428225011 +0000" channel="noor">
+    <title>خروش انقلابی مردم - ۸ اردیبهشت 1405 - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">3011</length>
+  </programme>
+  <programme start="20260428211845 +0000" stop="20260428220000 +0000" channel="noor">
+    <title>خروش انقلابی مردم  - ۸ اردیبهشت ۱۴۰۵ - بخش ۱</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">2475</length>
+  </programme>
+  <programme start="20260428203029 +0000" stop="20260428211840 +0000" channel="noor">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>آستانه (نور)</sub-title>
+    <length units="seconds">2891</length>
+  </programme>
+  <programme start="20260428200017 +0000" stop="20260428202907 +0000" channel="noor">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1730</length>
+  </programme>
+  <programme start="20260428194810 +0000" stop="20260428200015 +0000" channel="noor">
+    <title>هم سایه نور - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">725</length>
+  </programme>
+  <programme start="20260428194513 +0000" stop="20260428194806 +0000" channel="noor">
+    <title>خیابون ایران - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">173</length>
+  </programme>
+  <programme start="20260428193825 +0000" stop="20260428194509 +0000" channel="noor">
+    <title>حاج میثم مطیعی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مولودی خوانی (نور)</sub-title>
+    <length units="seconds">404</length>
+  </programme>
+  <programme start="20260428192900 +0000" stop="20260428193450 +0000" channel="noor">
+    <title>از دل مردم برای مردم - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">350</length>
+  </programme>
+  <programme start="20260428192403 +0000" stop="20260428192735 +0000" channel="noor">
+    <title>دعای الهی عظم البلاء - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نور)</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20260428182318 +0000" stop="20260428185405 +0000" channel="noor">
+    <title>معماری بارگاه حضرت معصومه(س) - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">1847</length>
+  </programme>
+  <programme start="20260428173513 +0000" stop="20260428174620 +0000" channel="noor">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دوربین قم (نور)</sub-title>
+    <length units="seconds">667</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20260428222635 +0000" stop="20260428224614 +0000" channel="aflak">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>در مسیر پیشرفت (لرستان)</sub-title>
+    <length units="seconds">1179</length>
+  </programme>
+  <programme start="20260428220120 +0000" stop="20260428222117 +0000" channel="aflak">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1197</length>
+  </programme>
+  <programme start="20260428210421 +0000" stop="20260428220117 +0000" channel="aflak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>بهار ایستادگی </sub-title>
+    <length units="seconds">3416</length>
+  </programme>
+  <programme start="20260428204541 +0000" stop="20260428205633 +0000" channel="aflak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>قاب مردم (لرستان)</sub-title>
+    <length units="seconds">652</length>
+  </programme>
+  <programme start="20260428200011 +0000" stop="20260428203355 +0000" channel="aflak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (لرستان)</sub-title>
+    <length units="seconds">2024</length>
+  </programme>
+  <programme start="20260428193011 +0000" stop="20260428194243 +0000" channel="aflak">
+    <title>مجاهد گمنام - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (لرستان)</sub-title>
+    <length units="seconds">752</length>
+  </programme>
+  <programme start="20260428183306 +0000" stop="20260428190620 +0000" channel="aflak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (لرستان)</sub-title>
+    <length units="seconds">1994</length>
+  </programme>
+  <programme start="20260428165958 +0000" stop="20260428172229 +0000" channel="aflak">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (لرستان)</sub-title>
+    <length units="seconds">1351</length>
+  </programme>
   <programme start="20260428085241 +0000" stop="20260428090403 +0000" channel="aflak">
     <title>۸ اردیبهشت 1405</title>
     <sub-title>قاب مردم (لرستان)</sub-title>
@@ -1772,6 +2951,31 @@
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260428200338 +0000" stop="20260428203832 +0000" channel="zagros">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>کریمانه</sub-title>
+    <length units="seconds">2094</length>
+  </programme>
+  <programme start="20260428193015 +0000" stop="20260428195250 +0000" channel="zagros">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 19:30 (زاگرس)</sub-title>
+    <length units="seconds">1355</length>
+  </programme>
+  <programme start="20260428182520 +0000" stop="20260428190728 +0000" channel="zagros">
+    <title>لاله خیز - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">2528</length>
+  </programme>
+  <programme start="20260428180750 +0000" stop="20260428181617 +0000" channel="zagros">
+    <title>مکث - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (زاگرس)</sub-title>
+    <length units="seconds">507</length>
+  </programme>
+  <programme start="20260428173917 +0000" stop="20260428180747 +0000" channel="zagros">
+    <title>هرمز جان - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">1710</length>
+  </programme>
   <programme start="20260428160050 +0000" stop="20260428170911 +0000" channel="zagros">
     <title>8 اردیبهشت 1405</title>
     <sub-title>مبارز میدان</sub-title>
@@ -1805,6 +3009,36 @@
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20260428215705 +0000" stop="20260428224630 +0000" channel="dena">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405 - بخش ۳</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">2965</length>
+  </programme>
+  <programme start="20260428213000 +0000" stop="20260428215705 +0000" channel="dena">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405 - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1625</length>
+  </programme>
+  <programme start="20260428210606 +0000" stop="20260428213000 +0000" channel="dena">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405 - بخش ۱</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">1434</length>
+  </programme>
+  <programme start="20260428203308 +0000" stop="20260428210605 +0000" channel="dena">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">1977</length>
+  </programme>
+  <programme start="20260428200016 +0000" stop="20260428202513 +0000" channel="dena">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (دنا)</sub-title>
+    <length units="seconds">1497</length>
+  </programme>
+  <programme start="20260428192941 +0000" stop="20260428194338 +0000" channel="dena">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دنا نما</sub-title>
+    <length units="seconds">837</length>
+  </programme>
   <programme start="20260428164500 +0000" stop="20260428170243 +0000" channel="dena">
     <title>8 اردیبهشت 1405</title>
     <sub-title>اخبار ساعت 16:45 (دنا)</sub-title>
@@ -1836,6 +3070,36 @@
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260428215300 +0000" stop="20260428225211 +0000" channel="sabz">
+    <title>آسمان هشتم - ۸ اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (سبز)</sub-title>
+    <length units="seconds">3551</length>
+  </programme>
+  <programme start="20260428210201 +0000" stop="20260428214730 +0000" channel="sabz">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">2729</length>
+  </programme>
+  <programme start="20260428202428 +0000" stop="20260428204605 +0000" channel="sabz">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>گفتگوی ویژه خبری (سبز)</sub-title>
+    <length units="seconds">1297</length>
+  </programme>
+  <programme start="20260428195958 +0000" stop="20260428202427 +0000" channel="sabz">
+    <title>۸ اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (سبز)</sub-title>
+    <length units="seconds">1469</length>
+  </programme>
+  <programme start="20260428193954 +0000" stop="20260428194156 +0000" channel="sabz">
+    <title>رنگ و جنگ - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260428170000 +0000" stop="20260428170951 +0000" channel="sabz">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (سبز)</sub-title>
+    <length units="seconds">591</length>
+  </programme>
   <programme start="20260428160008 +0000" stop="20260428161609 +0000" channel="sabz">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>اخبار ساعت 16:00 (سبز)</sub-title>
@@ -1864,6 +3128,31 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260428215317 +0000" stop="20260428225823 +0000" channel="baran">
+    <title>اجتماع مردمی - ۸ اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">3906</length>
+  </programme>
+  <programme start="20260428210920 +0000" stop="20260428215317 +0000" channel="baran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر (باران)</sub-title>
+    <length units="seconds">2637</length>
+  </programme>
+  <programme start="20260428203122 +0000" stop="20260428205041 +0000" channel="baran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (باران)</sub-title>
+    <length units="seconds">1159</length>
+  </programme>
+  <programme start="20260428200021 +0000" stop="20260428203120 +0000" channel="baran">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (باران)</sub-title>
+    <length units="seconds">1859</length>
+  </programme>
+  <programme start="20260428193006 +0000" stop="20260428193448 +0000" channel="baran">
+    <title>دعای هفتم صحیفه سجادیه - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (باران)</sub-title>
+    <length units="seconds">282</length>
+  </programme>
   <programme start="20260428162815 +0000" stop="20260428172832 +0000" channel="baran">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>می جان ایران </sub-title>
@@ -1897,6 +3186,36 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260428220120 +0000" stop="20260428221050 +0000" channel="kordestan">
+    <title>تجمع مردمی - ۸ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">570</length>
+  </programme>
+  <programme start="20260428213055 +0000" stop="20260428220120 +0000" channel="kordestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:30 (کردستان)</sub-title>
+    <length units="seconds">1825</length>
+  </programme>
+  <programme start="20260428205525 +0000" stop="20260428213050 +0000" channel="kordestan">
+    <title>تجمع مردمی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">2125</length>
+  </programme>
+  <programme start="20260428203030 +0000" stop="20260428203205 +0000" channel="kordestan">
+    <title>دست نوشته‌های مردمی - ۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">95</length>
+  </programme>
+  <programme start="20260428191715 +0000" stop="20260428192435 +0000" channel="kordestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>صهبای جان (کردستان)</sub-title>
+    <length units="seconds">440</length>
+  </programme>
+  <programme start="20260428181900 +0000" stop="20260428185800 +0000" channel="kordestan">
+    <title>۸ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایران استوار</sub-title>
+    <length units="seconds">2340</length>
+  </programme>
   <programme start="20260428123000 +0000" stop="20260428124645 +0000" channel="kordestan">
     <title>۸ اردیبهشت ۱۴۰۵</title>
     <sub-title>به ره و رووناکی (کردستان)</sub-title>
@@ -1920,9 +3239,34 @@
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
+  <programme start="20260428200000 +0000" stop="20260428202700 +0000" channel="taban">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (یزد)</sub-title>
+    <length units="seconds">1620</length>
+  </programme>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260428202724 +0000" stop="20260428213237 +0000" channel="tabarestan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>از حرم تا حرم</sub-title>
+    <length units="seconds">3913</length>
+  </programme>
+  <programme start="20260428200010 +0000" stop="20260428202215 +0000" channel="tabarestan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (تبرستان)</sub-title>
+    <length units="seconds">1325</length>
+  </programme>
+  <programme start="20260428191827 +0000" stop="20260428192614 +0000" channel="tabarestan">
+    <title>زیارت آل یاسین - 8 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
+    <length units="seconds">467</length>
+  </programme>
+  <programme start="20260428155954 +0000" stop="20260428165624 +0000" channel="tabarestan">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>شاپرک (تبرستان)</sub-title>
+    <length units="seconds">3390</length>
+  </programme>
   <programme start="20260428130003 +0000" stop="20260428135045 +0000" channel="tabarestan">
     <title>8 اردیبهشت 1405</title>
     <sub-title>راز سلامت (تبرستان)</sub-title>
@@ -1952,6 +3296,16 @@
     <title>نگاتیو - 8 اردیبهشت 1405</title>
     <sub-title>برنامه سیاسی و تاریخی (تبرستان)</sub-title>
     <length units="seconds">754</length>
+  </programme>
+  <programme start="20260428054006 +0000" stop="20260428054511 +0000" channel="tabarestan">
+    <title>وطن - 8 اردیبهشت 1405</title>
+    <sub-title>نماهنگ (تبرستان)</sub-title>
+    <length units="seconds">305</length>
+  </programme>
+  <programme start="20260428052948 +0000" stop="20260428054002 +0000" channel="tabarestan">
+    <title>قاب اقتدار -8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">614</length>
   </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
@@ -1984,12 +3338,102 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260428042401 +0000" stop="20260428051220 +0000" channel="mahabad">
+    <title>آلفارد-8 اردیبهشت 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (مهاباد)</sub-title>
+    <length units="seconds">2899</length>
+  </programme>
+  <programme start="20260428040935 +0000" stop="20260428042355 +0000" channel="mahabad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>جهان گرد (مهاباد)</sub-title>
+    <length units="seconds">860</length>
+  </programme>
+  <programme start="20260428040640 +0000" stop="20260428040934 +0000" channel="mahabad">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>نجوا (مهاباد)</sub-title>
+    <length units="seconds">174</length>
+  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20260428190000 +0000" stop="20260428193242 +0000" channel="sina">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 19:00 (همدان)</sub-title>
+    <length units="seconds">1715</length>
+  </programme>
+  <programme start="20260428170436 +0000" stop="20260428172609 +0000" channel="sina">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>خیابان با ما</sub-title>
+    <length units="seconds">1293</length>
+  </programme>
+  <programme start="20260428165915 +0000" stop="20260428170118 +0000" channel="sina">
+    <title>رنگ و جنگ-8 اردیبهشت 1405</title>
+    <sub-title>دفاع مقدس سوم</sub-title>
+    <length units="seconds">123</length>
+  </programme>
+  <programme start="20260428052944 +0000" stop="20260428055802 +0000" channel="sina">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>چشم و چراغ (همدان)</sub-title>
+    <length units="seconds">1698</length>
+  </programme>
+  <programme start="20260428041603 +0000" stop="20260428051324 +0000" channel="sina">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>ترتیل قرآن کریم (همدان)</sub-title>
+    <length units="seconds">3441</length>
+  </programme>
+  <programme start="20260428030929 +0000" stop="20260428032020 +0000" channel="sina">
+    <title>جهان گرد-8 اردیبهشت 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (همدان)</sub-title>
+    <length units="seconds">651</length>
+  </programme>
+  <programme start="20260428020554 +0000" stop="20260428030925 +0000" channel="sina">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>آن دم که شب شود (همدان)</sub-title>
+    <length units="seconds">3811</length>
+  </programme>
+  <programme start="20260428000005 +0000" stop="20260428003100 +0000" channel="sina">
+    <title>مستند سردار شهید امدادی-8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (همدان)</sub-title>
+    <length units="seconds">1855</length>
+  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260428210900 +0000" stop="20260428223300 +0000" channel="khavaran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>تا پای جان</sub-title>
+    <length units="seconds">5040</length>
+  </programme>
+  <programme start="20260428203530 +0000" stop="20260428210230 +0000" channel="khavaran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>گفتگوی ویژه خبری (خاوران)</sub-title>
+    <length units="seconds">1620</length>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428203100 +0000" channel="khavaran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خاوران)</sub-title>
+    <length units="seconds">1860</length>
+  </programme>
+  <programme start="20260428190600 +0000" stop="20260428195500 +0000" channel="khavaran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>شبهای زعفرونی (خاوران)</sub-title>
+    <length units="seconds">2940</length>
+  </programme>
+  <programme start="20260428181430 +0000" stop="20260428182330 +0000" channel="khavaran">
+    <title>قاب اقتدار - 8 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20260428174400 +0000" stop="20260428180915 +0000" channel="khavaran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>پرسمان (خاوران)</sub-title>
+    <length units="seconds">1515</length>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428162325 +0000" channel="khavaran">
+    <title>8 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خاوران)</sub-title>
+    <length units="seconds">1405</length>
+  </programme>
   <programme start="20260428105700 +0000" stop="20260428111055 +0000" channel="khavaran">
     <title>آیین رونمایی از 14 دستگاه خوردرو سنگین عشایری در بیرجند - 8 اردیهشت 1405</title>
     <sub-title>برنامه اجتماعی (خاوران)</sub-title>
@@ -2052,11 +3496,14 @@
   <channel id="palestine">
     <display-name>palestine</display-name>
   </channel>
-  <channel id="nesfejahan">
-    <display-name>nesfejahan channel</display-name>
-  </channel>
   <channel id="kawthar">
     <display-name>kawthar</display-name>
+  </channel>
+  <channel id="presstv">
+    <display-name>Press TV channel </display-name>
+  </channel>
+  <channel id="Al-Alam">
+    <display-name>Al-Alam channel</display-name>
   </channel>
   <channel id="radioava">
     <display-name>radioava</display-name>
