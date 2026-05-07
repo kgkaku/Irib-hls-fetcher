@@ -1,2485 +1,245 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="IRIB Extractor by @kgkaku" date="2026-05-06">
+<tv generator-info-name="IRIB Extractor by @kgkaku" date="2026-05-07">
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
-  <programme start="20260506225756 +0000" stop="20260506230050 +0000" channel="tv1">
-    <title>منو جلوی خانوادم کوچیک کردید!</title>
-    <sub-title>گذرگاه</sub-title>
-    <length units="seconds">174</length>
-  </programme>
-  <programme start="20260506224716 +0000" stop="20260506225040 +0000" channel="tv1">
-    <title>مزاحم تلفنی می‌شی مصطفی!</title>
-    <sub-title>گذرگاه</sub-title>
-    <length units="seconds">204</length>
-  </programme>
-  <programme start="20260506224118 +0000" stop="20260506224313 +0000" channel="tv1">
-    <title>همه‌ مشتاقن ببیننش، اما رو نشون نمی‌ده!</title>
-    <sub-title>گذرگاه</sub-title>
-    <length units="seconds">116</length>
-  </programme>
-  <programme start="20260506221535 +0000" stop="20260506230459 +0000" channel="tv1">
-    <title>قسمت 11</title>
-    <sub-title>گذرگاه</sub-title>
-    <length units="seconds">2598</length>
-  </programme>
-  <programme start="20260506210006 +0000" stop="20260506220508 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار سراسری </sub-title>
-    <length units="seconds">3902</length>
-  </programme>
-  <programme start="20260506201346 +0000" stop="20260506204655 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جریان </sub-title>
-    <length units="seconds">1990</length>
-  </programme>
-  <programme start="20260506200002 +0000" stop="20260506200747 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405 - بخش 4</title>
-    <sub-title>ایران امروز</sub-title>
-    <length units="seconds">466</length>
-  </programme>
-  <programme start="20260506193945 +0000" stop="20260506194051 +0000" channel="tv1">
-    <title>توی دو تا ساختمون ۲۰ نفر شهید شدن!</title>
-    <sub-title>لاله خیز </sub-title>
-    <length units="seconds">66</length>
-  </programme>
-  <programme start="20260506191915 +0000" stop="20260506195320 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>لاله خیز </sub-title>
-    <length units="seconds">2044</length>
-  </programme>
-  <programme start="20260506185911 +0000" stop="20260506191431 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سنگر</sub-title>
-    <length units="seconds">920</length>
-  </programme>
-  <programme start="20260506184342 +0000" stop="20260506184830 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>امت امام</sub-title>
-    <length units="seconds">288</length>
-  </programme>
-  <programme start="20260506180014 +0000" stop="20260506184004 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نبرد ربات ها</sub-title>
-    <length units="seconds">2390</length>
-  </programme>
-  <programme start="20260506174603 +0000" stop="20260506175807 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405 - بخش 3</title>
-    <sub-title>ایران امروز</sub-title>
-    <length units="seconds">726</length>
-  </programme>
-  <programme start="20260506174517 +0000" stop="20260506174601 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>عکس یک</sub-title>
-    <length units="seconds">44</length>
-  </programme>
-  <programme start="20260506172856 +0000" stop="20260506174315 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خاکریز مردم</sub-title>
-    <length units="seconds">860</length>
-  </programme>
-  <programme start="20260506172327 +0000" stop="20260506172855 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پلاک 1</sub-title>
-    <length units="seconds">328</length>
-  </programme>
-  <programme start="20260506170116 +0000" stop="20260506171408 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405 - بخش 2</title>
-    <sub-title>ایران امروز</sub-title>
-    <length units="seconds">772</length>
-  </programme>
-  <programme start="20260506161224 +0000" stop="20260506161322 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قاب یک</sub-title>
-    <length units="seconds">58</length>
-  </programme>
-  <programme start="20260506160055 +0000" stop="20260506161221 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>ایران امروز</sub-title>
-    <length units="seconds">686</length>
-  </programme>
-  <programme start="20260506140005 +0000" stop="20260506150116 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار نیمروزی </sub-title>
-    <length units="seconds">3670</length>
-  </programme>
-  <programme start="20260506124459 +0000" stop="20260506133333 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سیمای خانواده 1405</sub-title>
-    <length units="seconds">2778</length>
-  </programme>
-  <programme start="20260506121347 +0000" stop="20260506123212 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405 - سرکار خانم دکتر بی ریا</title>
-    <sub-title>آفتاب شرقی 1405</sub-title>
-    <length units="seconds">1104</length>
-  </programme>
-  <programme start="20260506085939 +0000" stop="20260506105407 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران ما (شبکه ۱)</sub-title>
-    <length units="seconds">6648</length>
-  </programme>
-  <programme start="20260506084908 +0000" stop="20260506085241 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>بلندای همت</sub-title>
-    <length units="seconds">214</length>
-  </programme>
-  <programme start="20260506080008 +0000" stop="20260506082716 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
-    <length units="seconds">1628</length>
-  </programme>
-  <programme start="20260506075809 +0000" stop="20260506075951 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صلوات خاصه امام رضا (ع)</sub-title>
-    <length units="seconds">102</length>
-  </programme>
-  <programme start="20260506073238 +0000" stop="20260506073859 +0000" channel="tv1">
-    <title>یک کارآفرینی خانوادگی؟!</title>
-    <sub-title>صبح بخیر ایران 1405</sub-title>
-    <length units="seconds">382</length>
-  </programme>
-  <programme start="20260506060332 +0000" stop="20260506075420 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح بخیر ایران 1405</sub-title>
-    <length units="seconds">6346</length>
-  </programme>
-  <programme start="20260506025216 +0000" stop="20260506025255 +0000" channel="tv1">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تیتر یک </sub-title>
-    <length units="seconds">40</length>
-  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
-  <programme start="20260506224720 +0000" stop="20260506225109 +0000" channel="tv2">
-    <title>چالش اصلی «ملک سلیمان»؛ بازیچه دشمن نشدن بود</title>
-    <sub-title>پدر امت </sub-title>
-    <length units="seconds">229</length>
-  </programme>
-  <programme start="20260506224056 +0000" stop="20260506224659 +0000" channel="tv2">
-    <title>«ملک سلیمان» با عنایت آقا، از دل مخالفت‌ها عبور کرد</title>
-    <sub-title>پدر امت </sub-title>
-    <length units="seconds">362</length>
-  </programme>
-  <programme start="20260506223230 +0000" stop="20260506223957 +0000" channel="tv2">
-    <title>«ملک سلیمان» اسمش از کجا اومده؟</title>
-    <sub-title>پدر امت </sub-title>
-    <length units="seconds">446</length>
-  </programme>
-  <programme start="20260506212232 +0000" stop="20260506220726 +0000" channel="tv2">
-    <title>پشت صحنه - قسمت 1</title>
-    <sub-title>کلانتری یازده </sub-title>
-    <length units="seconds">2346</length>
-  </programme>
-  <programme start="20260506205702 +0000" stop="20260506211250 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نوسان (شبکه 2)</sub-title>
-    <length units="seconds">948</length>
-  </programme>
-  <programme start="20260506203003 +0000" stop="20260506205655 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار 20:30 (1405)</sub-title>
-    <length units="seconds">1610</length>
-  </programme>
-  <programme start="20260506201039 +0000" stop="20260506201350 +0000" channel="tv2">
-    <title>وطن‌فروشان بدنبال مجوز حمله به ایران</title>
-    <sub-title>پاورقی</sub-title>
-    <length units="seconds">192</length>
-  </programme>
-  <programme start="20260506195909 +0000" stop="20260506201923 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پاورقی</sub-title>
-    <length units="seconds">1212</length>
-  </programme>
-  <programme start="20260506180137 +0000" stop="20260506194023 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>عصر خانواده </sub-title>
-    <length units="seconds">5342</length>
-  </programme>
-  <programme start="20260506173120 +0000" stop="20260506175551 +0000" channel="tv2">
-    <title>عملیات دشت مهیار - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
-    <length units="seconds">1472</length>
-  </programme>
-  <programme start="20260506144104 +0000" stop="20260506150108 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قاب اقتدار </sub-title>
-    <length units="seconds">1204</length>
-  </programme>
-  <programme start="20260506130402 +0000" stop="20260506135135 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برش طلایی </sub-title>
-    <length units="seconds">2854</length>
-  </programme>
-  <programme start="20260506121349 +0000" stop="20260506130019 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران ما (شبکه ۲)</sub-title>
-    <length units="seconds">2686</length>
-  </programme>
-  <programme start="20260506121131 +0000" stop="20260506121325 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان کلام (شبکه ۲)</sub-title>
-    <length units="seconds">114</length>
-  </programme>
-  <programme start="20260506070030 +0000" stop="20260506095905 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
-    <length units="seconds">10394</length>
-  </programme>
-  <programme start="20260506063730 +0000" stop="20260506070025 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روایت حضور </sub-title>
-    <length units="seconds">1376</length>
-  </programme>
-  <programme start="20260506055740 +0000" stop="20260506061723 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قاب اقتدار </sub-title>
-    <length units="seconds">1184</length>
-  </programme>
-  <programme start="20260506035004 +0000" stop="20260506035235 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان کلام (شبکه ۲)</sub-title>
-    <length units="seconds">150</length>
-  </programme>
-  <programme start="20260506034858 +0000" stop="20260506035003 +0000" channel="tv2">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>درسی از اندیشه علوی </sub-title>
-    <length units="seconds">64</length>
-  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
-  <programme start="20260506221541 +0000" stop="20260506222451 +0000" channel="tv3">
-    <title>16 شهریور 1405 - بخش 2</title>
-    <sub-title>میداندار</sub-title>
-    <length units="seconds">552</length>
-  </programme>
-  <programme start="20260506220001 +0000" stop="20260506221536 +0000" channel="tv3">
-    <title>16 شهریور 1405</title>
-    <sub-title>اخبار ساعت 22:00 (۱۴05)</sub-title>
-    <length units="seconds">934</length>
-  </programme>
-  <programme start="20260506212951 +0000" stop="20260506215952 +0000" channel="tv3">
-    <title>16 شهریور 1405</title>
-    <sub-title>میداندار</sub-title>
-    <length units="seconds">1800</length>
-  </programme>
-  <programme start="20260506211636 +0000" stop="20260506211813 +0000" channel="tv3">
-    <title>دکتر پارسا میخواد بیاد خواستگاریم!</title>
-    <sub-title>کلینیک رویا</sub-title>
-    <length units="seconds">98</length>
-  </programme>
-  <programme start="20260506210845 +0000" stop="20260506211118 +0000" channel="tv3">
-    <title>از برخورد با این حجم از اصالت دلم رفت</title>
-    <sub-title>کلینیک رویا</sub-title>
-    <length units="seconds">152</length>
-  </programme>
-  <programme start="20260506205740 +0000" stop="20260506205909 +0000" channel="tv3">
-    <title>بازیگر اومد؛ همه ویزیت‌ها متوقف شد</title>
-    <sub-title>کلینیک رویا</sub-title>
-    <length units="seconds">90</length>
-  </programme>
-  <programme start="20260506204830 +0000" stop="20260506205122 +0000" channel="tv3">
-    <title>بابت توهین به زنان؛ باید عذرخواهی کنه</title>
-    <sub-title>کلینیک رویا</sub-title>
-    <length units="seconds">172</length>
-  </programme>
-  <programme start="20260506204421 +0000" stop="20260506204730 +0000" channel="tv3">
-    <title>پدرام کیه؟!</title>
-    <sub-title>کلینیک رویا</sub-title>
-    <length units="seconds">188</length>
-  </programme>
-  <programme start="20260506204029 +0000" stop="20260506212949 +0000" channel="tv3">
-    <title>قسمت 13</title>
-    <sub-title>کلینیک رویا</sub-title>
-    <length units="seconds">2960</length>
-  </programme>
-  <programme start="20260506202111 +0000" stop="20260506203345 +0000" channel="tv3">
-    <title>16 شهریور 1405</title>
-    <sub-title>شهر خوش حساب ها</sub-title>
-    <length units="seconds">754</length>
-  </programme>
-  <programme start="20260506200453 +0000" stop="20260506202032 +0000" channel="tv3">
-    <title>حدیث کساء - 16 شهریور 1405</title>
-    <sub-title>ادعیه و زیارت (شبکه 3)</sub-title>
-    <length units="seconds">938</length>
-  </programme>
-  <programme start="20260506173446 +0000" stop="20260506175601 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1276</length>
-  </programme>
-  <programme start="20260506165907 +0000" stop="20260506173057 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>علاج</sub-title>
-    <length units="seconds">1910</length>
-  </programme>
-  <programme start="20260506151726 +0000" stop="20260506160740 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>سیاست خارجی ۱۴۰5</sub-title>
-    <length units="seconds">3014</length>
-  </programme>
-  <programme start="20260506150400 +0000" stop="20260506151004 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405 - بخش 2</title>
-    <sub-title>جان فدا</sub-title>
-    <length units="seconds">364</length>
-  </programme>
-  <programme start="20260506135457 +0000" stop="20260506140104 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان فدا</sub-title>
-    <length units="seconds">368</length>
-  </programme>
-  <programme start="20260506125902 +0000" stop="20260506135047 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405 - حاج آقا نظافت</title>
-    <sub-title>سمت خدا 1405</sub-title>
-    <length units="seconds">3106</length>
-  </programme>
-  <programme start="20260506122206 +0000" stop="20260506125230 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قاب و قصه</sub-title>
-    <length units="seconds">1824</length>
-  </programme>
-  <programme start="20260506120110 +0000" stop="20260506121510 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
-    <length units="seconds">840</length>
-  </programme>
-  <programme start="20260506105110 +0000" stop="20260506114619 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>طبیب 1405</sub-title>
-    <length units="seconds">3044</length>
-  </programme>
-  <programme start="20260506080010 +0000" stop="20260506094119 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سلام صبح بخیر 1405</sub-title>
-    <length units="seconds">5870</length>
-  </programme>
-  <programme start="20260506075341 +0000" stop="20260506075508 +0000" channel="tv3">
-    <title>پیام مقام معظم رهبری - 16 اردیبهشت 1405</title>
-    <sub-title>سخنرانی (شبکه 3)</sub-title>
-    <length units="seconds">88</length>
-  </programme>
-  <programme start="20260506065002 +0000" stop="20260506075335 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران ما (شبکه ۳)</sub-title>
-    <length units="seconds">3812</length>
-  </programme>
-  <programme start="20260506061118 +0000" stop="20260506064600 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>زلال سخن 1405</sub-title>
-    <length units="seconds">2082</length>
-  </programme>
-  <programme start="20260506060119 +0000" stop="20260506061117 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507060130 +0000" stop="20260507061125 +0000" channel="tv3">
+    <title>17 فروردین 1405</title>
     <sub-title>دعای عهد (شبکه ۳)</sub-title>
-    <length units="seconds">598</length>
+    <length units="seconds">594</length>
   </programme>
-  <programme start="20260506024452 +0000" stop="20260506032708 +0000" channel="tv3">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507024412 +0000" stop="20260507032505 +0000" channel="tv3">
+    <title>17 فروردین 1405</title>
     <sub-title>ضیافت دوست 1405</sub-title>
-    <length units="seconds">2536</length>
+    <length units="seconds">2452</length>
+  </programme>
+  <programme start="20260507004227 +0000" stop="20260507013805 +0000" channel="tv3">
+    <title>17 فروردین 1405</title>
+    <sub-title>خط مقاومت (شبکه 3)</sub-title>
+    <length units="seconds">3338</length>
   </programme>
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
-  <programme start="20260506213224 +0000" stop="20260506222652 +0000" channel="tv4">
-    <title>16 شهریور 1405</title>
-    <sub-title>چهارگاه (شبکه 4)</sub-title>
-    <length units="seconds">3269</length>
-  </programme>
-  <programme start="20260506205139 +0000" stop="20260506212630 +0000" channel="tv4">
-    <title>آغاز ریاست جمهوری فرانکلین روزولت - 16 شهریور 1405</title>
-    <sub-title>برنامه سیاسی تاریخی (شبکه 4)</sub-title>
-    <length units="seconds">2090</length>
-  </programme>
-  <programme start="20260506203520 +0000" stop="20260506205136 +0000" channel="tv4">
-    <title>16 شهریور 1405 - بخش 2</title>
-    <sub-title>هنرستان </sub-title>
-    <length units="seconds">976</length>
-  </programme>
-  <programme start="20260506200913 +0000" stop="20260506202056 +0000" channel="tv4">
-    <title>حدیث کساء - 16 شهریور 1405</title>
-    <sub-title>ادعیه و زیارت (شبکه 4)</sub-title>
-    <length units="seconds">702</length>
-  </programme>
-  <programme start="20260506192342 +0000" stop="20260506200622 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>وضعیت جنگی</sub-title>
-    <length units="seconds">2561</length>
-  </programme>
-  <programme start="20260506184825 +0000" stop="20260506190439 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>هنرستان </sub-title>
-    <length units="seconds">973</length>
-  </programme>
-  <programme start="20260506175632 +0000" stop="20260506184051 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سنجه</sub-title>
-    <length units="seconds">2659</length>
-  </programme>
-  <programme start="20260506150020 +0000" stop="20260506155506 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قرن جدید</sub-title>
-    <length units="seconds">3284</length>
-  </programme>
-  <programme start="20260506061452 +0000" stop="20260506064920 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سحاب رحمت</sub-title>
-    <length units="seconds">2068</length>
-  </programme>
-  <programme start="20260506060159 +0000" stop="20260506061045 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507060232 +0000" stop="20260507061118 +0000" channel="tv4">
+    <title>17 فروردین 1405</title>
     <sub-title>دعای عهد (شبکه ۴)</sub-title>
     <length units="seconds">526</length>
   </programme>
-  <programme start="20260506060104 +0000" stop="20260506060156 +0000" channel="tv4">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507060117 +0000" stop="20260507060229 +0000" channel="tv4">
+    <title>17 فروردین 1405</title>
     <sub-title>از باران تا ایمان</sub-title>
-    <length units="seconds">51</length>
+    <length units="seconds">72</length>
   </programme>
-  <programme start="20260506000717 +0000" stop="20260506005608 +0000" channel="tv4">
-    <title>قسمت 26</title>
+  <programme start="20260507001249 +0000" stop="20260507010200 +0000" channel="tv4">
+    <title>قسمت 27</title>
     <sub-title>مدار صفر درجه</sub-title>
-    <length units="seconds">2931</length>
+    <length units="seconds">2950</length>
   </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
-  <programme start="20260506220514 +0000" stop="20260506225623 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - دکتر زهره وند و دکتر رضایی</title>
-    <sub-title>گفتگوی ویژه خبری</sub-title>
-    <length units="seconds">3040</length>
-  </programme>
-  <programme start="20260506210000 +0000" stop="20260506220511 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 21:00 </sub-title>
-    <length units="seconds">3912</length>
-  </programme>
-  <programme start="20260506200324 +0000" stop="20260506205617 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>به وقت ایران</sub-title>
-    <length units="seconds">3174</length>
-  </programme>
-  <programme start="20260506200009 +0000" stop="20260506200323 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20:00 (خبر)</sub-title>
-    <length units="seconds">194</length>
-  </programme>
-  <programme start="20260506193439 +0000" stop="20260506195946 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>به وقت ایران</sub-title>
-    <length units="seconds">1506</length>
-  </programme>
-  <programme start="20260506193010 +0000" stop="20260506193437 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 19:30</sub-title>
-    <length units="seconds">268</length>
-  </programme>
-  <programme start="20260506191025 +0000" stop="20260506192808 +0000" channel="irinn">
-    <title>بررسی آخرین تحولات لبنان - 16 اردیبهشت 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">870</length>
-  </programme>
-  <programme start="20260506190013 +0000" stop="20260506191024 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 19:00 </sub-title>
-    <length units="seconds">610</length>
-  </programme>
-  <programme start="20260506183014 +0000" stop="20260506184043 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خبر اقتصاد و بازار (خبر)</sub-title>
-    <length units="seconds">630</length>
-  </programme>
-  <programme start="20260506180855 +0000" stop="20260506183007 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - محمد قادری</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1272</length>
-  </programme>
-  <programme start="20260506180009 +0000" stop="20260506180854 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
-    <length units="seconds">524</length>
-  </programme>
-  <programme start="20260506173427 +0000" stop="20260506180008 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - دکتر قشقایی</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1540</length>
-  </programme>
-  <programme start="20260506173010 +0000" stop="20260506173424 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 17:30 (خبر)</sub-title>
-    <length units="seconds">254</length>
-  </programme>
-  <programme start="20260506170949 +0000" stop="20260506172954 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - محسن زنگنه</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1204</length>
-  </programme>
-  <programme start="20260506170009 +0000" stop="20260506170946 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
-    <length units="seconds">576</length>
-  </programme>
-  <programme start="20260506163415 +0000" stop="20260506165352 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - سیدعلی سقائیان</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1176</length>
-  </programme>
-  <programme start="20260506163008 +0000" stop="20260506163401 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 16:30 </sub-title>
-    <length units="seconds">234</length>
-  </programme>
-  <programme start="20260506160832 +0000" stop="20260506162825 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - مهدی خرسند</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1194</length>
-  </programme>
-  <programme start="20260506160010 +0000" stop="20260506160831 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 16:00 </sub-title>
-    <length units="seconds">502</length>
-  </programme>
-  <programme start="20260506155122 +0000" stop="20260506155712 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>موج (خبر)</sub-title>
-    <length units="seconds">350</length>
-  </programme>
-  <programme start="20260506154939 +0000" stop="20260506155119 +0000" channel="irinn">
-    <title>اقرواج - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش (خبر)</sub-title>
-    <length units="seconds">100</length>
-  </programme>
-  <programme start="20260506153633 +0000" stop="20260506154937 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گزارش (خبر)</sub-title>
-    <length units="seconds">784</length>
-  </programme>
-  <programme start="20260506153439 +0000" stop="20260506153630 +0000" channel="irinn">
-    <title>رنگ و جنگ - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش (خبر)</sub-title>
-    <length units="seconds">110</length>
-  </programme>
-  <programme start="20260506153011 +0000" stop="20260506153437 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 15:30</sub-title>
-    <length units="seconds">266</length>
-  </programme>
-  <programme start="20260506150122 +0000" stop="20260506153007 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>میز اقتصاد (خبر)</sub-title>
-    <length units="seconds">1726</length>
-  </programme>
-  <programme start="20260506135953 +0000" stop="20260506150120 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 14:00</sub-title>
-    <length units="seconds">3686</length>
-  </programme>
-  <programme start="20260506133521 +0000" stop="20260506135909 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روایت خدمت</sub-title>
-    <length units="seconds">1428</length>
-  </programme>
-  <programme start="20260506133010 +0000" stop="20260506133518 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 13:30</sub-title>
-    <length units="seconds">308</length>
-  </programme>
-  <programme start="20260506130948 +0000" stop="20260506133009 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 دکتر کولیوند</title>
-    <sub-title>صف اول (خبر)</sub-title>
-    <length units="seconds">1220</length>
-  </programme>
-  <programme start="20260506130010 +0000" stop="20260506130946 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 13:00 </sub-title>
-    <length units="seconds">576</length>
-  </programme>
-  <programme start="20260506125516 +0000" stop="20260506125725 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>بوم بیدار</sub-title>
-    <length units="seconds">130</length>
-  </programme>
-  <programme start="20260506123503 +0000" stop="20260506125513 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روایت همدلی</sub-title>
-    <length units="seconds">1210</length>
-  </programme>
-  <programme start="20260506123007 +0000" stop="20260506123501 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 12:30 </sub-title>
-    <length units="seconds">294</length>
-  </programme>
-  <programme start="20260506120831 +0000" stop="20260506121924 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روایتگر</sub-title>
-    <length units="seconds">654</length>
-  </programme>
-  <programme start="20260506120349 +0000" stop="20260506120828 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 12:00 </sub-title>
-    <length units="seconds">280</length>
-  </programme>
-  <programme start="20260506113518 +0000" stop="20260506120002 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روایت اقتدار</sub-title>
-    <length units="seconds">1484</length>
-  </programme>
-  <programme start="20260506113009 +0000" stop="20260506113515 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 11:30 </sub-title>
-    <length units="seconds">306</length>
-  </programme>
-  <programme start="20260506111020 +0000" stop="20260506112559 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - حجت الاسلام رضایی</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">938</length>
-  </programme>
-  <programme start="20260506110009 +0000" stop="20260506111017 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
-    <length units="seconds">608</length>
-  </programme>
-  <programme start="20260506103236 +0000" stop="20260506105428 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خبر رسانه</sub-title>
-    <length units="seconds">1312</length>
-  </programme>
-  <programme start="20260506103008 +0000" stop="20260506103236 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت  10:30 </sub-title>
-    <length units="seconds">148</length>
-  </programme>
-  <programme start="20260506101100 +0000" stop="20260506103007 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نگاهی به مطبوعات</sub-title>
-    <length units="seconds">1146</length>
-  </programme>
-  <programme start="20260506100007 +0000" stop="20260506101059 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 10:00 </sub-title>
-    <length units="seconds">652</length>
-  </programme>
-  <programme start="20260506093513 +0000" stop="20260506095624 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>هرمز جان</sub-title>
-    <length units="seconds">1272</length>
-  </programme>
-  <programme start="20260506093011 +0000" stop="20260506093431 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
-    <length units="seconds">260</length>
-  </programme>
-  <programme start="20260506091143 +0000" stop="20260506092439 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - مهرداد لاهوتی</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">776</length>
-  </programme>
-  <programme start="20260506090009 +0000" stop="20260506090914 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
-    <length units="seconds">546</length>
-  </programme>
-  <programme start="20260506083208 +0000" stop="20260506085956 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - علیرضا داوودی</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1668</length>
-  </programme>
-  <programme start="20260506080002 +0000" stop="20260506082717 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1634</length>
-  </programme>
-  <programme start="20260506074513 +0000" stop="20260506075746 +0000" channel="irinn">
-    <title>16 اردیبهشت 1405 - محمدحسن نیک بین</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">754</length>
+  <programme start="20260507000000 +0000" stop="20260507003418 +0000" channel="irinn">
+    <title>17 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
+    <length units="seconds">2058</length>
   </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
-  <programme start="20260506210211 +0000" stop="20260506215620 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405 - عطیه غبیشاوی</title>
-    <sub-title>چهل تیکه ۱۴۰۵</sub-title>
-    <length units="seconds">2998</length>
-  </programme>
-  <programme start="20260506195931 +0000" stop="20260506205456 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ماندنی ها (فصل دوم)</sub-title>
-    <length units="seconds">3086</length>
-  </programme>
-  <programme start="20260506194106 +0000" stop="20260506194640 +0000" channel="nasim">
-    <title>دوربین مخفی اعزام - قسمت اول - 16 اردیبهشت 1405</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">334</length>
-  </programme>
-  <programme start="20260506192600 +0000" stop="20260506193155 +0000" channel="nasim">
-    <title>دعای نادعلی - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
-    <length units="seconds">354</length>
-  </programme>
-  <programme start="20260506190800 +0000" stop="20260506191500 +0000" channel="nasim">
-    <title>دعای چهاردهم صحیفه سجادیه - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
-    <length units="seconds">420</length>
-  </programme>
-  <programme start="20260506190643 +0000" stop="20260506190800 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>در ناب</sub-title>
-    <length units="seconds">76</length>
-  </programme>
-  <programme start="20260506190101 +0000" stop="20260506190642 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گردون</sub-title>
-    <length units="seconds">340</length>
-  </programme>
-  <programme start="20260506185546 +0000" stop="20260506190009 +0000" channel="nasim">
-    <title>فاتح قله ها - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (نسیم)</sub-title>
-    <length units="seconds">264</length>
-  </programme>
-  <programme start="20260506183337 +0000" stop="20260506185120 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دیکته شب (نسیم)</sub-title>
-    <length units="seconds">1062</length>
-  </programme>
-  <programme start="20260506181622 +0000" stop="20260506183118 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>بزنگاه</sub-title>
-    <length units="seconds">896</length>
-  </programme>
-  <programme start="20260506160202 +0000" stop="20260506162148 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قاب اقتدار</sub-title>
-    <length units="seconds">1186</length>
-  </programme>
-  <programme start="20260506121947 +0000" stop="20260506122455 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان فدا</sub-title>
-    <length units="seconds">308</length>
-  </programme>
-  <programme start="20260506110827 +0000" stop="20260506114741 +0000" channel="nasim">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران ما (نسیم)</sub-title>
-    <length units="seconds">2354</length>
-  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
-  <programme start="20260506205623 +0000" stop="20260506213741 +0000" channel="varzesh">
-    <title>16 شهریور 1405</title>
-    <sub-title>خاطره بازی با آقا جواد</sub-title>
-    <length units="seconds">2478</length>
-  </programme>
-  <programme start="20260506193214 +0000" stop="20260506204515 +0000" channel="varzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قهرمان ایران (ورزش)</sub-title>
-    <length units="seconds">4380</length>
-  </programme>
-  <programme start="20260506183253 +0000" stop="20260506190258 +0000" channel="varzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تک به تک</sub-title>
-    <length units="seconds">1806</length>
-  </programme>
-  <programme start="20260506145730 +0000" stop="20260506152333 +0000" channel="varzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>فرزندان ایران</sub-title>
-    <length units="seconds">1562</length>
-  </programme>
-  <programme start="20260506100015 +0000" stop="20260506102822 +0000" channel="varzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دست اول ۱۴۰5</sub-title>
-    <length units="seconds">1688</length>
-  </programme>
-  <programme start="20260506074949 +0000" stop="20260506084213 +0000" channel="varzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
-    <length units="seconds">3144</length>
-  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
-  <programme start="20260506224824 +0000" stop="20260506225248 +0000" channel="hdtest">
-    <title>شرلوک - 16 اردیبهشت 1405</title>
-    <sub-title>تله جادو (تماشا)</sub-title>
-    <length units="seconds">264</length>
-  </programme>
-  <programme start="20260506223934 +0000" stop="20260506224721 +0000" channel="hdtest">
-    <title>فراری 2 - 16 اردیبهشت 1405</title>
-    <sub-title>آنسوی قاب (تماشا)</sub-title>
-    <length units="seconds">466</length>
-  </programme>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
-  <programme start="20260506214318 +0000" stop="20260506215954 +0000" channel="pooya">
-    <title>خاکستری - 16 اردیبهشت 1405</title>
-    <sub-title>شب رویایی</sub-title>
-    <length units="seconds">996</length>
-  </programme>
-  <programme start="20260506213055 +0000" stop="20260506214318 +0000" channel="pooya">
-    <title>بازی گروهی - 16 اردیبهشت 1405</title>
-    <sub-title>شب رویایی</sub-title>
-    <length units="seconds">742</length>
-  </programme>
-  <programme start="20260506212511 +0000" stop="20260506213055 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 7</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">344</length>
-  </programme>
-  <programme start="20260506192132 +0000" stop="20260506192648 +0000" channel="pooya">
-    <title>آرزوی منی - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">316</length>
-  </programme>
-  <programme start="20260506191037 +0000" stop="20260506191214 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>حکمت ستاره ها</sub-title>
-    <length units="seconds">96</length>
-  </programme>
-  <programme start="20260506190735 +0000" stop="20260506191033 +0000" channel="pooya">
-    <title>لبخند خدا - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">178</length>
-  </programme>
-  <programme start="20260506184015 +0000" stop="20260506184408 +0000" channel="pooya">
-    <title>ای میهن خدایی - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">232</length>
-  </programme>
-  <programme start="20260506180033 +0000" stop="20260506182300 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>کتاب شیرین</sub-title>
-    <length units="seconds">1346</length>
-  </programme>
-  <programme start="20260506175430 +0000" stop="20260506175831 +0000" channel="pooya">
-    <title>ایران بابا رضا - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">242</length>
-  </programme>
-  <programme start="20260506171256 +0000" stop="20260506171532 +0000" channel="pooya">
-    <title>صرفه جویی - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">156</length>
-  </programme>
-  <programme start="20260506170042 +0000" stop="20260506171254 +0000" channel="pooya">
-    <title>قسمت 5</title>
-    <sub-title>مثل نامه</sub-title>
-    <length units="seconds">732</length>
-  </programme>
-  <programme start="20260506165625 +0000" stop="20260506170005 +0000" channel="pooya">
-    <title>کمک به هم قشنگه - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">220</length>
-  </programme>
-  <programme start="20260506163537 +0000" stop="20260506164157 +0000" channel="pooya">
-    <title>بچه های خلیج فارس - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">380</length>
-  </programme>
-  <programme start="20260506163258 +0000" stop="20260506163535 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>عروسک خونه</sub-title>
-    <length units="seconds">158</length>
-  </programme>
-  <programme start="20260506163011 +0000" stop="20260506163144 +0000" channel="pooya">
-    <title>پهلوانان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (پویا)</sub-title>
-    <length units="seconds">92</length>
-  </programme>
-  <programme start="20260506160032 +0000" stop="20260506163008 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دلیران</sub-title>
-    <length units="seconds">1776</length>
-  </programme>
-  <programme start="20260506154228 +0000" stop="20260506154459 +0000" channel="pooya">
-    <title>زنگ آخر - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">152</length>
-  </programme>
-  <programme start="20260506153003 +0000" stop="20260506154226 +0000" channel="pooya">
-    <title>قسمت 5</title>
-    <sub-title>خروس زیرک، روباه کلک</sub-title>
-    <length units="seconds">742</length>
-  </programme>
-  <programme start="20260506150041 +0000" stop="20260506151548 +0000" channel="pooya">
-    <title>قسمت 15</title>
-    <sub-title>ماجراهای من و تاگی</sub-title>
-    <length units="seconds">906</length>
-  </programme>
-  <programme start="20260506145115 +0000" stop="20260506145830 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ماجراهای نوید </sub-title>
-    <length units="seconds">434</length>
-  </programme>
-  <programme start="20260506140536 +0000" stop="20260506142933 +0000" channel="pooya">
-    <title>قسمت 15</title>
-    <sub-title>تندر</sub-title>
-    <length units="seconds">1436</length>
-  </programme>
-  <programme start="20260506135518 +0000" stop="20260506140012 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 6</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">296</length>
-  </programme>
-  <programme start="20260506133956 +0000" stop="20260506134247 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>شادمانه (پویا)</sub-title>
-    <length units="seconds">170</length>
-  </programme>
-  <programme start="20260506133047 +0000" stop="20260506133953 +0000" channel="pooya">
-    <title>قسمت 19</title>
-    <sub-title>قاصدک ها</sub-title>
-    <length units="seconds">546</length>
-  </programme>
-  <programme start="20260506132913 +0000" stop="20260506133032 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 3</title>
-    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
-    <length units="seconds">80</length>
-  </programme>
-  <programme start="20260506130032 +0000" stop="20260506132800 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>یه خونه یه آشپزخونه</sub-title>
-    <length units="seconds">1650</length>
-  </programme>
-  <programme start="20260506125346 +0000" stop="20260506125844 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 5</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">296</length>
-  </programme>
-  <programme start="20260506124002 +0000" stop="20260506124516 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>باهم بازی (فصل جدید)</sub-title>
-    <length units="seconds">312</length>
-  </programme>
-  <programme start="20260506123021 +0000" stop="20260506123845 +0000" channel="pooya">
-    <title>قسمت 47</title>
-    <sub-title>رابی و روبی</sub-title>
-    <length units="seconds">504</length>
-  </programme>
-  <programme start="20260506122641 +0000" stop="20260506123008 +0000" channel="pooya">
-    <title>یک فرصت خوب - 16 اردیبهشت 1405</title>
-    <sub-title>شادمانه (پویا)</sub-title>
-    <length units="seconds">206</length>
-  </programme>
-  <programme start="20260506121251 +0000" stop="20260506121427 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 2</title>
-    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
-    <length units="seconds">96</length>
-  </programme>
-  <programme start="20260506120701 +0000" stop="20260506121249 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>زیر گنبد فیروزه ای </sub-title>
-    <length units="seconds">348</length>
-  </programme>
-  <programme start="20260506115610 +0000" stop="20260506115853 +0000" channel="pooya">
-    <title>امید بچه ها - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">162</length>
-  </programme>
-  <programme start="20260506115008 +0000" stop="20260506115550 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 4</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">342</length>
-  </programme>
-  <programme start="20260506113034 +0000" stop="20260506113920 +0000" channel="pooya">
-    <title>قسمت 19 - خوب گوش کردن</title>
-    <sub-title>دوستان شاد</sub-title>
-    <length units="seconds">526</length>
-  </programme>
-  <programme start="20260506112118 +0000" stop="20260506112424 +0000" channel="pooya">
-    <title>شهر پاک - 16 اردیبهشت 1405</title>
-    <sub-title>شادمانه (پویا)</sub-title>
-    <length units="seconds">186</length>
-  </programme>
-  <programme start="20260506110046 +0000" stop="20260506112113 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خانه آبنباتی (فصل جدید)</sub-title>
-    <length units="seconds">1228</length>
-  </programme>
-  <programme start="20260506105317 +0000" stop="20260506105815 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 3</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">298</length>
-  </programme>
-  <programme start="20260506104349 +0000" stop="20260506104514 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
-    <length units="seconds">86</length>
-  </programme>
-  <programme start="20260506103908 +0000" stop="20260506104229 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قصه های لینا لونا</sub-title>
-    <length units="seconds">200</length>
-  </programme>
-  <programme start="20260506101348 +0000" stop="20260506101534 +0000" channel="pooya">
-    <title>وطن - 16 اردیبهشت 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">106</length>
-  </programme>
-  <programme start="20260506100847 +0000" stop="20260506101346 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 2</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">300</length>
-  </programme>
-  <programme start="20260506094004 +0000" stop="20260506094340 +0000" channel="pooya">
-    <title>میوه فروش - 16 اردیبهشت 1405</title>
-    <sub-title>شادمانه (پویا)</sub-title>
-    <length units="seconds">216</length>
-  </programme>
-  <programme start="20260506085333 +0000" stop="20260506085825 +0000" channel="pooya">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>پویانو</sub-title>
-    <length units="seconds">292</length>
-  </programme>
-  <programme start="20260506080340 +0000" stop="20260506080642 +0000" channel="pooya">
-    <title>فصل گل - 16 اردیبهشت 1405</title>
-    <sub-title>شادمانه (پویا)</sub-title>
-    <length units="seconds">182</length>
-  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
-  <programme start="20260506220034 +0000" stop="20260506224845 +0000" channel="ifilm">
-    <title>قسمت 8</title>
-    <sub-title>دیوار </sub-title>
-    <length units="seconds">2496</length>
-  </programme>
-  <programme start="20260506210032 +0000" stop="20260506215115 +0000" channel="ifilm">
-    <title>قسمت 45</title>
-    <sub-title>لحظه گرگ و میش </sub-title>
-    <length units="seconds">2680</length>
-  </programme>
-  <programme start="20260506200027 +0000" stop="20260506204439 +0000" channel="ifilm">
-    <title>قسمت 7</title>
-    <sub-title>زمانه</sub-title>
-    <length units="seconds">2188</length>
-  </programme>
-  <programme start="20260506190021 +0000" stop="20260506195954 +0000" channel="ifilm">
-    <title>قسمت 11</title>
-    <sub-title>ناریا </sub-title>
-    <length units="seconds">2660</length>
-  </programme>
-  <programme start="20260506180021 +0000" stop="20260506185010 +0000" channel="ifilm">
-    <title>قسمت 20</title>
-    <sub-title>گاهی به پشت سر نگاه کن</sub-title>
-    <length units="seconds">2648</length>
-  </programme>
-  <programme start="20260506170022 +0000" stop="20260506174753 +0000" channel="ifilm">
-    <title>قسمت 5</title>
-    <sub-title>در قلب من </sub-title>
-    <length units="seconds">2566</length>
-  </programme>
-  <programme start="20260506160024 +0000" stop="20260506164344 +0000" channel="ifilm">
-    <title>قسمت 1</title>
-    <sub-title>کهنه سوار</sub-title>
-    <length units="seconds">2220</length>
-  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
-  <programme start="20260506205915 +0000" stop="20260506214039 +0000" channel="tehran">
-    <title>میدان المپیک - 16 اردیبهشت 1405</title>
-    <sub-title>گفتگوی ویژه مردمی</sub-title>
-    <length units="seconds">2461</length>
-  </programme>
-  <programme start="20260506200005 +0000" stop="20260506204500 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تهران 20 (1405)</sub-title>
-    <length units="seconds">2695</length>
-  </programme>
-  <programme start="20260506195017 +0000" stop="20260506195405 +0000" channel="tehran">
-    <title>بزرگداشت روز معلم - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش 5</sub-title>
-    <length units="seconds">229</length>
-  </programme>
-  <programme start="20260506185955 +0000" stop="20260506193855 +0000" channel="tehran">
-    <title>قسمت 19</title>
-    <sub-title>مسافران شهر</sub-title>
-    <length units="seconds">2020</length>
-  </programme>
-  <programme start="20260506182539 +0000" stop="20260506184650 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دماوند</sub-title>
-    <length units="seconds">1270</length>
-  </programme>
-  <programme start="20260506180332 +0000" stop="20260506181314 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان فدا</sub-title>
-    <length units="seconds">582</length>
-  </programme>
-  <programme start="20260506161600 +0000" stop="20260506172502 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>به خانه بر می گردیم 1405</sub-title>
-    <length units="seconds">4121</length>
-  </programme>
-  <programme start="20260506131934 +0000" stop="20260506132320 +0000" channel="tehran">
-    <title>گرامیداشت مقام معلم - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش 5</sub-title>
-    <length units="seconds">225</length>
-  </programme>
-  <programme start="20260506122646 +0000" stop="20260506131756 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تا نیایش 1405</sub-title>
-    <length units="seconds">3047</length>
-  </programme>
-  <programme start="20260506122154 +0000" stop="20260506122552 +0000" channel="tehran">
-    <title>پرچم بالا - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (شبکه تهران)</sub-title>
-    <length units="seconds">239</length>
-  </programme>
-  <programme start="20260506084858 +0000" stop="20260506085611 +0000" channel="tehran">
-    <title>ادامه آموزش در شرایط جنگی - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش 5</sub-title>
-    <length units="seconds">431</length>
-  </programme>
-  <programme start="20260506070038 +0000" stop="20260506084507 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سلام تهران 1405</sub-title>
-    <length units="seconds">6269</length>
-  </programme>
-  <programme start="20260506035100 +0000" stop="20260506041818 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
-    <length units="seconds">1637</length>
-  </programme>
-  <programme start="20260506034749 +0000" stop="20260506035059 +0000" channel="tehran">
-    <title>خلیج همیشگی فارس - 16 اردیبهشت 1405</title>
-    <sub-title>در محضر دوست</sub-title>
-    <length units="seconds">188</length>
-  </programme>
-  <programme start="20260506034231 +0000" stop="20260506034610 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نهضت تلاوت</sub-title>
-    <length units="seconds">217</length>
-  </programme>
-  <programme start="20260506031135 +0000" stop="20260506031735 +0000" channel="tehran">
-    <title>مراسم رونمایی از ترجمه عربی مجموعه چهل جلدی چلچراغ - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش 5</sub-title>
-    <length units="seconds">358</length>
-  </programme>
-  <programme start="20260506023703 +0000" stop="20260506030845 +0000" channel="tehran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مستند ایران (شبکه تهران)</sub-title>
-    <length units="seconds">1890</length>
-  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
-  <programme start="20260506223059 +0000" stop="20260506223836 +0000" channel="mostanad">
-    <title>پرونده جانی - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه سیاسی (مستند)</sub-title>
-    <length units="seconds">458</length>
-  </programme>
-  <programme start="20260506220018 +0000" stop="20260506222847 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>معرکه</sub-title>
-    <length units="seconds">1708</length>
-  </programme>
-  <programme start="20260506214705 +0000" stop="20260506215432 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برش مستند</sub-title>
-    <length units="seconds">448</length>
-  </programme>
-  <programme start="20260506210022 +0000" stop="20260506214154 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مرز پرگهر (مستند)</sub-title>
-    <length units="seconds">2492</length>
-  </programme>
-  <programme start="20260506201020 +0000" stop="20260506205313 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نجات خودرو</sub-title>
-    <length units="seconds">2572</length>
-  </programme>
-  <programme start="20260506194056 +0000" stop="20260506200646 +0000" channel="mostanad">
-    <title>اسرائیل از درون - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه سیاسی (مستند)</sub-title>
-    <length units="seconds">1550</length>
-  </programme>
-  <programme start="20260506184550 +0000" stop="20260506185133 +0000" channel="mostanad">
-    <title>امت امام - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (مستند)</sub-title>
-    <length units="seconds">344</length>
-  </programme>
-  <programme start="20260506180325 +0000" stop="20260506184343 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تماشای بهار (مستند)</sub-title>
-    <length units="seconds">2418</length>
-  </programme>
-  <programme start="20260506174308 +0000" stop="20260506180136 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سیمرغ (مستند)</sub-title>
-    <length units="seconds">1108</length>
-  </programme>
-  <programme start="20260506170023 +0000" stop="20260506174307 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>آیینه عمر (مستند)</sub-title>
-    <length units="seconds">2564</length>
-  </programme>
-  <programme start="20260506165037 +0000" stop="20260506165635 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران مستند</sub-title>
-    <length units="seconds">358</length>
-  </programme>
-  <programme start="20260506160114 +0000" stop="20260506164307 +0000" channel="mostanad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>کارگاه مرمت</sub-title>
-    <length units="seconds">2514</length>
-  </programme>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
-  <programme start="20260506212939 +0000" stop="20260506215935 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ستاره های زمین </sub-title>
-    <length units="seconds">1796</length>
-  </programme>
-  <programme start="20260506210036 +0000" stop="20260506212851 +0000" channel="quran">
-    <title>16 اردیبهشت 1405 - سعید پرویزی</title>
-    <sub-title>دیدار </sub-title>
-    <length units="seconds">1694</length>
-  </programme>
-  <programme start="20260506204406 +0000" stop="20260506205829 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
-    <length units="seconds">864</length>
-  </programme>
-  <programme start="20260506202329 +0000" stop="20260506203044 +0000" channel="quran">
-    <title>دیدار نمایندگان جامعه قرآنی کشور با خانواده شهید سپهبد عبدالرحیم موسوی - 16 اردیبهشت 1405</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">436</length>
-  </programme>
-  <programme start="20260506194506 +0000" stop="20260506201509 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>شبستان </sub-title>
-    <length units="seconds">1802</length>
-  </programme>
-  <programme start="20260506192954 +0000" stop="20260506194441 +0000" channel="quran">
-    <title>حدیث کسا - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
-    <length units="seconds">888</length>
-  </programme>
-  <programme start="20260506190006 +0000" stop="20260506190929 +0000" channel="quran">
-    <title>محمدمهدی شیخ الاسلامی - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">562</length>
-  </programme>
-  <programme start="20260506180216 +0000" stop="20260506184324 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>یاد خدا </sub-title>
-    <length units="seconds">2468</length>
-  </programme>
-  <programme start="20260506174319 +0000" stop="20260506174800 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان فدا </sub-title>
-    <length units="seconds">280</length>
-  </programme>
-  <programme start="20260506155230 +0000" stop="20260506162058 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
-    <length units="seconds">1708</length>
-  </programme>
-  <programme start="20260506152147 +0000" stop="20260506154542 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جوانمردان </sub-title>
-    <length units="seconds">1434</length>
-  </programme>
-  <programme start="20260506151117 +0000" stop="20260506151930 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان فدا </sub-title>
-    <length units="seconds">492</length>
-  </programme>
-  <programme start="20260506140131 +0000" stop="20260506142754 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران ما (قرآن)</sub-title>
-    <length units="seconds">1582</length>
-  </programme>
-  <programme start="20260506125957 +0000" stop="20260506135912 +0000" channel="quran">
-    <title>جز 16 - 16 اردیبهشت 1405</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3554</length>
-  </programme>
-  <programme start="20260506114451 +0000" stop="20260506120112 +0000" channel="quran">
-    <title>ارتباط مستقیم با حرم مطهر حضرت معصومه (س) - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (قرآن)</sub-title>
-    <length units="seconds">980</length>
-  </programme>
-  <programme start="20260506103320 +0000" stop="20260506114450 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>آیه</sub-title>
-    <length units="seconds">4258</length>
-  </programme>
-  <programme start="20260506080156 +0000" stop="20260506082453 +0000" channel="quran">
-    <title>سید مصطفی حسینی - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">1378</length>
-  </programme>
-  <programme start="20260506072255 +0000" stop="20260506080007 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سحاب رحمت (قرآن)</sub-title>
-    <length units="seconds">2232</length>
-  </programme>
-  <programme start="20260506071205 +0000" stop="20260506072042 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (قرآن)</sub-title>
-    <length units="seconds">518</length>
-  </programme>
-  <programme start="20260506063449 +0000" stop="20260506064616 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تفسیر سوره فتح</sub-title>
-    <length units="seconds">688</length>
-  </programme>
-  <programme start="20260506062331 +0000" stop="20260506063422 +0000" channel="quran">
-    <title>امیرحسین انواری - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">652</length>
-  </programme>
-  <programme start="20260506061033 +0000" stop="20260506062330 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مدرسه حفظ قرآن کریم</sub-title>
-    <length units="seconds">778</length>
-  </programme>
-  <programme start="20260506060331 +0000" stop="20260506060823 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تربت ما (قرآن)</sub-title>
-    <length units="seconds">292</length>
-  </programme>
-  <programme start="20260506060101 +0000" stop="20260506060331 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>امام امت (قرآن)</sub-title>
-    <length units="seconds">150</length>
-  </programme>
-  <programme start="20260506054637 +0000" stop="20260506060058 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مردم </sub-title>
-    <length units="seconds">862</length>
-  </programme>
-  <programme start="20260506053419 +0000" stop="20260506054503 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح ظهور (قرآن)</sub-title>
-    <length units="seconds">644</length>
-  </programme>
-  <programme start="20260506051931 +0000" stop="20260506053419 +0000" channel="quran">
-    <title>حدیث کسا - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
-    <length units="seconds">888</length>
-  </programme>
-  <programme start="20260506041754 +0000" stop="20260506051903 +0000" channel="quran">
-    <title>جز 16 - 16 اردیبهشت 1405</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3668</length>
-  </programme>
-  <programme start="20260506040757 +0000" stop="20260506041753 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
-    <length units="seconds">596</length>
-  </programme>
-  <programme start="20260506040428 +0000" stop="20260506040731 +0000" channel="quran">
-    <title>صفحه 16 - 16 اردیبهشت 1405</title>
-    <sub-title>یک صفحه یک آیه </sub-title>
-    <length units="seconds">182</length>
-  </programme>
-  <programme start="20260506035647 +0000" stop="20260506040426 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نور علی نور</sub-title>
-    <length units="seconds">460</length>
-  </programme>
-  <programme start="20260506032407 +0000" stop="20260506033033 +0000" channel="quran">
-    <title>محمدحسین سبزعلی - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">386</length>
-  </programme>
-  <programme start="20260506010223 +0000" stop="20260506015646 +0000" channel="quran">
-    <title>جز 16 - 16 اردیبهشت 1405</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3264</length>
-  </programme>
-  <programme start="20260506003052 +0000" stop="20260506010223 +0000" channel="quran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سرزمین ستاره ها </sub-title>
-    <length units="seconds">1890</length>
-  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
-  <programme start="20260506165931 +0000" stop="20260506180736 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>الف تا</sub-title>
-    <length units="seconds">4084</length>
+  <programme start="20260507003516 +0000" stop="20260507010225 +0000" channel="amouzesh">
+    <title>کنکور انسانی - عربی - منادا - 17 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1629</length>
   </programme>
-  <programme start="20260506165610 +0000" stop="20260506165927 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
-    <length units="seconds">198</length>
-  </programme>
-  <programme start="20260506162315 +0000" stop="20260506164244 +0000" channel="amouzesh">
-    <title>پایه دوازدهم انسانی - تاریخ - درس 10 - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
-    <length units="seconds">1169</length>
-  </programme>
-  <programme start="20260506155400 +0000" stop="20260506161710 +0000" channel="amouzesh">
-    <title>پایه دوازدهم - ادبیات - خوان هشتم - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
-    <length units="seconds">1391</length>
-  </programme>
-  <programme start="20260506153152 +0000" stop="20260506155147 +0000" channel="amouzesh">
-    <title>پایه دهم انسانی - فنون - درس نهم - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
-    <length units="seconds">1196</length>
-  </programme>
-  <programme start="20260506145353 +0000" stop="20260506151635 +0000" channel="amouzesh">
-    <title>پایه نهم - ریاضی - فصل 7 (ساده کردن عبارت های گویا) - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
-    <length units="seconds">1361</length>
-  </programme>
-  <programme start="20260506143254 +0000" stop="20260506145235 +0000" channel="amouzesh">
-    <title>پایه هشتم - ریاضی - احتمال یا اندازه گیری شانس - 16  اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه اول)</sub-title>
-    <length units="seconds">1181</length>
-  </programme>
-  <programme start="20260506142902 +0000" stop="20260506143251 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>زنگ تفریح (آموزش)</sub-title>
-    <length units="seconds">230</length>
-  </programme>
-  <programme start="20260506140500 +0000" stop="20260506142900 +0000" channel="amouzesh">
-    <title>پایه هفتم - ریاضی - فصل هشتم ( بردار انتقال) - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه اول)</sub-title>
-    <length units="seconds">1438</length>
-  </programme>
-  <programme start="20260506132124 +0000" stop="20260506134240 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>از زمین خاکی</sub-title>
-    <length units="seconds">1275</length>
-  </programme>
-  <programme start="20260506131611 +0000" stop="20260506132106 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>الف تا</sub-title>
-    <length units="seconds">294</length>
-  </programme>
-  <programme start="20260506122450 +0000" stop="20260506123228 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قاعده بازی</sub-title>
-    <length units="seconds">457</length>
-  </programme>
-  <programme start="20260506115549 +0000" stop="20260506115810 +0000" channel="amouzesh">
-    <title>درسی از اندیشه علوی - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (آموزش)</sub-title>
-    <length units="seconds">141</length>
-  </programme>
-  <programme start="20260506111943 +0000" stop="20260506114318 +0000" channel="amouzesh">
-    <title>پایه ششم - علوم - درس 13 - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
-    <length units="seconds">1415</length>
-  </programme>
-  <programme start="20260506110156 +0000" stop="20260506111532 +0000" channel="amouzesh">
-    <title>پایه چهارم - علوم - جانوران بی مهره (بخش دوم) - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
-    <length units="seconds">814</length>
-  </programme>
-  <programme start="20260506103405 +0000" stop="20260506105413 +0000" channel="amouzesh">
-    <title>پایه دوم - علوم - درس 13 - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
-    <length units="seconds">1207</length>
-  </programme>
-  <programme start="20260506100834 +0000" stop="20260506102919 +0000" channel="amouzesh">
-    <title>پایه اول ابتدایی - فارسی - نشانه ( ث ) - 16 اردیبهشت 1405</title>
-    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
-    <length units="seconds">1244</length>
-  </programme>
-  <programme start="20260506063110 +0000" stop="20260506065234 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>آزمایش ها (آموزش)</sub-title>
-    <length units="seconds">1285</length>
-  </programme>
-  <programme start="20260506060148 +0000" stop="20260506062121 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پویآموز </sub-title>
-    <length units="seconds">1173</length>
-  </programme>
-  <programme start="20260506050057 +0000" stop="20260506054321 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خانه ما</sub-title>
-    <length units="seconds">2543</length>
-  </programme>
-  <programme start="20260506043407 +0000" stop="20260506050000 +0000" channel="amouzesh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>از زمین خاکی</sub-title>
-    <length units="seconds">1552</length>
-  </programme>
-  <programme start="20260506040525 +0000" stop="20260506043343 +0000" channel="amouzesh">
-    <title>فرزندان حضرت زهرا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (آموزش)</sub-title>
+  <programme start="20260507000646 +0000" stop="20260507003503 +0000" channel="amouzesh">
+    <title>کنکور انسانی - اقتصاد - رشد و پیشرفت اقتصادی - 16 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
     <length units="seconds">1697</length>
-  </programme>
-  <programme start="20260506034125 +0000" stop="20260506034721 +0000" channel="amouzesh">
-    <title>دعای نادعلی - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (آموزش)</sub-title>
-    <length units="seconds">355</length>
   </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
-  <programme start="20260506221105 +0000" stop="20260506221814 +0000" channel="salamat">
-    <title>نقش تغذیه در کنترل استرس - 16 اردیبهشت 1405</title>
-    <sub-title>دوربین سلامت 1405</sub-title>
-    <length units="seconds">419</length>
-  </programme>
-  <programme start="20260506220406 +0000" stop="20260506221050 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>همراه با مردم </sub-title>
-    <length units="seconds">386</length>
-  </programme>
-  <programme start="20260506210423 +0000" stop="20260506220100 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>حال خوب </sub-title>
-    <length units="seconds">3280</length>
-  </programme>
-  <programme start="20260506210222 +0000" stop="20260506210415 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نود ثانیه با سلامت</sub-title>
-    <length units="seconds">104</length>
-  </programme>
-  <programme start="20260506205039 +0000" stop="20260506205843 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران همدل </sub-title>
-    <length units="seconds">473</length>
-  </programme>
-  <programme start="20260506201741 +0000" stop="20260506205030 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>استدیو سلامت</sub-title>
-    <length units="seconds">1923</length>
-  </programme>
-  <programme start="20260506193454 +0000" stop="20260506200004 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خانه سلامت</sub-title>
-    <length units="seconds">1500</length>
-  </programme>
-  <programme start="20260506175143 +0000" stop="20260506183220 +0000" channel="salamat">
-    <title>قسمت 10</title>
-    <sub-title>پرستاران </sub-title>
-    <length units="seconds">2392</length>
-  </programme>
-  <programme start="20260506160121 +0000" stop="20260506164349 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ضربان ۱۴۰5</sub-title>
-    <length units="seconds">2531</length>
-  </programme>
-  <programme start="20260506134225 +0000" stop="20260506140535 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
-    <length units="seconds">1311</length>
-  </programme>
-  <programme start="20260506131830 +0000" stop="20260506133655 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
-    <length units="seconds">1095</length>
-  </programme>
-  <programme start="20260506090249 +0000" stop="20260506094519 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مادر کودک (سلامت)</sub-title>
-    <length units="seconds">2524</length>
-  </programme>
-  <programme start="20260506090046 +0000" stop="20260506090245 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نود ثانیه با سلامت</sub-title>
-    <length units="seconds">119</length>
-  </programme>
-  <programme start="20260506083032 +0000" stop="20260506084925 +0000" channel="salamat">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران فعال </sub-title>
-    <length units="seconds">1121</length>
-  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
-  <programme start="20260506221329 +0000" stop="20260506225310 +0000" channel="ofogh">
-    <title>16 شهریور 1405</title>
-    <sub-title>میدان </sub-title>
-    <length units="seconds">2382</length>
-  </programme>
-  <programme start="20260506211513 +0000" stop="20260506215607 +0000" channel="ofogh">
-    <title>تبیین - 16 شهریور 1405</title>
-    <sub-title>قرارگاه</sub-title>
-    <length units="seconds">2454</length>
-  </programme>
-  <programme start="20260506210801 +0000" stop="20260506211435 +0000" channel="ofogh">
-    <title>16 شهریور 1405</title>
-    <sub-title>مقاوم شهر </sub-title>
-    <length units="seconds">394</length>
-  </programme>
-  <programme start="20260506203508 +0000" stop="20260506205216 +0000" channel="ofogh">
-    <title>16 شهریور 1405 - بخش 2</title>
-    <sub-title>سروستان </sub-title>
-    <length units="seconds">1028</length>
-  </programme>
-  <programme start="20260506193356 +0000" stop="20260506201643 +0000" channel="ofogh">
-    <title>قسمت 1</title>
-    <sub-title>سرو سپید سرخ</sub-title>
-    <length units="seconds">2524</length>
-  </programme>
-  <programme start="20260506185926 +0000" stop="20260506190257 +0000" channel="ofogh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>عهد</sub-title>
-    <length units="seconds">210</length>
-  </programme>
-  <programme start="20260506182644 +0000" stop="20260506185554 +0000" channel="ofogh">
-    <title>فتح - 16 اردیبهشت 1405</title>
-    <sub-title>قرارگاه</sub-title>
-    <length units="seconds">1750</length>
-  </programme>
-  <programme start="20260506171431 +0000" stop="20260506182300 +0000" channel="ofogh">
-    <title>مردم - 16 اردیبهشت 1405</title>
-    <sub-title>قرارگاه</sub-title>
-    <length units="seconds">3931</length>
-  </programme>
-  <programme start="20260506163048 +0000" stop="20260506165106 +0000" channel="ofogh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سروستان </sub-title>
-    <length units="seconds">1218</length>
-  </programme>
-  <programme start="20260506160010 +0000" stop="20260506162859 +0000" channel="ofogh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نسیم حیات</sub-title>
-    <length units="seconds">1730</length>
-  </programme>
-  <programme start="20260506141716 +0000" stop="20260506143104 +0000" channel="ofogh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جان فدا</sub-title>
-    <length units="seconds">828</length>
-  </programme>
-  <programme start="20260506123056 +0000" stop="20260506125920 +0000" channel="ofogh">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روشنا (افق)</sub-title>
-    <length units="seconds">1704</length>
-  </programme>
-  <programme start="20260506080115 +0000" stop="20260506085719 +0000" channel="ofogh">
-    <title>16 اردیبهشت 1405 - حجت الاسلام والمسلمین ماندگاری</title>
-    <sub-title>سمت خدا (افق)</sub-title>
-    <length units="seconds">3364</length>
-  </programme>
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
-  <programme start="20260506215524 +0000" stop="20260506231155 +0000" channel="omid">
-    <title>16 شهریور 1405</title>
-    <sub-title>مجرینو (فصل سوم)</sub-title>
-    <length units="seconds">4591</length>
-  </programme>
-  <programme start="20260506214825 +0000" stop="20260506215225 +0000" channel="omid">
-    <title>16 شهریور 1405</title>
-    <sub-title>نیتروژن</sub-title>
-    <length units="seconds">240</length>
-  </programme>
-  <programme start="20260506200159 +0000" stop="20260506205741 +0000" channel="omid">
-    <title>16 شهریور 1405</title>
-    <sub-title>وارثان حبیب </sub-title>
-    <length units="seconds">3342</length>
-  </programme>
-  <programme start="20260506193323 +0000" stop="20260506195830 +0000" channel="omid">
-    <title>16 شهریور 1405</title>
-    <sub-title>هیس طوری</sub-title>
-    <length units="seconds">1506</length>
-  </programme>
-  <programme start="20260506183704 +0000" stop="20260506185930 +0000" channel="omid">
-    <title>قسمت 12</title>
-    <sub-title>جوانمردان</sub-title>
-    <length units="seconds">1346</length>
-  </programme>
-  <programme start="20260506154940 +0000" stop="20260506164700 +0000" channel="omid">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
-    <length units="seconds">3438</length>
-  </programme>
-  <programme start="20260506143123 +0000" stop="20260506154921 +0000" channel="omid">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>شبکه بازی: فصل 3 </sub-title>
-    <length units="seconds">4678</length>
-  </programme>
-  <programme start="20260506121752 +0000" stop="20260506122800 +0000" channel="omid">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح ظهور (امید)</sub-title>
-    <length units="seconds">608</length>
-  </programme>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
-  <programme start="20260506204200 +0000" stop="20260506223100 +0000" channel="irinn2">
-    <title>موج 67 خروش حماسی مردم - 16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>گزارش خبری </sub-title>
-    <length units="seconds">6088</length>
-  </programme>
-  <programme start="20260506175005 +0000" stop="20260506182649 +0000" channel="irinn2">
-    <title>مراسم بزرگداشت دریابان شهید تنگسیری - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش خبری </sub-title>
-    <length units="seconds">2100</length>
-  </programme>
-  <programme start="20260506163454 +0000" stop="20260506174956 +0000" channel="irinn2">
-    <title>مراسم بزرگداشت سرلشکر شهید مجید خادمی - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش خبری </sub-title>
-    <length units="seconds">4295</length>
-  </programme>
-  <programme start="20260506110258 +0000" stop="20260506113029 +0000" channel="irinn2">
-    <title>اجتماع بین الملی لبیک به رهبر انقلاب اسلامی - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش خبری </sub-title>
-    <length units="seconds">1532</length>
-  </programme>
-  <programme start="20260506104020 +0000" stop="20260506104953 +0000" channel="irinn2">
-    <title>نشست خبری دبیرکل جمعیت هلال احمر - 16 اردیبهشت 1405</title>
-    <sub-title>گزارش خبری </sub-title>
-    <length units="seconds">564</length>
-  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
-  <programme start="20260506213632 +0000" stop="20260506225300 +0000" channel="azarbayjangharbi">
-    <title>تجمع مردمی - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
-    <length units="seconds">4548</length>
-  </programme>
-  <programme start="20260506200007 +0000" stop="20260506202543 +0000" channel="azarbayjangharbi">
-    <title>16 شهریور 1405</title>
-    <sub-title>اخبار ساعت 20:00 (آذربایجان غربی)</sub-title>
-    <length units="seconds">1507</length>
-  </programme>
-  <programme start="20260506190512 +0000" stop="20260506193530 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>زاویه</sub-title>
-    <length units="seconds">1790</length>
-  </programme>
-  <programme start="20260506183028 +0000" stop="20260506185500 +0000" channel="azarbayjangharbi">
-    <title>هرمرزجان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
-    <length units="seconds">1458</length>
-  </programme>
-  <programme start="20260506162925 +0000" stop="20260506165432 +0000" channel="azarbayjangharbi">
-    <title>روایت حضور - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
-    <length units="seconds">1508</length>
-  </programme>
-  <programme start="20260506103025 +0000" stop="20260506112755 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قهرمان ملت</sub-title>
-    <length units="seconds">3436</length>
-  </programme>
-  <programme start="20260506070006 +0000" stop="20260506075446 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سلام یاشایش (آذربایجان غربی)</sub-title>
-    <length units="seconds">3255</length>
-  </programme>
-  <programme start="20260506061418 +0000" stop="20260506065230 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایرانگرد (آذربایجان غربی)</sub-title>
-    <length units="seconds">2280</length>
-  </programme>
-  <programme start="20260506060138 +0000" stop="20260506061010 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (آذربایجان غربی)</sub-title>
-    <length units="seconds">511</length>
-  </programme>
-  <programme start="20260506045309 +0000" stop="20260506054107 +0000" channel="azarbayjangharbi">
-    <title>نبرد برای زندگی - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
-    <length units="seconds">2831</length>
-  </programme>
-  <programme start="20260506041849 +0000" stop="20260506044817 +0000" channel="azarbayjangharbi">
-    <title>حجت الاسلام والمسلمین فاطمی نیا - 16 اردیبهشت 1405</title>
-    <sub-title>سخنرانی (آذربایجان غربی)</sub-title>
-    <length units="seconds">1757</length>
-  </programme>
-  <programme start="20260506035947 +0000" stop="20260506040655 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گنجینه احکام (آذربایجان غربی)</sub-title>
-    <length units="seconds">428</length>
-  </programme>
-  <programme start="20260506035605 +0000" stop="20260506035943 +0000" channel="azarbayjangharbi">
-    <title>دعای فرج - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (آذربایجان غربی)</sub-title>
-    <length units="seconds">218</length>
-  </programme>
-  <programme start="20260506030816 +0000" stop="20260506034430 +0000" channel="azarbayjangharbi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>حدیث سرو (آذربایجان غربی)</sub-title>
-    <length units="seconds">2163</length>
-  </programme>
-  <programme start="20260506002644 +0000" stop="20260506010623 +0000" channel="azarbayjangharbi">
-    <title>تنها در قطب شمال - 16 اردیبهشت 1405</title>
+  <programme start="20260507045240 +0000" stop="20260507053829 +0000" channel="azarbayjangharbi">
+    <title>کامرون - 17 فروردین 1405</title>
     <sub-title>برنامه طبیعت و حیات وحش (آذربایجان غربی)</sub-title>
-    <length units="seconds">2308</length>
+    <length units="seconds">2730</length>
+  </programme>
+  <programme start="20260507041730 +0000" stop="20260507044819 +0000" channel="azarbayjangharbi">
+    <title>سیری در صحیفه سجادیه - 17 فروردین 1405</title>
+    <sub-title>سخنرانی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1838</length>
+  </programme>
+  <programme start="20260507035822 +0000" stop="20260507040542 +0000" channel="azarbayjangharbi">
+    <title>17 فروردین 1405</title>
+    <sub-title>گنجینه احکام (آذربایجان غربی)</sub-title>
+    <length units="seconds">440</length>
+  </programme>
+  <programme start="20260507030249 +0000" stop="20260507034030 +0000" channel="azarbayjangharbi">
+    <title>17 فروردین 1405</title>
+    <sub-title>حدیث سرو (آذربایجان غربی)</sub-title>
+    <length units="seconds">2261</length>
+  </programme>
+  <programme start="20260507002752 +0000" stop="20260507010919 +0000" channel="azarbayjangharbi">
+    <title>تنها در قطب شمال - 17 فروردین 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (آذربایجان غربی)</sub-title>
+    <length units="seconds">2486</length>
   </programme>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
-  <programme start="20260506223005 +0000" stop="20260506225811 +0000" channel="sahand">
-    <title>16 شهریور 1405</title>
-    <sub-title>اخبار ساعت 23:00 (سهند)</sub-title>
-    <length units="seconds">1588</length>
-  </programme>
-  <programme start="20260506201223 +0000" stop="20260506221833 +0000" channel="sahand">
-    <title>16 شهریور 1405 - بخش 2</title>
-    <sub-title>ایرانیم (سهند)</sub-title>
-    <length units="seconds">7252</length>
-  </programme>
-  <programme start="20260506193001 +0000" stop="20260506200206 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
-    <length units="seconds">1818</length>
-  </programme>
-  <programme start="20260506183815 +0000" stop="20260506191716 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>کندیمیز (سهند)</sub-title>
-    <length units="seconds">2329</length>
-  </programme>
-  <programme start="20260506180418 +0000" stop="20260506181842 +0000" channel="sahand">
-    <title>هرمرزجان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سهند)</sub-title>
-    <length units="seconds">832</length>
-  </programme>
-  <programme start="20260506173120 +0000" stop="20260506174620 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 17:30 (سهند)</sub-title>
-    <length units="seconds">832</length>
-  </programme>
-  <programme start="20260506162057 +0000" stop="20260506170204 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه کودک (سهند)</sub-title>
-    <length units="seconds">2406</length>
-  </programme>
-  <programme start="20260506110014 +0000" stop="20260506120209 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خانواده (سهند)</sub-title>
-    <length units="seconds">3608</length>
-  </programme>
-  <programme start="20260506080015 +0000" stop="20260506100246 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>ایرانیم (سهند)</sub-title>
-    <length units="seconds">7221</length>
-  </programme>
-  <programme start="20260506064751 +0000" stop="20260506070304 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ترنم صبحگاهی</sub-title>
-    <length units="seconds">901</length>
-  </programme>
-  <programme start="20260506063622 +0000" stop="20260506064747 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (سهند)</sub-title>
-    <length units="seconds">686</length>
-  </programme>
-  <programme start="20260506054302 +0000" stop="20260506063004 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سعادتمندان</sub-title>
-    <length units="seconds">2767</length>
-  </programme>
-  <programme start="20260506045950 +0000" stop="20260506051625 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507045515 +0000" stop="20260507051123 +0000" channel="sahand">
+    <title>17 فروردین 1405</title>
     <sub-title>سیر آفاقی (سهند)</sub-title>
-    <length units="seconds">964</length>
+    <length units="seconds">947</length>
   </programme>
-  <programme start="20260506042803 +0000" stop="20260506045948 +0000" channel="sahand">
-    <title>حجت الاسلام رفیعی - 16 اردیبهشت 1405</title>
+  <programme start="20260507042206 +0000" stop="20260507045510 +0000" channel="sahand">
+    <title>حجت الاسلام رفیعی - 17 فروردین 1405</title>
     <sub-title>سخنرانی (سهند)</sub-title>
-    <length units="seconds">1873</length>
+    <length units="seconds">1849</length>
   </programme>
-  <programme start="20260506035321 +0000" stop="20260506041046 +0000" channel="sahand">
-    <title>دعا برای مرزداران - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (سهند)</sub-title>
-    <length units="seconds">1036</length>
-  </programme>
-  <programme start="20260506030600 +0000" stop="20260506033943 +0000" channel="sahand">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507030235 +0000" stop="20260507033615 +0000" channel="sahand">
+    <title>17 فروردین 1405</title>
     <sub-title>ثقلین</sub-title>
-    <length units="seconds">2022</length>
+    <length units="seconds">2009</length>
   </programme>
-  <programme start="20260506012751 +0000" stop="20260506021230 +0000" channel="sahand">
-    <title>دریاها و اقیانوس ها - 16 اردیبهشت 1405</title>
+  <programme start="20260507012242 +0000" stop="20260507020652 +0000" channel="sahand">
+    <title>دریاها و اقیانوس ها - 17 فروردین 1405</title>
     <sub-title>برنامه طبیعت و حیات وحش (سهند)</sub-title>
-    <length units="seconds">2631</length>
+    <length units="seconds">2607</length>
   </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
-  <programme start="20260506200010 +0000" stop="20260506203040 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20:00 (البرز)</sub-title>
-    <length units="seconds">1830</length>
-  </programme>
-  <programme start="20260506190632 +0000" stop="20260506195225 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نگاه مردم (البرز)</sub-title>
-    <length units="seconds">2754</length>
-  </programme>
-  <programme start="20260506184519 +0000" stop="20260506184705 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">106</length>
-  </programme>
-  <programme start="20260506184404 +0000" stop="20260506184509 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خبر 68 ثانیه ای (شبکه البرز)</sub-title>
-    <length units="seconds">66</length>
-  </programme>
-  <programme start="20260506170131 +0000" stop="20260506184030 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سین هشتم</sub-title>
-    <length units="seconds">5938</length>
-  </programme>
-  <programme start="20260506163822 +0000" stop="20260506165310 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">888</length>
-  </programme>
-  <programme start="20260506122553 +0000" stop="20260506123045 +0000" channel="alborz">
-    <title>باید برخاست - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (البرز)</sub-title>
-    <length units="seconds">292</length>
-  </programme>
-  <programme start="20260506122039 +0000" stop="20260506122552 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">312</length>
-  </programme>
-  <programme start="20260506115835 +0000" stop="20260506120326 +0000" channel="alborz">
-    <title>آقای امیرحسین جعفرزاده - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن (البرز)</sub-title>
-    <length units="seconds">290</length>
-  </programme>
-  <programme start="20260506113857 +0000" stop="20260506115830 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">1172</length>
-  </programme>
-  <programme start="20260506105505 +0000" stop="20260506110452 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">586</length>
-  </programme>
-  <programme start="20260506081835 +0000" stop="20260506100125 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>امروز البرز (البرز)</sub-title>
-    <length units="seconds">6170</length>
-  </programme>
-  <programme start="20260506080946 +0000" stop="20260506081834 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">528</length>
-  </programme>
-  <programme start="20260506080342 +0000" stop="20260506080945 +0000" channel="alborz">
-    <title>حریفت منم - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (البرز)</sub-title>
-    <length units="seconds">364</length>
-  </programme>
-  <programme start="20260506080209 +0000" stop="20260506080339 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>100 ثانیه با خبرنگار مردمی البرز (شبکه البرز)</sub-title>
-    <length units="seconds">90</length>
-  </programme>
-  <programme start="20260506073948 +0000" stop="20260506080021 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اینجا البرزه </sub-title>
-    <length units="seconds">1234</length>
-  </programme>
-  <programme start="20260506073823 +0000" stop="20260506073930 +0000" channel="alborz">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خبر 68 ثانیه ای (شبکه البرز)</sub-title>
-    <length units="seconds">66</length>
-  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
-  <programme start="20260506105952 +0000" stop="20260506111524 +0000" channel="sabalan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار اردبیل (سبلان)</sub-title>
-    <length units="seconds">932</length>
-  </programme>
-  <programme start="20260506080147 +0000" stop="20260506105000 +0000" channel="sabalan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تزه گون (سبلان)</sub-title>
-    <length units="seconds">10092</length>
-  </programme>
-  <programme start="20260506071849 +0000" stop="20260506075625 +0000" channel="sabalan">
-    <title>ایرانگرد - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه طبیعت و حیات وحش (سبلان)</sub-title>
-    <length units="seconds">2256</length>
-  </programme>
-  <programme start="20260506070359 +0000" stop="20260506071847 +0000" channel="sabalan">
-    <title>بیزیم ملت - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
-    <length units="seconds">888</length>
-  </programme>
-  <programme start="20260506062817 +0000" stop="20260506065759 +0000" channel="sabalan">
-    <title>بنای محبت - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
-    <length units="seconds">1782</length>
-  </programme>
-  <programme start="20260506060714 +0000" stop="20260506062642 +0000" channel="sabalan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جهان گرد (سبلان)</sub-title>
-    <length units="seconds">1168</length>
-  </programme>
-  <programme start="20260506053429 +0000" stop="20260506060101 +0000" channel="sabalan">
-    <title>هرمز جان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
-    <length units="seconds">1592</length>
-  </programme>
-  <programme start="20260506051734 +0000" stop="20260506053428 +0000" channel="sabalan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>با مردم </sub-title>
-    <length units="seconds">1014</length>
-  </programme>
-  <programme start="20260506040416 +0000" stop="20260506044200 +0000" channel="sabalan">
-    <title>درس هایی از نهج البلاغه - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (سبلان)</sub-title>
-    <length units="seconds">2264</length>
-  </programme>
-  <programme start="20260506035410 +0000" stop="20260506040235 +0000" channel="sabalan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (سبلان)</sub-title>
-    <length units="seconds">504</length>
-  </programme>
-  <programme start="20260506031910 +0000" stop="20260506032751 +0000" channel="sabalan">
-    <title>زیارت آل یاسین - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
-    <length units="seconds">520</length>
-  </programme>
-  <programme start="20260506031000 +0000" stop="20260506031825 +0000" channel="sabalan">
-    <title>آیت الله شیخ محمد مجتهدی تهرانی - 16 اردیبهشت 1405</title>
-    <sub-title>سخنرانی (سبلان)</sub-title>
-    <length units="seconds">504</length>
-  </programme>
-  <programme start="20260506025049 +0000" stop="20260506030541 +0000" channel="sabalan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
-    <length units="seconds">892</length>
-  </programme>
-  <programme start="20260506014425 +0000" stop="20260506021130 +0000" channel="sabalan">
-    <title>سیاحت غرب - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه سیاسی و تاریخی (سبلان)</sub-title>
-    <length units="seconds">1626</length>
-  </programme>
-  <programme start="20260506000245 +0000" stop="20260506002255 +0000" channel="sabalan">
-    <title>اجتماع مردم در روستای خیارک - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
-    <length units="seconds">1210</length>
-  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
-  <programme start="20260506110015 +0000" stop="20260506112405 +0000" channel="ilam">
-    <title>هرمز جان - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1429</length>
-  </programme>
-  <programme start="20260506100140 +0000" stop="20260506110010 +0000" channel="ilam">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>ملت بیدارتر </sub-title>
-    <length units="seconds">3509</length>
-  </programme>
-  <programme start="20260506064810 +0000" stop="20260506073035 +0000" channel="ilam">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
-    <length units="seconds">2533</length>
-  </programme>
-  <programme start="20260506062535 +0000" stop="20260506063705 +0000" channel="ilam">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">689</length>
-  </programme>
-  <programme start="20260506060320 +0000" stop="20260506062525 +0000" channel="ilam">
-    <title>الفبای ایثار - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
-    <length units="seconds">1325</length>
-  </programme>
-  <programme start="20260506041510 +0000" stop="20260506042340 +0000" channel="ilam">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>دعای عهد (ایلام)</sub-title>
-    <length units="seconds">508</length>
-  </programme>
-  <programme start="20260506033240 +0000" stop="20260506035455 +0000" channel="ilam">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>مناجات حضرت امیرالمومنین </sub-title>
-    <length units="seconds">1336</length>
-  </programme>
-  <programme start="20260506032325 +0000" stop="20260506033155 +0000" channel="ilam">
-    <title>گزیده اجتماع مردمی - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">510</length>
-  </programme>
-  <programme start="20260506012310 +0000" stop="20260506012505 +0000" channel="ilam">
-    <title>چکامه - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
-    <length units="seconds">114</length>
-  </programme>
-  <programme start="20260506010950 +0000" stop="20260506012310 +0000" channel="ilam">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>با خبرنگاران </sub-title>
-    <length units="seconds">801</length>
-  </programme>
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
-  <programme start="20260506110118 +0000" stop="20260506112917 +0000" channel="bushehr">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ملت بیدار تر </sub-title>
-    <length units="seconds">1680</length>
-  </programme>
-  <programme start="20260506104524 +0000" stop="20260506105949 +0000" channel="bushehr">
-    <title>روایت مردم - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
-    <length units="seconds">866</length>
-  </programme>
-  <programme start="20260506075836 +0000" stop="20260506085619 +0000" channel="bushehr">
-    <title>مسافر - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
-    <length units="seconds">3464</length>
-  </programme>
-  <programme start="20260506060813 +0000" stop="20260506064520 +0000" channel="bushehr">
-    <title>حجت الاسلام والمسلمین میرشفیعی - 16 اردیبهشت 1405</title>
-    <sub-title>سخنرانی (بوشهر)</sub-title>
-    <length units="seconds">2226</length>
-  </programme>
-  <programme start="20260506030249 +0000" stop="20260506030959 +0000" channel="bushehr">
-    <title>رهنما - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
-    <length units="seconds">430</length>
-  </programme>
-  <programme start="20260506024952 +0000" stop="20260506030247 +0000" channel="bushehr">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>جهان گرد (بوشهر)</sub-title>
-    <length units="seconds">776</length>
-  </programme>
-  <programme start="20260506003325 +0000" stop="20260506010700 +0000" channel="bushehr">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه سیاسی و تاریخی (بوشهر)</sub-title>
-    <length units="seconds">2014</length>
-  </programme>
-  <programme start="20260506001442 +0000" stop="20260506002905 +0000" channel="bushehr">
-    <title>روایت مردم - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
-    <length units="seconds">864</length>
-  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
-  <programme start="20260506162945 +0000" stop="20260506163950 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 17:00 (آبادان)</sub-title>
-    <length units="seconds">606</length>
-  </programme>
-  <programme start="20260506141739 +0000" stop="20260506144122 +0000" channel="abadan">
-    <title>هرمز جان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">1424</length>
-  </programme>
-  <programme start="20260506130250 +0000" stop="20260506141725 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">4474</length>
-  </programme>
-  <programme start="20260506110040 +0000" stop="20260506120112 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خونه آفتابی (آبادان)</sub-title>
-    <length units="seconds">3579</length>
-  </programme>
-  <programme start="20260506101836 +0000" stop="20260506104100 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">1344</length>
-  </programme>
-  <programme start="20260506095451 +0000" stop="20260506101835 +0000" channel="abadan">
-    <title>هرمز جان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">1424</length>
-  </programme>
-  <programme start="20260506083409 +0000" stop="20260506090407 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">1798</length>
-  </programme>
-  <programme start="20260506055320 +0000" stop="20260506060041 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه علمی (آبادان)</sub-title>
-    <length units="seconds">442</length>
-  </programme>
-  <programme start="20260506052802 +0000" stop="20260506055300 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">1498</length>
-  </programme>
-  <programme start="20260506043209 +0000" stop="20260506052152 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه سیاسی و تاریخی (آبادان)</sub-title>
-    <length units="seconds">2982</length>
-  </programme>
-  <programme start="20260506030153 +0000" stop="20260506035450 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">3176</length>
-  </programme>
-  <programme start="20260506015315 +0000" stop="20260506030151 +0000" channel="abadan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">7294</length>
-  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
-  <programme start="20260506210433 +0000" stop="20260506223309 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>شب شرقی</sub-title>
-    <length units="seconds">5316</length>
-  </programme>
-  <programme start="20260506203411 +0000" stop="20260506210008 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گفتگوی ویژه خبری</sub-title>
-    <length units="seconds">1556</length>
-  </programme>
-  <programme start="20260506200003 +0000" stop="20260506203108 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20</sub-title>
-    <length units="seconds">1864</length>
-  </programme>
-  <programme start="20260506185927 +0000" stop="20260506195730 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>فرکانس</sub-title>
-    <length units="seconds">3484</length>
-  </programme>
-  <programme start="20260506172004 +0000" stop="20260506174900 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
-    <length units="seconds">1736</length>
-  </programme>
-  <programme start="20260506165720 +0000" stop="20260506171225 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گنجینه جام جم</sub-title>
-    <length units="seconds">904</length>
-  </programme>
-  <programme start="20260506160000 +0000" stop="20260506162656 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 16:00 (خراسان رضوی)</sub-title>
-    <length units="seconds">1616</length>
-  </programme>
-  <programme start="20260506120403 +0000" stop="20260506130514 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
-    <length units="seconds">3672</length>
-  </programme>
-  <programme start="20260506101738 +0000" stop="20260506110030 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پزشک شما (خراسان رضوی)</sub-title>
-    <length units="seconds">2572</length>
-  </programme>
-  <programme start="20260506062754 +0000" stop="20260506072808 +0000" channel="khorasanrazavi">
-    <title>15 اردیبهشت 1405</title>
-    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
-    <length units="seconds">3614</length>
-  </programme>
-  <programme start="20260506055101 +0000" stop="20260506062620 +0000" channel="khorasanrazavi">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
-    <length units="seconds">2120</length>
-  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
-  <programme start="20260506210535 +0000" stop="20260506222913 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ملت بیدارتر</sub-title>
-    <length units="seconds">5018</length>
-  </programme>
-  <programme start="20260506205611 +0000" stop="20260506210530 +0000" channel="atrak">
-    <title>اجتماع مردمی در لبیک به رهبر معظم انقلاب و حمایت از نیروهای مسلح - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (اترک)</sub-title>
-    <length units="seconds">560</length>
-  </programme>
-  <programme start="20260506195957 +0000" stop="20260506202850 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
-    <length units="seconds">1734</length>
-  </programme>
-  <programme start="20260506191344 +0000" stop="20260506194003 +0000" channel="atrak">
-    <title>رد پای آفتاب - 16 اردیبهشت 1405</title>
-    <sub-title>ویژه برنامه های دفاع مقدس (اترک)</sub-title>
-    <length units="seconds">1578</length>
-  </programme>
-  <programme start="20260506165712 +0000" stop="20260506172005 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>آوای ایران </sub-title>
-    <length units="seconds">1372</length>
-  </programme>
-  <programme start="20260506105956 +0000" stop="20260506111612 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
-    <length units="seconds">976</length>
-  </programme>
-  <programme start="20260506100009 +0000" stop="20260506105308 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پزشک شما (اترک)</sub-title>
-    <length units="seconds">3178</length>
-  </programme>
-  <programme start="20260506070012 +0000" stop="20260506080000 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح اترک (اترک)</sub-title>
-    <length units="seconds">3588</length>
-  </programme>
-  <programme start="20260506060137 +0000" stop="20260506065040 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مسابقه فرمانده (اترک)</sub-title>
-    <length units="seconds">2942</length>
-  </programme>
-  <programme start="20260506035948 +0000" stop="20260506044634 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مدافعان حرم</sub-title>
-    <length units="seconds">2806</length>
-  </programme>
-  <programme start="20260506031557 +0000" stop="20260506032540 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (اترک)</sub-title>
-    <length units="seconds">582</length>
-  </programme>
-  <programme start="20260506025333 +0000" stop="20260506025613 +0000" channel="atrak">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نجوا (اترک)</sub-title>
-    <length units="seconds">160</length>
-  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
-  <programme start="20260506203126 +0000" stop="20260506215445 +0000" channel="khalijefars">
-    <title>16 شهریور 1405</title>
-    <sub-title>مهد دلیران</sub-title>
-    <length units="seconds">3603</length>
-  </programme>
-  <programme start="20260506200002 +0000" stop="20260506202130 +0000" channel="khalijefars">
-    <title>16 شهریور 1405</title>
-    <sub-title>اخبار ساعت 20:00 (خلیج فارس)</sub-title>
-    <length units="seconds">1286</length>
-  </programme>
-  <programme start="20260506164501 +0000" stop="20260506170135 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت ۱۶:۴۵ (خلیج فارس)</sub-title>
-    <length units="seconds">994</length>
-  </programme>
-  <programme start="20260506151100 +0000" stop="20260506155650 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>بچه ها کارتون</sub-title>
-    <length units="seconds">2750</length>
-  </programme>
-  <programme start="20260506100046 +0000" stop="20260506110000 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>سر پناه (خلیج فارس)</sub-title>
-    <length units="seconds">3554</length>
-  </programme>
-  <programme start="20260506080120 +0000" stop="20260506085216 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>بچه ها کارتون</sub-title>
-    <length units="seconds">3056</length>
-  </programme>
-  <programme start="20260506070518 +0000" stop="20260506071359 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ناشتا</sub-title>
-    <length units="seconds">520</length>
-  </programme>
-  <programme start="20260506061847 +0000" stop="20260506065600 +0000" channel="khalijefars">
-    <title>روستا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
-    <length units="seconds">2234</length>
-  </programme>
-  <programme start="20260506045236 +0000" stop="20260506054300 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507045650 +0000" stop="20260507054500 +0000" channel="khalijefars">
+    <title>17 فروردین 1405</title>
     <sub-title>ایرانگرد (خلیج فارس)</sub-title>
-    <length units="seconds">3026</length>
+    <length units="seconds">2890</length>
   </programme>
-  <programme start="20260506033209 +0000" stop="20260506033301 +0000" channel="khalijefars">
-    <title>دعای روز چهارشنبه - 16 اردیبهشت 1405</title>
+  <programme start="20260507033052 +0000" stop="20260507033133 +0000" channel="khalijefars">
+    <title>دعای روز پنج شنبه - 17 فروردین 1405</title>
     <sub-title>ادعیه و زیارت (خلیج فارس)</sub-title>
-    <length units="seconds">52</length>
+    <length units="seconds">42</length>
   </programme>
-  <programme start="20260506031636 +0000" stop="20260506033158 +0000" channel="khalijefars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (خلیج فارس)</sub-title>
-    <length units="seconds">922</length>
+  <programme start="20260507031519 +0000" stop="20260507033047 +0000" channel="khalijefars">
+    <title>حدیث کساء - 17 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (خلیج فارس)</sub-title>
+    <length units="seconds">928</length>
   </programme>
-  <programme start="20260506031603 +0000" stop="20260506031635 +0000" channel="khalijefars">
-    <title>نکات ناب - 16 اردیبهشت 1405</title>
+  <programme start="20260507031445 +0000" stop="20260507031518 +0000" channel="khalijefars">
+    <title>نکات ناب - 17 فروردین 1405</title>
     <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
     <length units="seconds">32</length>
   </programme>
-  <programme start="20260506024651 +0000" stop="20260506031400 +0000" channel="khalijefars">
-    <title>مغستان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
-    <length units="seconds">1630</length>
+  <programme start="20260507031301 +0000" stop="20260507031443 +0000" channel="khalijefars">
+    <title>سخنرانی رهبر شهید انقلاب - 17 فروردین 1405</title>
+    <sub-title>سخنرانی (خلیج فارس)</sub-title>
+    <length units="seconds">102</length>
   </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
-  <programme start="20260506211130 +0000" stop="20260506224600 +0000" channel="khoozestan">
-    <title>تجمع مردمی - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
-    <length units="seconds">5670</length>
-  </programme>
-  <programme start="20260506193839 +0000" stop="20260506204017 +0000" channel="khoozestan">
-    <title>16 شهریور 1405</title>
-    <sub-title>مراحب</sub-title>
-    <length units="seconds">3698</length>
-  </programme>
-  <programme start="20260506163004 +0000" stop="20260506165200 +0000" channel="khoozestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 17:00 (خوزستان)</sub-title>
-    <length units="seconds">1314</length>
-  </programme>
-  <programme start="20260506085326 +0000" stop="20260506090610 +0000" channel="khoozestan">
-    <title>شهدا - 16 اردیبهشت 1405</title>
-    <sub-title>ویژه برنامه‌ های دفاع مقدس شبکه خوزستان</sub-title>
-    <length units="seconds">764</length>
-  </programme>
-  <programme start="20260506072444 +0000" stop="20260506081422 +0000" channel="khoozestan">
-    <title>رهنما - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
-    <length units="seconds">2978</length>
-  </programme>
-  <programme start="20260506062103 +0000" stop="20260506062232 +0000" channel="khoozestan">
-    <title>پل - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
-    <length units="seconds">90</length>
-  </programme>
-  <programme start="20260506060331 +0000" stop="20260506062100 +0000" channel="khoozestan">
-    <title>دعا برای مرزداران - 16 اردیبهشت 1405</title>
+  <programme start="20260507060206 +0000" stop="20260507061935 +0000" channel="khoozestan">
+    <title>دعا برای مرزداران - 17 فروردین 1405</title>
     <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
     <length units="seconds">1050</length>
   </programme>
-  <programme start="20260506042502 +0000" stop="20260506051230 +0000" channel="khoozestan">
-    <title>ایران از بالا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه طبیعت و حیات وحش (خوزستان)</sub-title>
-    <length units="seconds">2848</length>
-  </programme>
-  <programme start="20260506041510 +0000" stop="20260506042332 +0000" channel="khoozestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (خوزستان)</sub-title>
-    <length units="seconds">502</length>
-  </programme>
-  <programme start="20260506033700 +0000" stop="20260506035238 +0000" channel="khoozestan">
-    <title>مناجات امیرالمومنین - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
-    <length units="seconds">938</length>
-  </programme>
-  <programme start="20260506025025 +0000" stop="20260506025547 +0000" channel="khoozestan">
-    <title>جاوید ایران - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (خوزستان)</sub-title>
-    <length units="seconds">322</length>
-  </programme>
-  <programme start="20260506024524 +0000" stop="20260506025102 +0000" channel="khoozestan">
-    <title>سنگرهای بی نشان - 16 اردیبهشت 1405</title>
+  <programme start="20260507060112 +0000" stop="20260507060204 +0000" channel="khoozestan">
+    <title>پل - 17 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
-    <length units="seconds">338</length>
+    <length units="seconds">52</length>
+  </programme>
+  <programme start="20260507042140 +0000" stop="20260507043147 +0000" channel="khoozestan">
+    <title>صبح ظهور - 17 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">608</length>
+  </programme>
+  <programme start="20260507041305 +0000" stop="20260507042138 +0000" channel="khoozestan">
+    <title>17 فروردین 1405</title>
+    <sub-title>دعای عهد (خوزستان)</sub-title>
+    <length units="seconds">512</length>
+  </programme>
+  <programme start="20260507033848 +0000" stop="20260507035231 +0000" channel="khoozestan">
+    <title>مناجات امیرالمومنین - 17 فروردین 1405</title>
+    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
+    <length units="seconds">824</length>
+  </programme>
+  <programme start="20260507013643 +0000" stop="20260507022400 +0000" channel="khoozestan">
+    <title>ایران از بالا - </title>
+    <sub-title>برنامه طبیعت و حیات وحش (خوزستان)</sub-title>
+    <length units="seconds">2836</length>
   </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
@@ -2487,555 +247,70 @@
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
-  <programme start="20260506113308 +0000" stop="20260506114500 +0000" channel="semnan">
-    <title>صبح طهور - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (سمنان)</sub-title>
-    <length units="seconds">240</length>
-  </programme>
-  <programme start="20260506104535 +0000" stop="20260506113145 +0000" channel="semnan">
-    <title>مستند ایران از بالا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه طبیعت و حیات وحش (سمنان)</sub-title>
-    <length units="seconds">2770</length>
-  </programme>
-  <programme start="20260506100731 +0000" stop="20260506101805 +0000" channel="semnan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ویچار (سمنان)</sub-title>
-    <length units="seconds">634</length>
-  </programme>
-  <programme start="20260506080137 +0000" stop="20260506084215 +0000" channel="semnan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>یه صبح تازه</sub-title>
-    <length units="seconds">2438</length>
-  </programme>
-  <programme start="20260506061954 +0000" stop="20260506070145 +0000" channel="semnan">
-    <title>میهن میهن - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه فرهنگی و هنری (سمنان)</sub-title>
-    <length units="seconds">2512</length>
-  </programme>
-  <programme start="20260506051700 +0000" stop="20260506061125 +0000" channel="semnan">
-    <title>مستند زندگی - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه علمی (سمنان)</sub-title>
-    <length units="seconds">3266</length>
-  </programme>
-  <programme start="20260506040401 +0000" stop="20260506050900 +0000" channel="semnan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ترتیل قرآن کریم (سمنان)</sub-title>
-    <length units="seconds">3898</length>
-  </programme>
-  <programme start="20260506034920 +0000" stop="20260506035919 +0000" channel="semnan">
-    <title>دعای عهد - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (سمنان)</sub-title>
-    <length units="seconds">600</length>
-  </programme>
-  <programme start="20260506025907 +0000" stop="20260506031715 +0000" channel="semnan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تا فلق (سمنان)</sub-title>
-    <length units="seconds">1088</length>
-  </programme>
-  <programme start="20260506022930 +0000" stop="20260506025712 +0000" channel="semnan">
-    <title>دو نیمه پنهان ماه - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سمنان)</sub-title>
-    <length units="seconds">1662</length>
-  </programme>
-  <programme start="20260506002425 +0000" stop="20260506010732 +0000" channel="semnan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (سمنان)</sub-title>
-    <length units="seconds">2586</length>
-  </programme>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
-  <programme start="20260506213500 +0000" stop="20260506221000 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برای وطن</sub-title>
-    <length units="seconds">2100</length>
-  </programme>
-  <programme start="20260506195958 +0000" stop="20260506204530 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
-    <length units="seconds">2732</length>
-  </programme>
-  <programme start="20260506191833 +0000" stop="20260506193218 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روایت خانه</sub-title>
-    <length units="seconds">826</length>
-  </programme>
-  <programme start="20260506181319 +0000" stop="20260506185140 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>میدان نخبگان</sub-title>
-    <length units="seconds">2302</length>
-  </programme>
-  <programme start="20260506180304 +0000" stop="20260506181300 +0000" channel="fars">
-    <title>رادار - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (فارس)</sub-title>
-    <length units="seconds">596</length>
-  </programme>
-  <programme start="20260506165813 +0000" stop="20260506175000 +0000" channel="fars">
-    <title>بزرگداشت شهید مجید خادمی - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (فارس)</sub-title>
-    <length units="seconds">3108</length>
-  </programme>
-  <programme start="20260506164436 +0000" stop="20260506165809 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 16:45 (فارس)</sub-title>
-    <length units="seconds">812</length>
-  </programme>
-  <programme start="20260506124550 +0000" stop="20260506125043 +0000" channel="fars">
-    <title>برخاست - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (فارس)</sub-title>
-    <length units="seconds">294</length>
-  </programme>
-  <programme start="20260506122137 +0000" stop="20260506124548 +0000" channel="fars">
-    <title>هرمزجان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (فارس)</sub-title>
-    <length units="seconds">1450</length>
-  </programme>
-  <programme start="20260506121705 +0000" stop="20260506122119 +0000" channel="fars">
-    <title>پرچمداران میدان - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (فارس)</sub-title>
-    <length units="seconds">254</length>
-  </programme>
-  <programme start="20260506115305 +0000" stop="20260506115600 +0000" channel="fars">
-    <title>نسیم وحی - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن (فارس)</sub-title>
-    <length units="seconds">174</length>
-  </programme>
-  <programme start="20260506111238 +0000" stop="20260506115225 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نسیم حرم (فارس)</sub-title>
-    <length units="seconds">2388</length>
-  </programme>
-  <programme start="20260506091028 +0000" stop="20260506100600 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برای وطن</sub-title>
-    <length units="seconds">3332</length>
-  </programme>
-  <programme start="20260506080713 +0000" stop="20260506090808 +0000" channel="fars">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روز بخیر فارس</sub-title>
-    <length units="seconds">3654</length>
-  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
-  <programme start="20260506115833 +0000" stop="20260506120031 +0000" channel="qazvin">
-    <title>راه امام - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (قزوین)</sub-title>
-    <length units="seconds">118</length>
-  </programme>
-  <programme start="20260506101156 +0000" stop="20260506103629 +0000" channel="qazvin">
-    <title>هرمز جان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
-    <length units="seconds">1474</length>
-  </programme>
-  <programme start="20260506091902 +0000" stop="20260506100139 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ماجرا های خانه ما </sub-title>
-    <length units="seconds">2556</length>
-  </programme>
-  <programme start="20260506064956 +0000" stop="20260506091415 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایران جان </sub-title>
-    <length units="seconds">8660</length>
-  </programme>
-  <programme start="20260506042348 +0000" stop="20260506052643 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تلاوت نور</sub-title>
-    <length units="seconds">3774</length>
-  </programme>
-  <programme start="20260506041718 +0000" stop="20260506042220 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مواهب (قزوین)</sub-title>
-    <length units="seconds">302</length>
-  </programme>
-  <programme start="20260506040707 +0000" stop="20260506041717 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>چگونه ساخته شده (قزوین)</sub-title>
-    <length units="seconds">610</length>
-  </programme>
-  <programme start="20260506035235 +0000" stop="20260506040227 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ده دقیقه (قزوین)</sub-title>
-    <length units="seconds">592</length>
-  </programme>
-  <programme start="20260506032501 +0000" stop="20260506033230 +0000" channel="qazvin">
-    <title>رسم امام - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (قزوین)</sub-title>
-    <length units="seconds">450</length>
-  </programme>
-  <programme start="20260506025413 +0000" stop="20260506032500 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دل افروزان (قزوین)</sub-title>
-    <length units="seconds">1848</length>
-  </programme>
-  <programme start="20260506024855 +0000" stop="20260506025352 +0000" channel="qazvin">
-    <title>مک - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
-    <length units="seconds">298</length>
-  </programme>
-  <programme start="20260506024611 +0000" stop="20260506024854 +0000" channel="qazvin">
-    <title>منظومه - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه علمی</sub-title>
-    <length units="seconds">164</length>
-  </programme>
-  <programme start="20260506011335 +0000" stop="20260506015847 +0000" channel="qazvin">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مستند ایران</sub-title>
-    <length units="seconds">2712</length>
-  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
-  <programme start="20260506203021 +0000" stop="20260506212330 +0000" channel="noor">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ایستاده ایم </sub-title>
-    <length units="seconds">3039</length>
-  </programme>
-  <programme start="20260506200015 +0000" stop="20260506202520 +0000" channel="noor">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20:00</sub-title>
-    <length units="seconds">1483</length>
-  </programme>
-  <programme start="20260506193805 +0000" stop="20260506194110 +0000" channel="noor">
-    <title>مردم در میدان - 16 اردیبهشت 1405</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">170</length>
-  </programme>
-  <programme start="20260506190335 +0000" stop="20260506193100 +0000" channel="noor">
-    <title>ارتباط مستقیم با حرم مطهر - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (نور)</sub-title>
-    <length units="seconds">1547</length>
-  </programme>
-  <programme start="20260506172501 +0000" stop="20260506172856 +0000" channel="noor">
-    <title>حالت شوریده - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (نور)</sub-title>
-    <length units="seconds">214</length>
-  </programme>
-  <programme start="20260506122613 +0000" stop="20260506123745 +0000" channel="noor">
-    <title>حدیث کسا - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (نور)</sub-title>
-    <length units="seconds">682</length>
-  </programme>
-  <programme start="20260506122155 +0000" stop="20260506122310 +0000" channel="noor">
-    <title>دعای ناد علی - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (نور)</sub-title>
-    <length units="seconds">76</length>
-  </programme>
-  <programme start="20260506114517 +0000" stop="20260506122153 +0000" channel="noor">
-    <title>ارتباط مستقیم با حرم مطهر - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (نور)</sub-title>
-    <length units="seconds">2142</length>
-  </programme>
-  <programme start="20260506114032 +0000" stop="20260506114511 +0000" channel="noor">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (نور)</sub-title>
-    <length units="seconds">279</length>
-  </programme>
-  <programme start="20260506103216 +0000" stop="20260506113135 +0000" channel="noor">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (نور)</sub-title>
-    <length units="seconds">3490</length>
-  </programme>
-  <programme start="20260506080057 +0000" stop="20260506090025 +0000" channel="noor">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبحانه (نور)</sub-title>
-    <length units="seconds">3486</length>
-  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
-  <programme start="20260506105635 +0000" stop="20260506111910 +0000" channel="aflak">
-    <title>هرمز جان - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1354</length>
-  </programme>
-  <programme start="20260506085615 +0000" stop="20260506100345 +0000" channel="aflak">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>صبح امید (لرستان)</sub-title>
-    <length units="seconds">4050</length>
-  </programme>
-  <programme start="20260506084005 +0000" stop="20260506085445 +0000" channel="aflak">
-    <title>سلام استاد - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه اجتماعی (لرستان)</sub-title>
-    <length units="seconds">880</length>
-  </programme>
-  <programme start="20260506082420 +0000" stop="20260506083555 +0000" channel="aflak">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>قاب مردم (لرستان)</sub-title>
-    <length units="seconds">696</length>
-  </programme>
-  <programme start="20260506072150 +0000" stop="20260506081835 +0000" channel="aflak">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه طبیعت و حیات وحش (لرستان)</sub-title>
-    <length units="seconds">3406</length>
-  </programme>
-  <programme start="20260506051115 +0000" stop="20260506052040 +0000" channel="aflak">
-    <title>قاب افتخار - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">566</length>
-  </programme>
-  <programme start="20260506041625 +0000" stop="20260506043740 +0000" channel="aflak">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>سند افتخار (لرستان)</sub-title>
-    <length units="seconds">1276</length>
-  </programme>
-  <programme start="20260506040830 +0000" stop="20260506041250 +0000" channel="aflak">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>گنجینه احکام (لرستان)</sub-title>
-    <length units="seconds">260</length>
-  </programme>
-  <programme start="20260506032235 +0000" stop="20260506034345 +0000" channel="aflak">
-    <title>قرآن و جامعه - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه مذهبی (لرستان)</sub-title>
-    <length units="seconds">1270</length>
-  </programme>
-  <programme start="20260506031940 +0000" stop="20260506032230 +0000" channel="aflak">
-    <title>حکایت شهادت - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">170</length>
-  </programme>
-  <programme start="20260506011515 +0000" stop="20260506014045 +0000" channel="aflak">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1530</length>
-  </programme>
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
-  <programme start="20260506203403 +0000" stop="20260506215600 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ملت بیدار تر </sub-title>
-    <length units="seconds">4917</length>
-  </programme>
-  <programme start="20260506195954 +0000" stop="20260506202646 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 20:00 (کرمان)</sub-title>
-    <length units="seconds">1612</length>
-  </programme>
-  <programme start="20260506181515 +0000" stop="20260506182518 +0000" channel="kerman">
-    <title>قاب اقتدار - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">602</length>
-  </programme>
-  <programme start="20260506180142 +0000" stop="20260506180906 +0000" channel="kerman">
-    <title>با وطن - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">444</length>
-  </programme>
-  <programme start="20260506164455 +0000" stop="20260506170113 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت ۱۶:۴۵ (کرمان)</sub-title>
-    <length units="seconds">978</length>
-  </programme>
-  <programme start="20260506155803 +0000" stop="20260506163733 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>رنگین کمان</sub-title>
-    <length units="seconds">2370</length>
-  </programme>
-  <programme start="20260506115614 +0000" stop="20260506122600 +0000" channel="kerman">
-    <title>سخنرانی رهبر معظم انقلاب - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">1786</length>
-  </programme>
-  <programme start="20260506100015 +0000" stop="20260506104559 +0000" channel="kerman">
-    <title>کرمان جان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">2744</length>
-  </programme>
-  <programme start="20260506092951 +0000" stop="20260506095737 +0000" channel="kerman">
-    <title>پدر امت - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">1666</length>
-  </programme>
-  <programme start="20260506085915 +0000" stop="20260506092948 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روستا به روستا (کرمان)</sub-title>
-    <length units="seconds">1832</length>
-  </programme>
-  <programme start="20260506071038 +0000" stop="20260506075518 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>کرمان سلام</sub-title>
-    <length units="seconds">2680</length>
-  </programme>
-  <programme start="20260506061621 +0000" stop="20260506065550 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>رنگین کمان</sub-title>
-    <length units="seconds">2368</length>
-  </programme>
-  <programme start="20260506060220 +0000" stop="20260506061225 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (کرمان)</sub-title>
-    <length units="seconds">606</length>
-  </programme>
-  <programme start="20260506050118 +0000" stop="20260506060032 +0000" channel="kerman">
-    <title>چهارسوی علم - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه علمی</sub-title>
-    <length units="seconds">2667</length>
-  </programme>
-  <programme start="20260506031337 +0000" stop="20260506031717 +0000" channel="kerman">
-    <title>صهبای تسنیم - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (کرمان)</sub-title>
-    <length units="seconds">220</length>
-  </programme>
-  <programme start="20260506030039 +0000" stop="20260506031227 +0000" channel="kerman">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مواهب (کرمان)</sub-title>
-    <length units="seconds">708</length>
-  </programme>
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
-  <programme start="20260506203420 +0000" stop="20260506224800 +0000" channel="zagros">
-    <title>تجمع مردمی - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">7974</length>
-  </programme>
-  <programme start="20260506200343 +0000" stop="20260506203342 +0000" channel="zagros">
-    <title>پدر امت - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">1798</length>
-  </programme>
-  <programme start="20260506193318 +0000" stop="20260506195821 +0000" channel="zagros">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 19:30 (زاگرس)</sub-title>
-    <length units="seconds">1502</length>
-  </programme>
-  <programme start="20260506182748 +0000" stop="20260506190818 +0000" channel="zagros">
-    <title>لاله خیز - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">2429</length>
-  </programme>
-  <programme start="20260506173636 +0000" stop="20260506175312 +0000" channel="zagros">
-    <title>نوسان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">985</length>
-  </programme>
-  <programme start="20260506160102 +0000" stop="20260506164922 +0000" channel="zagros">
-    <title>16 اردیبهشت 1405 - بخش 2</title>
-    <sub-title>مبارز میدان</sub-title>
-    <length units="seconds">2901</length>
-  </programme>
-  <programme start="20260506103058 +0000" stop="20260506111930 +0000" channel="zagros">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مبارز میدان</sub-title>
-    <length units="seconds">2911</length>
-  </programme>
-  <programme start="20260506060128 +0000" stop="20260506061013 +0000" channel="zagros">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507060053 +0000" stop="20260507060918 +0000" channel="zagros">
+    <title>17 فروردین 1405</title>
     <sub-title>دعای عهد (زاگرس)</sub-title>
-    <length units="seconds">525</length>
+    <length units="seconds">504</length>
   </programme>
-  <programme start="20260506042749 +0000" stop="20260506045630 +0000" channel="zagros">
-    <title>درس هایی از نهج البلاغه - 16 اردیبهشت 1405</title>
-    <sub-title>سخنرانی (زاگرس)</sub-title>
-    <length units="seconds">1721</length>
-  </programme>
-  <programme start="20260506033954 +0000" stop="20260506034138 +0000" channel="zagros">
-    <title>راه امام - 16 اردیبهشت 1405</title>
+  <programme start="20260507051151 +0000" stop="20260507052330 +0000" channel="zagros">
+    <title>نان و هنر - 17 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">105</length>
+    <length units="seconds">699</length>
   </programme>
-  <programme start="20260506032701 +0000" stop="20260506033952 +0000" channel="zagros">
-    <title>آیت الله تهرانی - 16 اردیبهشت 1405</title>
+  <programme start="20260507050108 +0000" stop="20260507050850 +0000" channel="zagros">
+    <title>جهان گرد - 17 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">462</length>
+  </programme>
+  <programme start="20260507042748 +0000" stop="20260507045538 +0000" channel="zagros">
+    <title>درس هایی از نهج البلاغه - 17 فروردین 1405</title>
     <sub-title>سخنرانی (زاگرس)</sub-title>
-    <length units="seconds">769</length>
+    <length units="seconds">1657</length>
   </programme>
-  <programme start="20260506032516 +0000" stop="20260506032700 +0000" channel="zagros">
-    <title>با شهدا - 16 اردیبهشت 1405</title>
+  <programme start="20260507035756 +0000" stop="20260507040138 +0000" channel="zagros">
+    <title>17 فروردین 1405</title>
+    <sub-title>دعای عهد (زاگرس)</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260507032832 +0000" stop="20260507034015 +0000" channel="zagros">
+    <title>آیت الله تهرانی - 17 فروردین 1405</title>
+    <sub-title>سخنرانی (زاگرس)</sub-title>
+    <length units="seconds">703</length>
+  </programme>
+  <programme start="20260507032631 +0000" stop="20260507032830 +0000" channel="zagros">
+    <title>با شهدا - 17 فروردین 1405</title>
     <sub-title>ویژه برنامه های دفاع مقدس (زاگرس)</sub-title>
-    <length units="seconds">104</length>
+    <length units="seconds">119</length>
   </programme>
-  <programme start="20260506032345 +0000" stop="20260506032514 +0000" channel="zagros">
-    <title>میدانم - 16 اردیبهشت 1405</title>
+  <programme start="20260507032502 +0000" stop="20260507032628 +0000" channel="zagros">
+    <title>میدانم - 17 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">88</length>
-  </programme>
-  <programme start="20260506031121 +0000" stop="20260506032339 +0000" channel="zagros">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>هنر ایرانی (زاگرس)</sub-title>
-    <length units="seconds">736</length>
-  </programme>
-  <programme start="20260506030545 +0000" stop="20260506031117 +0000" channel="zagros">
-    <title>راوینا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">333</length>
-  </programme>
-  <programme start="20260506030234 +0000" stop="20260506030542 +0000" channel="zagros">
-    <title>جهان گرد - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
-    <length units="seconds">188</length>
+    <length units="seconds">86</length>
   </programme>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
-  <programme start="20260506122210 +0000" stop="20260506122635 +0000" channel="dena">
-    <title>آینه های روبرو - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه مذهبی (دنا)</sub-title>
-    <length units="seconds">266</length>
-  </programme>
-  <programme start="20260506110045 +0000" stop="20260506113830 +0000" channel="dena">
-    <title>مدیر مدرسه بهشت - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">2266</length>
-  </programme>
-  <programme start="20260506100005 +0000" stop="20260506104635 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>حونه مهر (دنا)</sub-title>
-    <length units="seconds">2790</length>
-  </programme>
-  <programme start="20260506090655 +0000" stop="20260506095400 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>شادی خانه (دنا)</sub-title>
-    <length units="seconds">2824</length>
-  </programme>
-  <programme start="20260506080530 +0000" stop="20260506090355 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>مسابقه فرمانده (دنا)</sub-title>
-    <length units="seconds">3506</length>
-  </programme>
-  <programme start="20260506070005 +0000" stop="20260506075420 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>صبح دنا</sub-title>
-    <length units="seconds">3254</length>
-  </programme>
-  <programme start="20260506064750 +0000" stop="20260506065535 +0000" channel="dena">
-    <title>جهان نما - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>برنامه سیاسی و تاریخی (دنا)</sub-title>
-    <length units="seconds">466</length>
-  </programme>
-  <programme start="20260506061200 +0000" stop="20260506063715 +0000" channel="dena">
-    <title>هرمز جان - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1516</length>
-  </programme>
-  <programme start="20260506060100 +0000" stop="20260506060930 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>دعای عهد (دنا)</sub-title>
-    <length units="seconds">510</length>
-  </programme>
-  <programme start="20260506054745 +0000" stop="20260506055710 +0000" channel="dena">
-    <title>قاب اقتدار - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">566</length>
-  </programme>
-  <programme start="20260506050415 +0000" stop="20260506053955 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>صهبای تسنیم</sub-title>
-    <length units="seconds">2140</length>
-  </programme>
-  <programme start="20260506045720 +0000" stop="20260506050305 +0000" channel="dena">
-    <title>امت امام - ۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">344</length>
-  </programme>
-  <programme start="20260506040000 +0000" stop="20260506045615 +0000" channel="dena">
-    <title>۱۶ اردیبهشت ۱۴۰۵</title>
-    <sub-title>ترتیل قرآن کریم (دنا)</sub-title>
-    <length units="seconds">3374</length>
-  </programme>
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
@@ -3045,477 +320,82 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
-  <programme start="20260506190811 +0000" stop="20260506191507 +0000" channel="baran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>قرائت صحیح</sub-title>
-    <length units="seconds">415</length>
-  </programme>
-  <programme start="20260506163009 +0000" stop="20260506173119 +0000" channel="baran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>می جان ایران </sub-title>
-    <length units="seconds">3616</length>
-  </programme>
-  <programme start="20260506114341 +0000" stop="20260506115828 +0000" channel="baran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>حدیث کسا (باران)</sub-title>
-    <length units="seconds">876</length>
-  </programme>
-  <programme start="20260506111903 +0000" stop="20260506113850 +0000" channel="baran">
-    <title>نگاتیو - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (باران)</sub-title>
-    <length units="seconds">1154</length>
-  </programme>
-  <programme start="20260506100459 +0000" stop="20260506105953 +0000" channel="baran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دوازده روی هشت (باران)</sub-title>
-    <length units="seconds">3263</length>
-  </programme>
-  <programme start="20260506090028 +0000" stop="20260506095529 +0000" channel="baran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دریچه (باران)</sub-title>
-    <length units="seconds">3222</length>
-  </programme>
-  <programme start="20260506073012 +0000" stop="20260506084031 +0000" channel="baran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح تازه</sub-title>
-    <length units="seconds">4169</length>
-  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
-  <programme start="20260506213026 +0000" stop="20260506215225 +0000" channel="kordestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 21:30 (کردستان)</sub-title>
-    <length units="seconds">1318</length>
-  </programme>
-  <programme start="20260506210300 +0000" stop="20260506211800 +0000" channel="kordestan">
-    <title>تجمع مردمی کردستان - 16 اردیبهشت 1405</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">902</length>
-  </programme>
-  <programme start="20260506192412 +0000" stop="20260506193120 +0000" channel="kordestan">
-    <title>عوامل پاکی روح - 16 اردیبهشت 1405</title>
-    <sub-title>صهبای جان (کردستان)</sub-title>
-    <length units="seconds">428</length>
-  </programme>
-  <programme start="20260506191528 +0000" stop="20260506192033 +0000" channel="kordestan">
-    <title>سوره مائده - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن (کردستان)</sub-title>
-    <length units="seconds">306</length>
-  </programme>
-  <programme start="20260506170109 +0000" stop="20260506172735 +0000" channel="kordestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
-    <length units="seconds">1586</length>
-  </programme>
-  <programme start="20260506165525 +0000" stop="20260506165950 +0000" channel="kordestan">
-    <title>آقای شهیدم - 16 اردیبهشت 1405</title>
-    <sub-title>نماهنگ (کردستان)</sub-title>
-    <length units="seconds">264</length>
-  </programme>
-  <programme start="20260506124331 +0000" stop="20260506131730 +0000" channel="kordestan">
-    <title>بیره وه ری - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
-    <length units="seconds">2038</length>
-  </programme>
-  <programme start="20260506121252 +0000" stop="20260506121823 +0000" channel="kordestan">
-    <title>سوره هود - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن (کردستان)</sub-title>
-    <length units="seconds">332</length>
-  </programme>
-  <programme start="20260506120045 +0000" stop="20260506121250 +0000" channel="kordestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>به ره و رووناکی (کردستان)</sub-title>
-    <length units="seconds">724</length>
-  </programme>
-  <programme start="20260506090009 +0000" stop="20260506094900 +0000" channel="kordestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>روژمان (کردستان)</sub-title>
-    <length units="seconds">2930</length>
-  </programme>
-  <programme start="20260506080126 +0000" stop="20260506085625 +0000" channel="kordestan">
-    <title>هرمزجان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
-    <length units="seconds">3300</length>
-  </programme>
-  <programme start="20260506062823 +0000" stop="20260506070841 +0000" channel="kordestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تفسیر قرآن کریم (کردستان)</sub-title>
-    <length units="seconds">2418</length>
-  </programme>
-  <programme start="20260506060105 +0000" stop="20260506062810 +0000" channel="kordestan">
-    <title>سوره فرقان - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن (کردستان)</sub-title>
-    <length units="seconds">1624</length>
-  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
-  <programme start="20260506060526 +0000" stop="20260506061206 +0000" channel="taban">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>آن روزها (یزد)</sub-title>
-    <length units="seconds">400</length>
-  </programme>
-  <programme start="20260506035710 +0000" stop="20260506040421 +0000" channel="taban">
-    <title>دعای چهاردهم صحیفه سجادیه - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (یزد)</sub-title>
-    <length units="seconds">430</length>
-  </programme>
-  <programme start="20260506011238 +0000" stop="20260506014339 +0000" channel="taban">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>مستند ایران (یزد)</sub-title>
-    <length units="seconds">1860</length>
-  </programme>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
-  <programme start="20260506212500 +0000" stop="20260506224800 +0000" channel="tabarestan">
-    <title>تجمع مردمی - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
-    <length units="seconds">4970</length>
-  </programme>
-  <programme start="20260506203623 +0000" stop="20260506212328 +0000" channel="tabarestan">
-    <title>16 شهریور 1405</title>
-    <sub-title>مازرونی شو</sub-title>
-    <length units="seconds">2806</length>
-  </programme>
-  <programme start="20260506200022 +0000" stop="20260506203000 +0000" channel="tabarestan">
-    <title>16 شهریور 1405</title>
-    <sub-title>اخبار ساعت 20:00 (تبرستان)</sub-title>
-    <length units="seconds">1778</length>
-  </programme>
-  <programme start="20260506160035 +0000" stop="20260506165300 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>شاپرک (تبرستان)</sub-title>
-    <length units="seconds">3138</length>
-  </programme>
-  <programme start="20260506110040 +0000" stop="20260506111403 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 11:00 (تبرستان)</sub-title>
-    <length units="seconds">804</length>
-  </programme>
-  <programme start="20260506090043 +0000" stop="20260506095544 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>افتاب سو</sub-title>
-    <length units="seconds">3265</length>
-  </programme>
-  <programme start="20260506070059 +0000" stop="20260506075445 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صواحی</sub-title>
-    <length units="seconds">3227</length>
-  </programme>
-  <programme start="20260506054059 +0000" stop="20260506054943 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507053956 +0000" stop="20260507055014 +0000" channel="tabarestan">
+    <title>17 فروردین 1405</title>
     <sub-title>نگاتیو </sub-title>
-    <length units="seconds">523</length>
+    <length units="seconds">618</length>
   </programme>
-  <programme start="20260506040048 +0000" stop="20260506043518 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507043536 +0000" stop="20260507045600 +0000" channel="tabarestan">
+    <title>میراث کهن - 17 فروردین 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (تبرستان)</sub-title>
+    <length units="seconds">1223</length>
+  </programme>
+  <programme start="20260507040006 +0000" stop="20260507043100 +0000" channel="tabarestan">
+    <title>17 فروردین 1405</title>
     <sub-title>حدیث سرو (تبرستان)</sub-title>
-    <length units="seconds">2059</length>
+    <length units="seconds">1842</length>
   </programme>
-  <programme start="20260506031644 +0000" stop="20260506031737 +0000" channel="tabarestan">
-    <title>مقاومت سوره ها - 16 اردیبهشت 1405</title>
+  <programme start="20260507034937 +0000" stop="20260507040004 +0000" channel="tabarestan">
+    <title>آیت الله مجتهد تهرانی - 17 فروردین 1405</title>
+    <sub-title>سخنرانی (تبرستان)</sub-title>
+    <length units="seconds">626</length>
+  </programme>
+  <programme start="20260507031447 +0000" stop="20260507031544 +0000" channel="tabarestan">
+    <title>مقاومت سوره ها - 17 فروردین 1405</title>
     <sub-title>ویژه برنامه های دفاع مقدس (تبرستان)</sub-title>
-    <length units="seconds">52</length>
+    <length units="seconds">56</length>
   </programme>
-  <programme start="20260506031108 +0000" stop="20260506031643 +0000" channel="tabarestan">
-    <title>زیارت امین الله - 16 اردیبهشت 1405</title>
+  <programme start="20260507030909 +0000" stop="20260507031446 +0000" channel="tabarestan">
+    <title>زیارت امین الله - 17 فروردین 1405</title>
     <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
     <length units="seconds">336</length>
   </programme>
-  <programme start="20260506025426 +0000" stop="20260506030520 +0000" channel="tabarestan">
-    <title>صبح ظهور - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه مذهبی (تبرستان)</sub-title>
-    <length units="seconds">639</length>
-  </programme>
-  <programme start="20260506020120 +0000" stop="20260506024714 +0000" channel="tabarestan">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>چهار سوی علم (تبرستان)</sub-title>
-    <length units="seconds">2755</length>
-  </programme>
-  <programme start="20260506014700 +0000" stop="20260506015608 +0000" channel="tabarestan">
-    <title>جان فدا - 16 اردیبهشت 1405</title>
+  <programme start="20260507025631 +0000" stop="20260507030655 +0000" channel="tabarestan">
+    <title>صبح ظهور - 17 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
-    <length units="seconds">548</length>
+    <length units="seconds">623</length>
   </programme>
-  <programme start="20260506013049 +0000" stop="20260506014657 +0000" channel="tabarestan">
-    <title>دعای توسل - 16 اردیبهشت 1405</title>
+  <programme start="20260507013043 +0000" stop="20260507014650 +0000" channel="tabarestan">
+    <title>دعای توسل - 17 فروردین 1405</title>
     <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
     <length units="seconds">968</length>
-  </programme>
-  <programme start="20260506010625 +0000" stop="20260506012921 +0000" channel="tabarestan">
-    <title>روایت حضور -  16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
-    <length units="seconds">1366</length>
   </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
-  <programme start="20260506220037 +0000" stop="20260506224130 +0000" channel="aftab">
-    <title>تجمع مردمی - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
-    <length units="seconds">2452</length>
-  </programme>
-  <programme start="20260506214643 +0000" stop="20260506215833 +0000" channel="aftab">
-    <title>16 شهریور 1405 - بخش 4</title>
-    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
-    <length units="seconds">710</length>
-  </programme>
-  <programme start="20260506205715 +0000" stop="20260506214230 +0000" channel="aftab">
-    <title>تجمع مردمی - 16 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
-    <length units="seconds">2714</length>
-  </programme>
-  <programme start="20260506200001 +0000" stop="20260506203014 +0000" channel="aftab">
-    <title>16 شهریور 1405</title>
-    <sub-title>اخبار ساعت 20:00 (آفتاب)</sub-title>
-    <length units="seconds">1812</length>
-  </programme>
-  <programme start="20260506185021 +0000" stop="20260506190520 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405 - بخش 3</title>
-    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
-    <length units="seconds">898</length>
-  </programme>
-  <programme start="20260506180407 +0000" stop="20260506184228 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پرسش (آفتاب)</sub-title>
-    <length units="seconds">1604</length>
-  </programme>
-  <programme start="20260506170035 +0000" stop="20260506180130 +0000" channel="aftab">
-    <title>ریاضی و آمار 2 - 16 اردیبهشت 1405</title>
-    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
-    <length units="seconds">3634</length>
-  </programme>
-  <programme start="20260506155935 +0000" stop="20260506170031 +0000" channel="aftab">
-    <title>حسابان 2 و ریاضی 2 - 16 اردیبهشت 1405</title>
-    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
-    <length units="seconds">3656</length>
-  </programme>
-  <programme start="20260506145317 +0000" stop="20260506155430 +0000" channel="aftab">
-    <title>ریاضی 2 رشته تجربی - 16 اردیبهشت 1405</title>
-    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
-    <length units="seconds">3672</length>
-  </programme>
-  <programme start="20260506135218 +0000" stop="20260506145100 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گلدونه ها</sub-title>
-    <length units="seconds">3522</length>
-  </programme>
-  <programme start="20260506130001 +0000" stop="20260506132127 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
-    <length units="seconds">1286</length>
-  </programme>
-  <programme start="20260506095954 +0000" stop="20260506105400 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پزشک شما (آفتاب)</sub-title>
-    <length units="seconds">3246</length>
-  </programme>
-  <programme start="20260506094137 +0000" stop="20260506095807 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405 - بخش 2</title>
-    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
-    <length units="seconds">990</length>
-  </programme>
-  <programme start="20260506080254 +0000" stop="20260506093500 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح و زندگی (آفتاب)</sub-title>
-    <length units="seconds">5526</length>
-  </programme>
-  <programme start="20260506064103 +0000" stop="20260506064750 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ویژه برنامه های دفاع مقدس (آفتاب)</sub-title>
-    <length units="seconds">408</length>
-  </programme>
-  <programme start="20260506061137 +0000" stop="20260506064055 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پهلوانان (آفتاب)</sub-title>
-    <length units="seconds">1758</length>
-  </programme>
-  <programme start="20260506055914 +0000" stop="20260506060742 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507055807 +0000" stop="20260507060636 +0000" channel="aftab">
+    <title>17 فروردین 1405</title>
     <sub-title>دعای عهد (آفتاب)</sub-title>
-    <length units="seconds">508</length>
+    <length units="seconds">510</length>
   </programme>
-  <programme start="20260506040030 +0000" stop="20260506043915 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>تفسیر نور (آفتاب)</sub-title>
-    <length units="seconds">2324</length>
+  <programme start="20260507040424 +0000" stop="20260507044004 +0000" channel="aftab">
+    <title>17 فروردین 1405</title>
+    <sub-title>حدیث سرو (آفتاب)</sub-title>
+    <length units="seconds">2140</length>
   </programme>
-  <programme start="20260506035925 +0000" stop="20260506040427 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405</title>
+  <programme start="20260507035944 +0000" stop="20260507040445 +0000" channel="aftab">
+    <title>17 فروردین 1405</title>
     <sub-title>آوا نوا (آفتاب)</sub-title>
-    <length units="seconds">302</length>
-  </programme>
-  <programme start="20260506033911 +0000" stop="20260506034019 +0000" channel="aftab">
-    <title>دعای روز چهارشنبه  - 16 اردیبهشت 1405</title>
-    <sub-title>ادعیه و زیارت (آفتاب)</sub-title>
-    <length units="seconds">68</length>
-  </programme>
-  <programme start="20260506032012 +0000" stop="20260506033529 +0000" channel="aftab">
-    <title>16 اردیبهشت 1405 - بخش 1</title>
-    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
-    <length units="seconds">916</length>
+    <length units="seconds">300</length>
   </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
-  <programme start="20260506210022 +0000" stop="20260506220000 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ملت بیدارتر</sub-title>
-    <length units="seconds">3578</length>
-  </programme>
-  <programme start="20260506192850 +0000" stop="20260506195910 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 19:30 (مهاباد)</sub-title>
-    <length units="seconds">1820</length>
-  </programme>
-  <programme start="20260506160007 +0000" stop="20260506164800 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>باغچه ی گولان (مهاباد)</sub-title>
-    <length units="seconds">2872</length>
-  </programme>
-  <programme start="20260506124627 +0000" stop="20260506125100 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>به ره و ئاوایی (مهاباد)</sub-title>
-    <length units="seconds">272</length>
-  </programme>
-  <programme start="20260506124330 +0000" stop="20260506124626 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>نجوا (مهاباد)</sub-title>
-    <length units="seconds">176</length>
-  </programme>
-  <programme start="20260506122827 +0000" stop="20260506124330 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>به خته وه ری (مهاباد)</sub-title>
-    <length units="seconds">902</length>
-  </programme>
-  <programme start="20260506121849 +0000" stop="20260506122300 +0000" channel="mahabad">
-    <title>سوره طارق - 16 اردیبهشت 1405</title>
-    <sub-title>تلاوت قرآن (مهاباد)</sub-title>
-    <length units="seconds">250</length>
-  </programme>
-  <programme start="20260506110328 +0000" stop="20260506121411 +0000" channel="mahabad">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خانواده ایران</sub-title>
-    <length units="seconds">4244</length>
-  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
-  <programme start="20260506170025 +0000" stop="20260506172040 +0000" channel="sina">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>خیابان با ما</sub-title>
-    <length units="seconds">1204</length>
-  </programme>
-  <programme start="20260506153010 +0000" stop="20260506154651 +0000" channel="sina">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (همدان)</sub-title>
-    <length units="seconds">990</length>
-  </programme>
-  <programme start="20260506123434 +0000" stop="20260506125904 +0000" channel="sina">
-    <title>هرمز جان - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (همدان)</sub-title>
-    <length units="seconds">1432</length>
-  </programme>
-  <programme start="20260506080005 +0000" stop="20260506085009 +0000" channel="sina">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>صبح عالی (همدان)</sub-title>
-    <length units="seconds">2970</length>
-  </programme>
-  <programme start="20260506063904 +0000" stop="20260506065742 +0000" channel="sina">
-    <title>پاورقی - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (همدان)</sub-title>
-    <length units="seconds">1118</length>
-  </programme>
-  <programme start="20260506052831 +0000" stop="20260506055122 +0000" channel="sina">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>چشم و چراغ (همدان)</sub-title>
-    <length units="seconds">1335</length>
-  </programme>
-  <programme start="20260506040705 +0000" stop="20260506051215 +0000" channel="sina">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>ترتیل قرآن کریم (همدان)</sub-title>
-    <length units="seconds">3865</length>
-  </programme>
-  <programme start="20260506025149 +0000" stop="20260506030612 +0000" channel="sina">
-    <title>جهان گرد - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (همدان)</sub-title>
-    <length units="seconds">851</length>
-  </programme>
-  <programme start="20260506020027 +0000" stop="20260506025136 +0000" channel="sina">
-    <title>مستند ایران از بالا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
-    <length units="seconds">3024</length>
-  </programme>
-  <programme start="20260506002252 +0000" stop="20260506002618 +0000" channel="sina">
-    <title>رهنما - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (همدان)</sub-title>
-    <length units="seconds">206</length>
-  </programme>
-  <programme start="20260506000005 +0000" stop="20260506001650 +0000" channel="sina">
-    <title>باغبان باد عشق - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (همدان)</sub-title>
-    <length units="seconds">975</length>
-  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
-  <programme start="20260506170215 +0000" stop="20260506172606 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>پرسمان (خاوران)</sub-title>
-    <length units="seconds">1430</length>
-  </programme>
-  <programme start="20260506160015 +0000" stop="20260506162510 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 16:00 (خاوران)</sub-title>
-    <length units="seconds">1494</length>
-  </programme>
-  <programme start="20260506115940 +0000" stop="20260506130209 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>زندگی سلام (خاوران)</sub-title>
-    <length units="seconds">3750</length>
-  </programme>
-  <programme start="20260506110819 +0000" stop="20260506112432 +0000" channel="khavaran">
-    <title>روایت حضور - 16 اردیبهشت 1405</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">972</length>
-  </programme>
-  <programme start="20260506110114 +0000" stop="20260506110635 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 11:00 (خاوران)</sub-title>
-    <length units="seconds">322</length>
-  </programme>
-  <programme start="20260506073011 +0000" stop="20260506083400 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>کوچه باغ (خاوران)</sub-title>
-    <length units="seconds">3828</length>
-  </programme>
-  <programme start="20260506044830 +0000" stop="20260506053046 +0000" channel="khavaran">
-    <title>ایران از بالا - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
-    <length units="seconds">2536</length>
-  </programme>
-  <programme start="20260506043638 +0000" stop="20260506044255 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>حدیث زندگی (خاوران)</sub-title>
-    <length units="seconds">376</length>
-  </programme>
-  <programme start="20260506042630 +0000" stop="20260506043500 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>دعای عهد (خاوران)</sub-title>
-    <length units="seconds">510</length>
-  </programme>
-  <programme start="20260506032638 +0000" stop="20260506042431 +0000" channel="khavaran">
-    <title>16 اردیبهشت 1405</title>
-    <sub-title>گلشن وحی (خاوران)</sub-title>
-    <length units="seconds">3472</length>
-  </programme>
-  <programme start="20260506022519 +0000" stop="20260506030256 +0000" channel="khavaran">
-    <title>نوزادان حیوانات - 16 اردیبهشت 1405</title>
-    <sub-title>برنامه طبیعت و حیات وحش (خاوران)</sub-title>
-    <length units="seconds">2258</length>
-  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
