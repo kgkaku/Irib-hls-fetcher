@@ -3,6 +3,56 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260517210000 +0000" stop="20260517220005 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">3606</length>
+  </programme>
+  <programme start="20260517200121 +0000" stop="20260517204355 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>جریان </sub-title>
+    <length units="seconds">2554</length>
+  </programme>
+  <programme start="20260517193835 +0000" stop="20260517195130 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>خاکریز مردم</sub-title>
+    <length units="seconds">774</length>
+  </programme>
+  <programme start="20260517190100 +0000" stop="20260517191635 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>سنگر</sub-title>
+    <length units="seconds">936</length>
+  </programme>
+  <programme start="20260517185425 +0000" stop="20260517185610 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>صدای مردم (شبکه 1)</sub-title>
+    <length units="seconds">104</length>
+  </programme>
+  <programme start="20260517181545 +0000" stop="20260517185415 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>لاله خیز </sub-title>
+    <length units="seconds">2310</length>
+  </programme>
+  <programme start="20260517180105 +0000" stop="20260517181542 +0000" channel="tv1">
+    <title>27 اردیبهشت 1405 - بخش 3</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">876</length>
+  </programme>
+  <programme start="20260517171150 +0000" stop="20260517172100 +0000" channel="tv1">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>قاب اقتدار</sub-title>
+    <length units="seconds">550</length>
+  </programme>
+  <programme start="20260517165930 +0000" stop="20260517171111 +0000" channel="tv1">
+    <title>27 اردبیهشت 1405 - بخش 2</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">702</length>
+  </programme>
+  <programme start="20260517161505 +0000" stop="20260517165228 +0000" channel="tv1">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>شما و سیما 1405</sub-title>
+    <length units="seconds">2242</length>
+  </programme>
   <programme start="20260517161032 +0000" stop="20260517161105 +0000" channel="tv1">
     <title>27 اردبیهشت 1405</title>
     <sub-title>تیتر یک </sub-title>
@@ -17,6 +67,11 @@
     <title>27 اردبیهشت 1405</title>
     <sub-title>اخبار نیمروزی </sub-title>
     <length units="seconds">3656</length>
+  </programme>
+  <programme start="20260517134536 +0000" stop="20260517134644 +0000" channel="tv1">
+    <title>به نیت شهدای میناب نهال میکارند!</title>
+    <sub-title>سایه سار </sub-title>
+    <length units="seconds">68</length>
   </programme>
   <programme start="20260517134000 +0000" stop="20260517135005 +0000" channel="tv1">
     <title>27 اردبیهشت 1405</title>
@@ -61,6 +116,56 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260517220645 +0000" stop="20260517223849 +0000" channel="tv2">
+    <title>۲7 اردیبهشت ۱۴۰۵ - عبدالحمید قدیریان </title>
+    <sub-title>پدر امت </sub-title>
+    <length units="seconds">1924</length>
+  </programme>
+  <programme start="20260517212523 +0000" stop="20260517220419 +0000" channel="tv2">
+    <title>قسمت ۷</title>
+    <sub-title>صدای قلب من</sub-title>
+    <length units="seconds">2336</length>
+  </programme>
+  <programme start="20260517205915 +0000" stop="20260517211510 +0000" channel="tv2">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>نوسان (شبکه 2)</sub-title>
+    <length units="seconds">956</length>
+  </programme>
+  <programme start="20260517202959 +0000" stop="20260517205913 +0000" channel="tv2">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1754</length>
+  </programme>
+  <programme start="20260517195816 +0000" stop="20260517201932 +0000" channel="tv2">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>پاورقی</sub-title>
+    <length units="seconds">1276</length>
+  </programme>
+  <programme start="20260517193908 +0000" stop="20260517195049 +0000" channel="tv2">
+    <title>حدیث کساء - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">700</length>
+  </programme>
+  <programme start="20260517180108 +0000" stop="20260517193908 +0000" channel="tv2">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>عصر خانواده </sub-title>
+    <length units="seconds">5094</length>
+  </programme>
+  <programme start="20260517175544 +0000" stop="20260517175950 +0000" channel="tv2">
+    <title>فتح قریب - 27 اردیبهشت 1405</title>
+    <sub-title>نماهنگ (شبکه 2)</sub-title>
+    <length units="seconds">246</length>
+  </programme>
+  <programme start="20260517175103 +0000" stop="20260517175542 +0000" channel="tv2">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260517170455 +0000" stop="20260517172737 +0000" channel="tv2">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>جوانمردان</sub-title>
+    <length units="seconds">1362</length>
+  </programme>
   <programme start="20260517150215 +0000" stop="20260517155425 +0000" channel="tv2">
     <title>گزیده - ۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>زمانه </sub-title>
@@ -124,6 +229,56 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260517221609 +0000" stop="20260517223108 +0000" channel="tv3">
+    <title>27 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">900</length>
+  </programme>
+  <programme start="20260517221036 +0000" stop="20260517221315 +0000" channel="tv3">
+    <title>مصرف بالای پلاستیک؛ چالش جدی محیط‌زیست</title>
+    <sub-title>اخبار ساعت 22:00 (۱۴05)</sub-title>
+    <length units="seconds">160</length>
+  </programme>
+  <programme start="20260517203921 +0000" stop="20260517212841 +0000" channel="tv3">
+    <title>قسمت 21</title>
+    <sub-title>کلینیک رویا</sub-title>
+    <length units="seconds">2644</length>
+  </programme>
+  <programme start="20260517201448 +0000" stop="20260517203051 +0000" channel="tv3">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">964</length>
+  </programme>
+  <programme start="20260517193127 +0000" stop="20260517201445 +0000" channel="tv3">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>کاپیتان </sub-title>
+    <length units="seconds">2590</length>
+  </programme>
+  <programme start="20260517191603 +0000" stop="20260517193120 +0000" channel="tv3">
+    <title>27 اردیبهشت 1405 - بخش 3</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">916</length>
+  </programme>
+  <programme start="20260517183308 +0000" stop="20260517191514 +0000" channel="tv3">
+    <title>27 اردیبهشت 1405 - دکتر حسین پاک</title>
+    <sub-title>سیاست خارجی ۱۴۰5</sub-title>
+    <length units="seconds">2526</length>
+  </programme>
+  <programme start="20260517182818 +0000" stop="20260517183305 +0000" channel="tv3">
+    <title>سومین گفتاورد ملی فرهنگی و گردشگری ایران - 27 اردیبهشت 1405 </title>
+    <sub-title>گزارش روز ۱۴0۵ (شبکه ۳)</sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260517172529 +0000" stop="20260517175033 +0000" channel="tv3">
+    <title>روایت یک تغییر؛ قصه بهار - 27 اردیبهشت 1405</title>
+    <sub-title>خط قرمز </sub-title>
+    <length units="seconds">1504</length>
+  </programme>
+  <programme start="20260517171617 +0000" stop="20260517172138 +0000" channel="tv3">
+    <title>27 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>یه نکته کوچیک برای خونواده</sub-title>
+    <length units="seconds">322</length>
+  </programme>
   <programme start="20260517140505 +0000" stop="20260517143918 +0000" channel="tv3">
     <title>27 اردیبهشت 1405 - دکتر مهدی خانعلی زاده</title>
     <sub-title>سیاست خارجی ۱۴۰5</sub-title>
@@ -212,6 +367,61 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260517213628 +0000" stop="20260517223145 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>چهارگاه (شبکه 4)</sub-title>
+    <length units="seconds">3317</length>
+  </programme>
+  <programme start="20260517205649 +0000" stop="20260517213100 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>روزهای آزادی</sub-title>
+    <length units="seconds">2049</length>
+  </programme>
+  <programme start="20260517202702 +0000" stop="20260517205647 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>نان و هنر (شبکه 4)</sub-title>
+    <length units="seconds">1785</length>
+  </programme>
+  <programme start="20260517200018 +0000" stop="20260517201200 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">702</length>
+  </programme>
+  <programme start="20260517194123 +0000" stop="20260517195810 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>سینما کتاب</sub-title>
+    <length units="seconds">1007</length>
+  </programme>
+  <programme start="20260517191419 +0000" stop="20260517191734 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">193</length>
+  </programme>
+  <programme start="20260517184503 +0000" stop="20260517191253 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>کتاب چهار</sub-title>
+    <length units="seconds">1670</length>
+  </programme>
+  <programme start="20260517183716 +0000" stop="20260517184253 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>جهان گرد (شبکه 4)</sub-title>
+    <length units="seconds">335</length>
+  </programme>
+  <programme start="20260517175207 +0000" stop="20260517183713 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>سنجه</sub-title>
+    <length units="seconds">2690</length>
+  </programme>
+  <programme start="20260517161406 +0000" stop="20260517170954 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>چند دقیقه برای تفکر</sub-title>
+    <length units="seconds">3339</length>
+  </programme>
+  <programme start="20260517150350 +0000" stop="20260517161405 +0000" channel="tv4">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>قرن جدید</sub-title>
+    <length units="seconds">4215</length>
+  </programme>
   <programme start="20260517142314 +0000" stop="20260517145021 +0000" channel="tv4">
     <title>حاج مهدی سماواتی - 27 اردیبهشت 1405</title>
     <sub-title>مداحی(شبکه 4)</sub-title>
@@ -250,6 +460,101 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260517215040 +0000" stop="20260517215111 +0000" channel="irinn">
+    <title>پیام رهبر انصارالله درباره شهادت فرمانده قسام</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">30</length>
+  </programme>
+  <programme start="20260517210005 +0000" stop="20260517220005 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3600</length>
+  </programme>
+  <programme start="20260517205530 +0000" stop="20260517205955 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">266</length>
+  </programme>
+  <programme start="20260517200350 +0000" stop="20260517205510 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">3080</length>
+  </programme>
+  <programme start="20260517200015 +0000" stop="20260517200345 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (خبر)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260517193550 +0000" stop="20260517195950 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۱</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">1430</length>
+  </programme>
+  <programme start="20260517193015 +0000" stop="20260517193545 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260517191125 +0000" stop="20260517192150 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>گفتگوی تلویزیونی سخنگوی دولت</sub-title>
+    <length units="seconds">625</length>
+  </programme>
+  <programme start="20260517190015 +0000" stop="20260517191125 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">670</length>
+  </programme>
+  <programme start="20260517184025 +0000" stop="20260517190010 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">1186</length>
+  </programme>
+  <programme start="20260517183015 +0000" stop="20260517184020 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>خبر اقتصاد و بازار (خبر)</sub-title>
+    <length units="seconds">606</length>
+  </programme>
+  <programme start="20260517180940 +0000" stop="20260517182935 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - محسن شاطرزاده</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1194</length>
+  </programme>
+  <programme start="20260517180015 +0000" stop="20260517180940 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
+    <length units="seconds">566</length>
+  </programme>
+  <programme start="20260517173015 +0000" stop="20260517173455 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (خبر)</sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260517170015 +0000" stop="20260517170855 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260517165745 +0000" stop="20260517165925 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">100</length>
+  </programme>
+  <programme start="20260517165225 +0000" stop="20260517165540 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (خبر)</sub-title>
+    <length units="seconds">196</length>
+  </programme>
+  <programme start="20260517165005 +0000" stop="20260517165220 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">136</length>
+  </programme>
+  <programme start="20260517163440 +0000" stop="20260517165005 +0000" channel="irinn">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>لبنان امروز</sub-title>
+    <length units="seconds">924</length>
+  </programme>
   <programme start="20260517163015 +0000" stop="20260517163435 +0000" channel="irinn">
     <title>۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>اخبار ساعت 16:30 </sub-title>
@@ -405,64 +710,64 @@
     <sub-title>سلام خبرنگار (خبر)</sub-title>
     <length units="seconds">696</length>
   </programme>
-  <programme start="20260517073010 +0000" stop="20260517073440 +0000" channel="irinn">
-    <title>۲۷ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
-    <length units="seconds">270</length>
-  </programme>
-  <programme start="20260517071725 +0000" stop="20260517072530 +0000" channel="irinn">
-    <title>۲۷ اردیبهشت ۱۴۰۵</title>
-    <sub-title>موج (خبر)</sub-title>
-    <length units="seconds">484</length>
-  </programme>
-  <programme start="20260517070012 +0000" stop="20260517070942 +0000" channel="irinn">
-    <title>27 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">570</length>
-  </programme>
-  <programme start="20260517063015 +0000" stop="20260517063412 +0000" channel="irinn">
-    <title>27 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
-    <length units="seconds">236</length>
-  </programme>
-  <programme start="20260517060012 +0000" stop="20260517061056 +0000" channel="irinn">
-    <title>27 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">644</length>
-  </programme>
-  <programme start="20260517050021 +0000" stop="20260517051005 +0000" channel="irinn">
-    <title>27 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">584</length>
-  </programme>
-  <programme start="20260517040019 +0000" stop="20260517040948 +0000" channel="irinn">
-    <title>27 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">568</length>
-  </programme>
-  <programme start="20260517030015 +0000" stop="20260517031035 +0000" channel="irinn">
-    <title>۲۷ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">620</length>
-  </programme>
-  <programme start="20260517020011 +0000" stop="20260517021013 +0000" channel="irinn">
-    <title>27 اردیبهشت 1405</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">602</length>
-  </programme>
-  <programme start="20260517010015 +0000" stop="20260517010900 +0000" channel="irinn">
-    <title>۲۷ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">524</length>
-  </programme>
-  <programme start="20260517000005 +0000" stop="20260517003140 +0000" channel="irinn">
-    <title>۲۷ اردیبهشت ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">1894</length>
-  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260517211255 +0000" stop="20260517215440 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایستگاه ایران</sub-title>
+    <length units="seconds">2278</length>
+  </programme>
+  <programme start="20260517195830 +0000" stop="20260517210315 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>شهروند و مافیا ۱۴۰۵</sub-title>
+    <length units="seconds">3692</length>
+  </programme>
+  <programme start="20260517193510 +0000" stop="20260517194100 +0000" channel="nasim">
+    <title>ناد علی - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
+    <length units="seconds">362</length>
+  </programme>
+  <programme start="20260517191705 +0000" stop="20260517192405 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه </sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20260517191510 +0000" stop="20260517191705 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>در ناب</sub-title>
+    <length units="seconds">116</length>
+  </programme>
+  <programme start="20260517191140 +0000" stop="20260517191510 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>گردون</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260517190525 +0000" stop="20260517191000 +0000" channel="nasim">
+    <title>الله اکبر خامنه‌ای رهبر - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">276</length>
+  </programme>
+  <programme start="20260517185455 +0000" stop="20260517185940 +0000" channel="nasim">
+    <title>مهدی پویا - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">284</length>
+  </programme>
+  <programme start="20260517182945 +0000" stop="20260517185250 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نفیس</sub-title>
+    <length units="seconds">1384</length>
+  </programme>
+  <programme start="20260517182400 +0000" stop="20260517182920 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اجاق</sub-title>
+    <length units="seconds">320</length>
+  </programme>
+  <programme start="20260517175330 +0000" stop="20260517175950 +0000" channel="nasim">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روزبین</sub-title>
+    <length units="seconds">380</length>
+  </programme>
   <programme start="20260517153055 +0000" stop="20260517155120 +0000" channel="nasim">
     <title>۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>قاب اقتدار</sub-title>
@@ -481,6 +786,26 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260517190059 +0000" stop="20260517202208 +0000" channel="varzesh">
+    <title>27 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>قهرمان ایران</sub-title>
+    <length units="seconds">4524</length>
+  </programme>
+  <programme start="20260517183603 +0000" stop="20260517185446 +0000" channel="varzesh">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>مجله بسکتبال اروپا</sub-title>
+    <length units="seconds">1122</length>
+  </programme>
+  <programme start="20260517183131 +0000" stop="20260517183554 +0000" channel="varzesh">
+    <title>27 اردیبهشت 1405 - بخش 1</title>
+    <sub-title>قهرمان ایران</sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260517180115 +0000" stop="20260517182955 +0000" channel="varzesh">
+    <title>27 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1720</length>
+  </programme>
   <programme start="20260517113940 +0000" stop="20260517114632 +0000" channel="varzesh">
     <title>گل های برتر اندی کول - 27 اردیبهشت 1405</title>
     <sub-title>توی دروازه</sub-title>
@@ -507,6 +832,56 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260517213140 +0000" stop="20260517214040 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>هزار و یک داستان</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20260517195255 +0000" stop="20260517195610 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۹</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">194</length>
+  </programme>
+  <programme start="20260517191925 +0000" stop="20260517192045 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>حکمت ستاره ها</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20260517190820 +0000" stop="20260517191535 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ماجراهای نوید </sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20260517190245 +0000" stop="20260517190605 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۸</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260517184100 +0000" stop="20260517184515 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>چی چی</sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20260517175940 +0000" stop="20260517182925 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۷</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">1786</length>
+  </programme>
+  <programme start="20260517175445 +0000" stop="20260517175740 +0000" channel="pooya">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>روایت نودی ها</sub-title>
+    <length units="seconds">176</length>
+  </programme>
+  <programme start="20260517165950 +0000" stop="20260517171220 +0000" channel="pooya">
+    <title>قسمت ۱۶</title>
+    <sub-title>مثل نامه</sub-title>
+    <length units="seconds">748</length>
+  </programme>
+  <programme start="20260517165530 +0000" stop="20260517165805 +0000" channel="pooya">
+    <title>نهال امید - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>عروسک خونه</sub-title>
+    <length units="seconds">154</length>
+  </programme>
   <programme start="20260517155955 +0000" stop="20260517164050 +0000" channel="pooya">
     <title>۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>دلیران</sub-title>
@@ -610,6 +985,26 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260517200029 +0000" stop="20260517204255 +0000" channel="ifilm">
+    <title>قسمت ۱۸ </title>
+    <sub-title>زمانه</sub-title>
+    <length units="seconds">2142</length>
+  </programme>
+  <programme start="20260517190022 +0000" stop="20260517200002 +0000" channel="ifilm">
+    <title>قسمت ۲۲</title>
+    <sub-title>ناریا </sub-title>
+    <length units="seconds">2442</length>
+  </programme>
+  <programme start="20260517180023 +0000" stop="20260517185427 +0000" channel="ifilm">
+    <title>قسمت آخر</title>
+    <sub-title>گاهی به پشت سر نگاه کن</sub-title>
+    <length units="seconds">3118</length>
+  </programme>
+  <programme start="20260517170026 +0000" stop="20260517174645 +0000" channel="ifilm">
+    <title>قسمت ۱۶ </title>
+    <sub-title>در قلب من </sub-title>
+    <length units="seconds">2588</length>
+  </programme>
   <programme start="20260517160026 +0000" stop="20260517164929 +0000" channel="ifilm">
     <title>قسمت ۱۲</title>
     <sub-title>کهنه سوار</sub-title>
@@ -621,10 +1016,40 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
-  <programme start="20260517162300 +0000" stop="20260517162617 +0000" channel="tehran">
-    <title>انتظار امام رضا</title>
+  <programme start="20260517200008 +0000" stop="20260517205000 +0000" channel="tehran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>تهران 20 (1405)</sub-title>
+    <length units="seconds">2974</length>
+  </programme>
+  <programme start="20260517190212 +0000" stop="20260517195352 +0000" channel="tehran">
+    <title>قسمت 5</title>
+    <sub-title>عملیات 125</sub-title>
+    <length units="seconds">2737</length>
+  </programme>
+  <programme start="20260517161530 +0000" stop="20260517172500 +0000" channel="tehran">
+    <title>27 اردبیهشت 1405</title>
     <sub-title>به خانه بر می گردیم 1405</sub-title>
-    <length units="seconds">197</length>
+    <length units="seconds">4169</length>
+  </programme>
+  <programme start="20260517155800 +0000" stop="20260517160400 +0000" channel="tehran">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>راه روشن</sub-title>
+    <length units="seconds">360</length>
+  </programme>
+  <programme start="20260517155140 +0000" stop="20260517155630 +0000" channel="tehran">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>مهر ماندگار</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20260517151250 +0000" stop="20260517154700 +0000" channel="tehran">
+    <title>فیلسواران - 27 اردبیهشت 1405</title>
+    <sub-title>پیامبران (شبکه تهران)</sub-title>
+    <length units="seconds">2034</length>
+  </programme>
+  <programme start="20260517150300 +0000" stop="20260517150945 +0000" channel="tehran">
+    <title>بهره برداری از 5 دستگاه خودرو کتابخانه عمومی سیار - 27 اردبیهشت 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">402</length>
   </programme>
   <programme start="20260517132841 +0000" stop="20260517145840 +0000" channel="tehran">
     <title>بوسیدن روی ماه</title>
@@ -667,9 +1092,104 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260517201650 +0000" stop="20260517210200 +0000" channel="mostanad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>نجات خودرو</sub-title>
+    <length units="seconds">2710</length>
+  </programme>
+  <programme start="20260517194849 +0000" stop="20260517201600 +0000" channel="mostanad">
+    <title>هم مسیر خورشید - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">1630</length>
+  </programme>
+  <programme start="20260517182430 +0000" stop="20260517185300 +0000" channel="mostanad">
+    <title>دریای مهربانی  - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">1710</length>
+  </programme>
+  <programme start="20260517175940 +0000" stop="20260517182401 +0000" channel="mostanad">
+    <title>سفر به عمان - 27 اردیبهشت 1405</title>
+    <sub-title>خادم الرضا رئیس جمهور شهید (مستند)</sub-title>
+    <length units="seconds">1460</length>
+  </programme>
+  <programme start="20260517174308 +0000" stop="20260517175750 +0000" channel="mostanad">
+    <title>انگشتر سازی - 27 اردیبهشت 1405</title>
+    <sub-title>دستانه (مستند)</sub-title>
+    <length units="seconds">882</length>
+  </programme>
+  <programme start="20260517165954 +0000" stop="20260517173300 +0000" channel="mostanad">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>چونان سرو (مستند)</sub-title>
+    <length units="seconds">1986</length>
+  </programme>
+  <programme start="20260517165300 +0000" stop="20260517165830 +0000" channel="mostanad">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>فرانما (مستند)</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260517164000 +0000" stop="20260517164750 +0000" channel="mostanad">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>برش مستند</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260517162830 +0000" stop="20260517163340 +0000" channel="mostanad">
+    <title>درختان او - 27 اردبیهشت 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">310</length>
+  </programme>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260517215648 +0000" stop="20260517215815 +0000" channel="quran">
+    <title>برای آقا - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">86</length>
+  </programme>
+  <programme start="20260517210117 +0000" stop="20260517215644 +0000" channel="quran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>مسابقه قرآنی بهشت</sub-title>
+    <length units="seconds">3328</length>
+  </programme>
+  <programme start="20260517204100 +0000" stop="20260517204923 +0000" channel="quran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>ایران جان (قرآن)</sub-title>
+    <length units="seconds">502</length>
+  </programme>
+  <programme start="20260517203845 +0000" stop="20260517204038 +0000" channel="quran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>پویش ملی قرار فتح </sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260517200100 +0000" stop="20260517203825 +0000" channel="quran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">2244</length>
+  </programme>
+  <programme start="20260517194115 +0000" stop="20260517195503 +0000" channel="quran">
+    <title>حدیث کساء - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">828</length>
+  </programme>
+  <programme start="20260517191050 +0000" stop="20260517192130 +0000" channel="quran">
+    <title>کریم منصوری - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">640</length>
+  </programme>
+  <programme start="20260517183016 +0000" stop="20260517191048 +0000" channel="quran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">2432</length>
+  </programme>
+  <programme start="20260517182603 +0000" stop="20260517182956 +0000" channel="quran">
+    <title>کربلایی حسین طاهری - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>مداحی (قرآن)</sub-title>
+    <length units="seconds">234</length>
+  </programme>
+  <programme start="20260517181956 +0000" stop="20260517182455 +0000" channel="quran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>جان فدا </sub-title>
+    <length units="seconds">298</length>
+  </programme>
   <programme start="20260517160234 +0000" stop="20260517163133 +0000" channel="quran">
     <title>۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
@@ -870,14 +1390,59 @@
     <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
     <length units="seconds">3166</length>
   </programme>
-  <programme start="20260517004854 +0000" stop="20260517005235 +0000" channel="quran">
-    <title>کربلایی حسین طاهری - ۲7 اردیبهشت ۱۴۰۵</title>
-    <sub-title>مداحی (قرآن)</sub-title>
-    <length units="seconds">220</length>
-  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260517210025 +0000" stop="20260517213320 +0000" channel="amouzesh">
+    <title>کنکور ریاضی - حسابان - یکنوایی تابع - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1975</length>
+  </programme>
+  <programme start="20260517203215 +0000" stop="20260517203915 +0000" channel="amouzesh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جان ایران</sub-title>
+    <length units="seconds">419</length>
+  </programme>
+  <programme start="20260517202835 +0000" stop="20260517203210 +0000" channel="amouzesh">
+    <title>گروه نهال‌های پهلوانی - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260517200150 +0000" stop="20260517201630 +0000" channel="amouzesh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>حدیث کسا</sub-title>
+    <length units="seconds">881</length>
+  </programme>
+  <programme start="20260517195235 +0000" stop="20260517200015 +0000" channel="amouzesh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>دوربین هفت ۱۴۰۵</sub-title>
+    <length units="seconds">459</length>
+  </programme>
+  <programme start="20260517190510 +0000" stop="20260517190945 +0000" channel="amouzesh">
+    <title>آقای شهیدم - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">273</length>
+  </programme>
+  <programme start="20260517182310 +0000" stop="20260517190510 +0000" channel="amouzesh">
+    <title>زندگی اینجاست - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
+    <length units="seconds">2520</length>
+  </programme>
+  <programme start="20260517181340 +0000" stop="20260517182155 +0000" channel="amouzesh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>قاعده بازی</sub-title>
+    <length units="seconds">492</length>
+  </programme>
+  <programme start="20260517164840 +0000" stop="20260517170625 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - ادبیات - درس چهاردهم - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1066</length>
+  </programme>
+  <programme start="20260517162610 +0000" stop="20260517164605 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - شیمی - فصل ۴ - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1195</length>
+  </programme>
   <programme start="20260517160105 +0000" stop="20260517162215 +0000" channel="amouzesh">
     <title>پایه یازدهم - شیمی - فصل ۳ - ۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
@@ -1011,6 +1576,46 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260517203253 +0000" stop="20260517211623 +0000" channel="salamat">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>حال خوب </sub-title>
+    <length units="seconds">2569</length>
+  </programme>
+  <programme start="20260517182924 +0000" stop="20260517185430 +0000" channel="salamat">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>خانه سلامت</sub-title>
+    <length units="seconds">1506</length>
+  </programme>
+  <programme start="20260517181648 +0000" stop="20260517182710 +0000" channel="salamat">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>با هم تا بهشت </sub-title>
+    <length units="seconds">621</length>
+  </programme>
+  <programme start="20260517180122 +0000" stop="20260517181451 +0000" channel="salamat">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>نامیرا</sub-title>
+    <length units="seconds">808</length>
+  </programme>
+  <programme start="20260517170256 +0000" stop="20260517174443 +0000" channel="salamat">
+    <title>قسمت ۲۰</title>
+    <sub-title>پرستاران </sub-title>
+    <length units="seconds">2486</length>
+  </programme>
+  <programme start="20260517165953 +0000" stop="20260517170142 +0000" channel="salamat">
+    <title>۲7 اردیبهشت ۱۴۰۵ - بخش ۴</title>
+    <sub-title>نود ثانیه با سلامت</sub-title>
+    <length units="seconds">109</length>
+  </programme>
+  <programme start="20260517165234 +0000" stop="20260517165923 +0000" channel="salamat">
+    <title>پیاده روی همگانی به مناسبت هفته سلامت - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">408</length>
+  </programme>
+  <programme start="20260517160228 +0000" stop="20260517164711 +0000" channel="salamat">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>ضربان ۱۴۰5</sub-title>
+    <length units="seconds">2672</length>
+  </programme>
   <programme start="20260517160032 +0000" stop="20260517160225 +0000" channel="salamat">
     <title>۲7 اردیبهشت ۱۴۰۵ - بخش ۳</title>
     <sub-title>نود ثانیه با سلامت</sub-title>
@@ -1064,6 +1669,46 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260517220829 +0000" stop="20260517223042 +0000" channel="ofogh">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>میدان </sub-title>
+    <length units="seconds">1334</length>
+  </programme>
+  <programme start="20260517201645 +0000" stop="20260517205308 +0000" channel="ofogh">
+    <title>تبیین - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">2184</length>
+  </programme>
+  <programme start="20260517201303 +0000" stop="20260517201510 +0000" channel="ofogh">
+    <title>رایحه گل - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>چکامه (افق)</sub-title>
+    <length units="seconds">128</length>
+  </programme>
+  <programme start="20260517192859 +0000" stop="20260517193055 +0000" channel="ofogh">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>آیات آفرینش </sub-title>
+    <length units="seconds">116</length>
+  </programme>
+  <programme start="20260517191126 +0000" stop="20260517191300 +0000" channel="ofogh">
+    <title>امام خمینی(ره) - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>چراغ راه</sub-title>
+    <length units="seconds">94</length>
+  </programme>
+  <programme start="20260517185547 +0000" stop="20260517191122 +0000" channel="ofogh">
+    <title>حدیث کساء - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (افق)</sub-title>
+    <length units="seconds">934</length>
+  </programme>
+  <programme start="20260517180324 +0000" stop="20260517184525 +0000" channel="ofogh">
+    <title>زندگی اینجاست - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">2522</length>
+  </programme>
+  <programme start="20260517174106 +0000" stop="20260517180135 +0000" channel="ofogh">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>سروستان </sub-title>
+    <length units="seconds">1230</length>
+  </programme>
   <programme start="20260517140950 +0000" stop="20260517141425 +0000" channel="ofogh">
     <title>کربلایی حسین طاهری - ۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>مداحی (افق)</sub-title>
@@ -1137,6 +1782,46 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260517201500 +0000" stop="20260517204550 +0000" channel="omid">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>هزار و یک اسم</sub-title>
+    <length units="seconds">1850</length>
+  </programme>
+  <programme start="20260517194623 +0000" stop="20260517201019 +0000" channel="omid">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>هیس طوری</sub-title>
+    <length units="seconds">1436</length>
+  </programme>
+  <programme start="20260517190237 +0000" stop="20260517191400 +0000" channel="omid">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">684</length>
+  </programme>
+  <programme start="20260517183130 +0000" stop="20260517185500 +0000" channel="omid">
+    <title>قسمت 22</title>
+    <sub-title>جوانمردان</sub-title>
+    <length units="seconds">1410</length>
+  </programme>
+  <programme start="20260517181800 +0000" stop="20260517182800 +0000" channel="omid">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>پیشتازان فتح </sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260517173000 +0000" stop="20260517180715 +0000" channel="omid">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>وارثان حبیب </sub-title>
+    <length units="seconds">2234</length>
+  </programme>
+  <programme start="20260517164245 +0000" stop="20260517165024 +0000" channel="omid">
+    <title>رودخوانی - آصف یکی از ما -  27 اردبیهشت 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">460</length>
+  </programme>
+  <programme start="20260517154055 +0000" stop="20260517163800 +0000" channel="omid">
+    <title>27 اردبیهشت 1405</title>
+    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
+    <length units="seconds">3426</length>
+  </programme>
   <programme start="20260517143015 +0000" stop="20260517154049 +0000" channel="omid">
     <title>27 اردیبهشت 1405</title>
     <sub-title>دست به توپ</sub-title>
@@ -1145,6 +1830,16 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260517203210 +0000" stop="20260517203837 +0000" channel="irinn2">
+    <title>اجتماع حماسی مردم در بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 27 اردیبهشت 1405 - بخش 1</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">387</length>
+  </programme>
+  <programme start="20260517181415 +0000" stop="20260517183400 +0000" channel="irinn2">
+    <title>سخنان نماینده فلسطین در سازمان ملل به مناسبت روز نکبت - 27 اردیبهشت 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1184</length>
+  </programme>
   <programme start="20260517082652 +0000" stop="20260517084246 +0000" channel="irinn2">
     <title>پخش زنده تنگه هرمز - 27 اردیبهشت 1405</title>
     <sub-title>گزارش خبری </sub-title>
@@ -1153,6 +1848,36 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20260517200010 +0000" stop="20260517202543 +0000" channel="azarbayjangharbi">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آذربایجان غربی)</sub-title>
+    <length units="seconds">1509</length>
+  </programme>
+  <programme start="20260517163500 +0000" stop="20260517170555 +0000" channel="azarbayjangharbi">
+    <title>روضه رضوان - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1855</length>
+  </programme>
+  <programme start="20260517130015 +0000" stop="20260517132115 +0000" channel="azarbayjangharbi">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 13:00 (آذربایجان غربی)</sub-title>
+    <length units="seconds">1248</length>
+  </programme>
+  <programme start="20260517121740 +0000" stop="20260517122030 +0000" channel="azarbayjangharbi">
+    <title>جان کلام - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
+    <length units="seconds">161</length>
+  </programme>
+  <programme start="20260517114930 +0000" stop="20260517121734 +0000" channel="azarbayjangharbi">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>درس هایی از قرآن (آذربایجان غربی)</sub-title>
+    <length units="seconds">1664</length>
+  </programme>
+  <programme start="20260517114110 +0000" stop="20260517114743 +0000" channel="azarbayjangharbi">
+    <title>روایت ایران - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">393</length>
+  </programme>
   <programme start="20260517080250 +0000" stop="20260517090420 +0000" channel="azarbayjangharbi">
     <title>ادب حضور - 27 اردیبهشت 1405</title>
     <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
@@ -1191,6 +1916,31 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260517193000 +0000" stop="20260517200115 +0000" channel="sahand">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1442</length>
+  </programme>
+  <programme start="20260517173000 +0000" stop="20260517174540 +0000" channel="sahand">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (سهند)</sub-title>
+    <length units="seconds">940</length>
+  </programme>
+  <programme start="20260517133020 +0000" stop="20260517133535 +0000" channel="sahand">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:30 (سهند)</sub-title>
+    <length units="seconds">305</length>
+  </programme>
+  <programme start="20260517125650 +0000" stop="20260517131925 +0000" channel="sahand">
+    <title>شهید اقتدار - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (سهند)</sub-title>
+    <length units="seconds">1344</length>
+  </programme>
+  <programme start="20260517123755 +0000" stop="20260517125650 +0000" channel="sahand">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>ثقلین</sub-title>
+    <length units="seconds">1105</length>
+  </programme>
   <programme start="20260517110240 +0000" stop="20260517121050 +0000" channel="sahand">
     <title>۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>کاوش (سهند)</sub-title>
@@ -1214,9 +1964,104 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260517204130 +0000" stop="20260517204656 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">326</length>
+  </programme>
+  <programme start="20260517200003 +0000" stop="20260517203424 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (البرز)</sub-title>
+    <length units="seconds">2062</length>
+  </programme>
+  <programme start="20260517190221 +0000" stop="20260517195058 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405-علی قاسم پور، افشین سخایی، محمد جلال سبزی</title>
+    <sub-title>نگاه مردم (البرز)</sub-title>
+    <length units="seconds">2917</length>
+  </programme>
+  <programme start="20260517170034 +0000" stop="20260517184231 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>سین هشتم</sub-title>
+    <length units="seconds">6116</length>
+  </programme>
+  <programme start="20260517164210 +0000" stop="20260517170034 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">1104</length>
+  </programme>
+  <programme start="20260517141317 +0000" stop="20260517141822 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260517141136 +0000" stop="20260517141315 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>100 ثانیه با خبرنگار مردمی البرز (شبکه البرز)</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260517121618 +0000" stop="20260517123116 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">898</length>
+  </programme>
+  <programme start="20260517114143 +0000" stop="20260517115751 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">968</length>
+  </programme>
+  <programme start="20260517100140 +0000" stop="20260517102003 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">1102</length>
+  </programme>
+  <programme start="20260517100035 +0000" stop="20260517100139 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>خبر 68 ثانیه ای (شبکه البرز)</sub-title>
+    <length units="seconds">64</length>
+  </programme>
+  <programme start="20260517081400 +0000" stop="20260517100030 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>امروز البرز (البرز)</sub-title>
+    <length units="seconds">6390</length>
+  </programme>
+  <programme start="20260517073946 +0000" stop="20260517080104 +0000" channel="alborz">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">1278</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260517200000 +0000" stop="20260517203208 +0000" channel="esfahan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
+    <length units="seconds">1928</length>
+  </programme>
+  <programme start="20260517173001 +0000" stop="20260517182939 +0000" channel="esfahan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>گفتگوی پزشکی سیب (اصفهان)</sub-title>
+    <length units="seconds">3578</length>
+  </programme>
+  <programme start="20260517170748 +0000" stop="20260517172845 +0000" channel="esfahan">
+    <title>فتح به روایت جنگ - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">1258</length>
+  </programme>
+  <programme start="20260517163002 +0000" stop="20260517170747 +0000" channel="esfahan">
+    <title>ریاضی نهم - 27 اردیبهشت 1405</title>
+    <sub-title>مدرسه تلویزیونی اصفهان</sub-title>
+    <length units="seconds">2266</length>
+  </programme>
+  <programme start="20260517160000 +0000" stop="20260517161715 +0000" channel="esfahan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 16:00 (اصفهان)</sub-title>
+    <length units="seconds">1036</length>
+  </programme>
+  <programme start="20260517155257 +0000" stop="20260517155704 +0000" channel="esfahan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>ساعت صفر </sub-title>
+    <length units="seconds">246</length>
+  </programme>
   <programme start="20260517130046 +0000" stop="20260517134023 +0000" channel="esfahan">
     <title>27 اردیبهشت 1405</title>
     <sub-title>میعاد آدینه</sub-title>
@@ -1255,6 +2100,31 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260517195950 +0000" stop="20260517203437 +0000" channel="sabalan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (سبلان)</sub-title>
+    <length units="seconds">1850</length>
+  </programme>
+  <programme start="20260517155930 +0000" stop="20260517161513 +0000" channel="sabalan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار 16:00 </sub-title>
+    <length units="seconds">879</length>
+  </programme>
+  <programme start="20260517122720 +0000" stop="20260517123900 +0000" channel="sabalan">
+    <title>حدیث شریف کساء - 27 اردیبهشت 1405</title>
+    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
+    <length units="seconds">700</length>
+  </programme>
+  <programme start="20260517120036 +0000" stop="20260517120550 +0000" channel="sabalan">
+    <title>حجت الاسلام و المسلمین عالی - 27 اردیبهشت 1405</title>
+    <sub-title>سخنرانی (سبلان)</sub-title>
+    <length units="seconds">312</length>
+  </programme>
+  <programme start="20260517112930 +0000" stop="20260517114725 +0000" channel="sabalan">
+    <title>تجمع مردم شهر هیر - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">1076</length>
+  </programme>
   <programme start="20260517110010 +0000" stop="20260517111145 +0000" channel="sabalan">
     <title>27 اردیبهشت 1405</title>
     <sub-title>اخبار اردبیل (سبلان)</sub-title>
@@ -1313,6 +2183,16 @@
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20260517170000 +0000" stop="20260517172545 +0000" channel="ilam">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 17:00 (ایلام)</sub-title>
+    <length units="seconds">1544</length>
+  </programme>
+  <programme start="20260517153407 +0000" stop="20260517163046 +0000" channel="ilam">
+    <title>27 اردیبهشت 1405 - بخش 2</title>
+    <sub-title>ملت بیدارتر </sub-title>
+    <length units="seconds">3399</length>
+  </programme>
   <programme start="20260517100102 +0000" stop="20260517110435 +0000" channel="ilam">
     <title>27 اردیبهشت 1405 - بخش 1</title>
     <sub-title>ملت بیدارتر </sub-title>
@@ -1341,19 +2221,59 @@
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260517170006 +0000" stop="20260517172004 +0000" channel="bushehr">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 17:00 (بوشهر)</sub-title>
+    <length units="seconds">1197</length>
+  </programme>
+  <programme start="20260517100707 +0000" stop="20260517111104 +0000" channel="bushehr">
+    <title>مستند فریم های فلسطینی-27 اردیبهشت 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (بوشهر)</sub-title>
+    <length units="seconds">3813</length>
+  </programme>
+  <programme start="20260517095226 +0000" stop="20260517095455 +0000" channel="bushehr">
+    <title>طریق تعالی-27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (بوشهر)</sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260517080130 +0000" stop="20260517085120 +0000" channel="bushehr">
+    <title>مستند شکار-27 اردیبهشت 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (بوشهر)</sub-title>
+    <length units="seconds">2978</length>
+  </programme>
+  <programme start="20260517075603 +0000" stop="20260517080025 +0000" channel="bushehr">
+    <title>روزهای زندگی-27 اردیبهشت 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260517065940 +0000" stop="20260517070142 +0000" channel="bushehr">
+    <title>رنگ و جنگ-27 اردیبهشت 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260517060815 +0000" stop="20260517064728 +0000" channel="bushehr">
+    <title>درس هایی از نهج البلاغه-27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (بوشهر)</sub-title>
+    <length units="seconds">2351</length>
+  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20260517170000 +0000" stop="20260517171842 +0000" channel="abadan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 17:00 (آبادان)</sub-title>
+    <length units="seconds">1122</length>
+  </programme>
   <programme start="20260517134101 +0000" stop="20260517141247 +0000" channel="abadan">
     <title>مستند در برابر تاریکی-27 اردیبهشت 1405</title>
     <sub-title>برنامه فرهنگی و هنری (آبادان)</sub-title>
     <length units="seconds">1906</length>
   </programme>
   <programme start="20260517130107 +0000" stop="20260517133909 +0000" channel="abadan">
-    <title>27 اردیبهشت 1405</title>
+    <title>27 اردیبهشت 1405-آقای الهی نیا</title>
     <sub-title>ملت بیدارتر </sub-title>
     <length units="seconds">2282</length>
   </programme>
@@ -1395,6 +2315,16 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260517195930 +0000" stop="20260517203512 +0000" channel="khorasanrazavi">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20</sub-title>
+    <length units="seconds">2142</length>
+  </programme>
+  <programme start="20260517191145 +0000" stop="20260517195401 +0000" channel="khorasanrazavi">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>فرکانس</sub-title>
+    <length units="seconds">2544</length>
+  </programme>
   <programme start="20260517131334 +0000" stop="20260517133926 +0000" channel="khorasanrazavi">
     <title>27 اردیبهشت 1405</title>
     <sub-title>این روزها (خراسان رضوی)</sub-title>
@@ -1423,6 +2353,16 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260517205742 +0000" stop="20260517210538 +0000" channel="atrak">
+    <title>اجتماع مردمی - ۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">476</length>
+  </programme>
+  <programme start="20260517195958 +0000" stop="20260517202835 +0000" channel="atrak">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
+    <length units="seconds">1718</length>
+  </programme>
   <programme start="20260517112819 +0000" stop="20260517113114 +0000" channel="atrak">
     <title>۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>نجوا (اترک)</sub-title>
@@ -1456,6 +2396,36 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260517195942 +0000" stop="20260517202325 +0000" channel="khalijefars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خلیج فارس)</sub-title>
+    <length units="seconds">1413</length>
+  </programme>
+  <programme start="20260517192630 +0000" stop="20260517194340 +0000" channel="khalijefars">
+    <title>مرز فراتر از خطوط - 27 اردیبهشت 1405- بخش 2</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">1030</length>
+  </programme>
+  <programme start="20260517175902 +0000" stop="20260517181537 +0000" channel="khalijefars">
+    <title>مرز فراتر از خطوط - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">996</length>
+  </programme>
+  <programme start="20260517170510 +0000" stop="20260517172200 +0000" channel="khalijefars">
+    <title>پشتیبانی از خط مقدم - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">1009</length>
+  </programme>
+  <programme start="20260517164440 +0000" stop="20260517170105 +0000" channel="khalijefars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت ۱۶:۴۵ (خلیج فارس)</sub-title>
+    <length units="seconds">986</length>
+  </programme>
+  <programme start="20260517155212 +0000" stop="20260517163858 +0000" channel="khalijefars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>بچه ها کارتون</sub-title>
+    <length units="seconds">2805</length>
+  </programme>
   <programme start="20260517110012 +0000" stop="20260517110650 +0000" channel="khalijefars">
     <title>نذر پرچم - 27 اردیبهشت 1405</title>
     <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
@@ -1514,6 +2484,26 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260517193903 +0000" stop="20260517204122 +0000" channel="khoozestan">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>مراحب</sub-title>
+    <length units="seconds">3685</length>
+  </programme>
+  <programme start="20260517184830 +0000" stop="20260517191040 +0000" channel="khoozestan">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>در جریان باشید</sub-title>
+    <length units="seconds">1309</length>
+  </programme>
+  <programme start="20260517183022 +0000" stop="20260517184548 +0000" channel="khoozestan">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:30 (خوزستان)</sub-title>
+    <length units="seconds">913</length>
+  </programme>
+  <programme start="20260517165959 +0000" stop="20260517172325 +0000" channel="khoozestan">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خوزستان)</sub-title>
+    <length units="seconds">1405</length>
+  </programme>
   <programme start="20260517141832 +0000" stop="20260517144043 +0000" channel="khoozestan">
     <title>۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>در جریان باشید</sub-title>
@@ -1542,6 +2532,41 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260517200000 +0000" stop="20260517204005 +0000" channel="eshragh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اشراق)</sub-title>
+    <length units="seconds">2406</length>
+  </programme>
+  <programme start="20260517190025 +0000" stop="20260517191800 +0000" channel="eshragh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برکت (اشراق)</sub-title>
+    <length units="seconds">1054</length>
+  </programme>
+  <programme start="20260517184445 +0000" stop="20260517185520 +0000" channel="eshragh">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>خیابان</sub-title>
+    <length units="seconds">634</length>
+  </programme>
+  <programme start="20260517163805 +0000" stop="20260517165830 +0000" channel="eshragh">
+    <title>شهید محمود دوستی - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1224</length>
+  </programme>
+  <programme start="20260517135400 +0000" stop="20260517135905 +0000" channel="eshragh">
+    <title>گزیده اجتماع مردمی - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">304</length>
+  </programme>
+  <programme start="20260517123440 +0000" stop="20260517124615 +0000" channel="eshragh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>صبح ظهور (اشراق)</sub-title>
+    <length units="seconds">694</length>
+  </programme>
+  <programme start="20260517120150 +0000" stop="20260517120640 +0000" channel="eshragh">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>تقویم عزت (اشراق)</sub-title>
+    <length units="seconds">290</length>
+  </programme>
   <programme start="20260517111905 +0000" stop="20260517114345 +0000" channel="eshragh">
     <title>هرمز جان - ۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>جنگ تحمیلی سوم</sub-title>
@@ -1596,6 +2621,36 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260517200000 +0000" stop="20260517203200 +0000" channel="fars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">1920</length>
+  </programme>
+  <programme start="20260517192600 +0000" stop="20260517194000 +0000" channel="fars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>روایت خانه</sub-title>
+    <length units="seconds">824</length>
+  </programme>
+  <programme start="20260517181530 +0000" stop="20260517190000 +0000" channel="fars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>میدان نخبگان</sub-title>
+    <length units="seconds">2670</length>
+  </programme>
+  <programme start="20260517180100 +0000" stop="20260517181530 +0000" channel="fars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>رادار</sub-title>
+    <length units="seconds">870</length>
+  </programme>
+  <programme start="20260517173240 +0000" stop="20260517175200 +0000" channel="fars">
+    <title>روایت سید - 27 اردیبهشت 1405</title>
+    <sub-title>خادم الرضا رئیس جمهور شهید (فارس)</sub-title>
+    <length units="seconds">1160</length>
+  </programme>
+  <programme start="20260517164500 +0000" stop="20260517165930 +0000" channel="fars">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 16:45 (فارس)</sub-title>
+    <length units="seconds">870</length>
+  </programme>
   <programme start="20260517121000 +0000" stop="20260517123700 +0000" channel="fars">
     <title>آیت الله ملک حسینی - 27 اردبیهشت 1405</title>
     <sub-title>سخنرانی (فارس)</sub-title>
@@ -1634,9 +2689,74 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260517200000 +0000" stop="20260517203053 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (قزوین)</sub-title>
+    <length units="seconds">1852</length>
+  </programme>
+  <programme start="20260517191952 +0000" stop="20260517192912 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>به روایت مردم</sub-title>
+    <length units="seconds">560</length>
+  </programme>
+  <programme start="20260517183748 +0000" stop="20260517191949 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>سروش آسمانی</sub-title>
+    <length units="seconds">2520</length>
+  </programme>
+  <programme start="20260517173648 +0000" stop="20260517181613 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>ره پیش</sub-title>
+    <length units="seconds">2364</length>
+  </programme>
+  <programme start="20260517152804 +0000" stop="20260517155332 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>گپ و گفت </sub-title>
+    <length units="seconds">1528</length>
+  </programme>
+  <programme start="20260517150043 +0000" stop="20260517152047 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>به روایت مردم</sub-title>
+    <length units="seconds">1204</length>
+  </programme>
+  <programme start="20260517110335 +0000" stop="20260517112248 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405-آقای حسینی</title>
+    <sub-title>سخنرانی (قزوین)</sub-title>
+    <length units="seconds">1154</length>
+  </programme>
+  <programme start="20260517110002 +0000" stop="20260517110242 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>خبر روز (قزوین)</sub-title>
+    <length units="seconds">160</length>
+  </programme>
+  <programme start="20260517075137 +0000" stop="20260517085644 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>صبح بخیر قزوین (قزوین)</sub-title>
+    <length units="seconds">3907</length>
+  </programme>
+  <programme start="20260517050642 +0000" stop="20260517052150 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>برنامه علمی</sub-title>
+    <length units="seconds">908</length>
+  </programme>
+  <programme start="20260517033913 +0000" stop="20260517044116 +0000" channel="qazvin">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>تلاوت نور</sub-title>
+    <length units="seconds">3722</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260517200014 +0000" stop="20260517203000 +0000" channel="noor">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1716</length>
+  </programme>
+  <programme start="20260517175312 +0000" stop="20260517180747 +0000" channel="noor">
+    <title>دیدار با خانواده شهید محمد جواد جانقربان - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">840</length>
+  </programme>
   <programme start="20260517123520 +0000" stop="20260517132522 +0000" channel="noor">
     <title>حرم مطهر حضرت فاطمه معصومه (س) - 27 اردیبهشت 1405</title>
     <sub-title>برنامه مذهبی (نور)</sub-title>
@@ -1665,6 +2785,16 @@
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20260517163240 +0000" stop="20260517163523 +0000" channel="aflak">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>روایت های مردمی</sub-title>
+    <length units="seconds">164</length>
+  </programme>
+  <programme start="20260517160007 +0000" stop="20260517163217 +0000" channel="aflak">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی اینترنتی لرستان</sub-title>
+    <length units="seconds">1930</length>
+  </programme>
   <programme start="20260517142213 +0000" stop="20260517143237 +0000" channel="aflak">
     <title>۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>قاب مردم (لرستان)</sub-title>
@@ -1706,6 +2836,46 @@
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260517201103 +0000" stop="20260517204147 +0000" channel="zagros">
+    <title>عاشق ایران - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">1842</length>
+  </programme>
+  <programme start="20260517193015 +0000" stop="20260517200425 +0000" channel="zagros">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 19:30 (زاگرس)</sub-title>
+    <length units="seconds">2039</length>
+  </programme>
+  <programme start="20260517174127 +0000" stop="20260517182625 +0000" channel="zagros">
+    <title>هوای حرم - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (زاگرس)</sub-title>
+    <length units="seconds">2699</length>
+  </programme>
+  <programme start="20260517170202 +0000" stop="20260517173145 +0000" channel="zagros">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>روایت (زاگرس)</sub-title>
+    <length units="seconds">1783</length>
+  </programme>
+  <programme start="20260517160100 +0000" stop="20260517170120 +0000" channel="zagros">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">3620</length>
+  </programme>
+  <programme start="20260517130015 +0000" stop="20260517132220 +0000" channel="zagros">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار 13 </sub-title>
+    <length units="seconds">1312</length>
+  </programme>
+  <programme start="20260517120247 +0000" stop="20260517120941 +0000" channel="zagros">
+    <title>چشمه زلال - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (زاگرس)</sub-title>
+    <length units="seconds">414</length>
+  </programme>
+  <programme start="20260517120135 +0000" stop="20260517120245 +0000" channel="zagros">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>با شهدا (زاگرس)</sub-title>
+    <length units="seconds">71</length>
+  </programme>
   <programme start="20260517111638 +0000" stop="20260517111810 +0000" channel="zagros">
     <title>مردم نوشت - 27 اردیبهشت 1405</title>
     <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
@@ -1759,6 +2929,16 @@
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20260517171040 +0000" stop="20260517175532 +0000" channel="dena">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>گفتگو (دنا)</sub-title>
+    <length units="seconds">2692</length>
+  </programme>
+  <programme start="20260517164500 +0000" stop="20260517170237 +0000" channel="dena">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 16:45 (دنا)</sub-title>
+    <length units="seconds">1058</length>
+  </programme>
   <programme start="20260517060314 +0000" stop="20260517061141 +0000" channel="dena">
     <title>27 اردیبهشت 1405</title>
     <sub-title>دعای عهد (دنا)</sub-title>
@@ -1813,6 +2993,21 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260517203752 +0000" stop="20260517205230 +0000" channel="baran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (باران)</sub-title>
+    <length units="seconds">833</length>
+  </programme>
+  <programme start="20260517200024 +0000" stop="20260517203751 +0000" channel="baran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (باران)</sub-title>
+    <length units="seconds">2186</length>
+  </programme>
+  <programme start="20260517184849 +0000" stop="20260517192220 +0000" channel="baran">
+    <title>۲7 اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماز آدینه (باران)</sub-title>
+    <length units="seconds">1990</length>
+  </programme>
   <programme start="20260517130533 +0000" stop="20260517134312 +0000" channel="baran">
     <title>۲7 اردیبهشت ۱۴۰۵</title>
     <sub-title>حوالی خدا</sub-title>
@@ -1861,6 +3056,51 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260517212925 +0000" stop="20260517215600 +0000" channel="kordestan">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:30 (کردستان)</sub-title>
+    <length units="seconds">1596</length>
+  </programme>
+  <programme start="20260517210135 +0000" stop="20260517212905 +0000" channel="kordestan">
+    <title>تجمع مردمی - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1650</length>
+  </programme>
+  <programme start="20260517193240 +0000" stop="20260517194000 +0000" channel="kordestan">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>صهبای جان (کردستان)</sub-title>
+    <length units="seconds">430</length>
+  </programme>
+  <programme start="20260517185620 +0000" stop="20260517191500 +0000" channel="kordestan">
+    <title>۲۷ اردیبهشت ۱۴۰۵ - بخش ۲</title>
+    <sub-title>میراث ماندگار</sub-title>
+    <length units="seconds">1120</length>
+  </programme>
+  <programme start="20260517182625 +0000" stop="20260517184855 +0000" channel="kordestan">
+    <title>هرمز جان - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1350</length>
+  </programme>
+  <programme start="20260517143005 +0000" stop="20260517143330 +0000" channel="kordestan">
+    <title>مشت گره کرده - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>نماهنگ (کردستان)</sub-title>
+    <length units="seconds">206</length>
+  </programme>
+  <programme start="20260517131715 +0000" stop="20260517132435 +0000" channel="kordestan">
+    <title>ایران همدل - ۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">440</length>
+  </programme>
+  <programme start="20260517125440 +0000" stop="20260517131710 +0000" channel="kordestan">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>میراث ماندگار</sub-title>
+    <length units="seconds">1350</length>
+  </programme>
+  <programme start="20260517115040 +0000" stop="20260517120555 +0000" channel="kordestan">
+    <title>۲۷ اردیبهشت ۱۴۰۵</title>
+    <sub-title>به ره و رووناکی (کردستان)</sub-title>
+    <length units="seconds">914</length>
+  </programme>
   <programme start="20260517105445 +0000" stop="20260517114330 +0000" channel="kordestan">
     <title>۲۷ اردیبهشت ۱۴۰۵</title>
     <sub-title>ژین وئه وین (کردستان)</sub-title>
@@ -1877,6 +3117,41 @@
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260517200040 +0000" stop="20260517202530 +0000" channel="tabarestan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (تبرستان)</sub-title>
+    <length units="seconds">1468</length>
+  </programme>
+  <programme start="20260517190328 +0000" stop="20260517190550 +0000" channel="tabarestan">
+    <title>طریق تعالی - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه مذهبی (تبرستان)</sub-title>
+    <length units="seconds">142</length>
+  </programme>
+  <programme start="20260517190105 +0000" stop="20260517190325 +0000" channel="tabarestan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>با خبرنگاران</sub-title>
+    <length units="seconds">141</length>
+  </programme>
+  <programme start="20260517185600 +0000" stop="20260517190100 +0000" channel="tabarestan">
+    <title>هم قسم - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260517180040 +0000" stop="20260517185130 +0000" channel="tabarestan">
+    <title>رهنما - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (تبرستان)</sub-title>
+    <length units="seconds">3048</length>
+  </programme>
+  <programme start="20260517152117 +0000" stop="20260517153903 +0000" channel="tabarestan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>مازونی قاب</sub-title>
+    <length units="seconds">1066</length>
+  </programme>
+  <programme start="20260517130051 +0000" stop="20260517134955 +0000" channel="tabarestan">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>راز سلامت (تبرستان)</sub-title>
+    <length units="seconds">2934</length>
+  </programme>
   <programme start="20260517111620 +0000" stop="20260517113025 +0000" channel="tabarestan">
     <title>27 اردیبهشت 1405</title>
     <sub-title>پرس و جو </sub-title>
@@ -1940,6 +3215,36 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260517200000 +0000" stop="20260517203857 +0000" channel="aftab">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آفتاب)</sub-title>
+    <length units="seconds">2336</length>
+  </programme>
+  <programme start="20260517185837 +0000" stop="20260517190911 +0000" channel="aftab">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
+    <length units="seconds">634</length>
+  </programme>
+  <programme start="20260517180023 +0000" stop="20260517184956 +0000" channel="aftab">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>پی نوشت (آفتاب)</sub-title>
+    <length units="seconds">2972</length>
+  </programme>
+  <programme start="20260517170130 +0000" stop="20260517180004 +0000" channel="aftab">
+    <title>آمار و احتمال یازدهم - 27 اردیبهشت 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">3514</length>
+  </programme>
+  <programme start="20260517155932 +0000" stop="20260517170110 +0000" channel="aftab">
+    <title>شیمی دوازدهم - 27 اردیبهشت 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">3698</length>
+  </programme>
+  <programme start="20260517145845 +0000" stop="20260517155850 +0000" channel="aftab">
+    <title>ریاضی 2 و حسابان 1 - 27 اردیبهشت 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">3604</length>
+  </programme>
   <programme start="20260517125940 +0000" stop="20260517132500 +0000" channel="aftab">
     <title>27 اردیبهشت 1405</title>
     <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
@@ -1963,12 +3268,167 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260517193237 +0000" stop="20260517200027 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 19:30 (مهاباد)</sub-title>
+    <length units="seconds">1668</length>
+  </programme>
+  <programme start="20260517124445 +0000" stop="20260517124815 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>هاوری یانی هه تاو (مهاباد)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260517124234 +0000" stop="20260517124442 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>نجوا (مهاباد)</sub-title>
+    <length units="seconds">128</length>
+  </programme>
+  <programme start="20260517105940 +0000" stop="20260517120909 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>خانواده ایران</sub-title>
+    <length units="seconds">4166</length>
+  </programme>
+  <programme start="20260517082925 +0000" stop="20260517093353 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>کازیو (مهاباد)</sub-title>
+    <length units="seconds">3868</length>
+  </programme>
+  <programme start="20260517073520 +0000" stop="20260517082922 +0000" channel="mahabad">
+    <title>مستند ریبرند-27 اردیبهشت 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (مهاباد)</sub-title>
+    <length units="seconds">3242</length>
+  </programme>
+  <programme start="20260517060706 +0000" stop="20260517065013 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>برنامه علمی (مهاباد)</sub-title>
+    <length units="seconds">2586</length>
+  </programme>
+  <programme start="20260517034501 +0000" stop="20260517035612 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>جهان گرد (مهاباد)</sub-title>
+    <length units="seconds">670</length>
+  </programme>
+  <programme start="20260517034206 +0000" stop="20260517034459 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>نجوا (مهاباد)</sub-title>
+    <length units="seconds">174</length>
+  </programme>
+  <programme start="20260517031150 +0000" stop="20260517032915 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>مواهب (مهاباد)</sub-title>
+    <length units="seconds">1046</length>
+  </programme>
+  <programme start="20260517020401 +0000" stop="20260517025335 +0000" channel="mahabad">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (مهاباد)</sub-title>
+    <length units="seconds">2974</length>
+  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20260517185945 +0000" stop="20260517193301 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 19:00 (همدان)</sub-title>
+    <length units="seconds">1973</length>
+  </programme>
+  <programme start="20260517170005 +0000" stop="20260517172005 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>خیابان با ما</sub-title>
+    <length units="seconds">1187</length>
+  </programme>
+  <programme start="20260517133937 +0000" stop="20260517134140 +0000" channel="sina">
+    <title>رنگ و جنگ-27 اردیبهشت 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260517130100 +0000" stop="20260517133934 +0000" channel="sina">
+    <title>مستند ایران از بالا-27 اردیبهشت 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
+    <length units="seconds">2312</length>
+  </programme>
+  <programme start="20260517114737 +0000" stop="20260517120630 +0000" channel="sina">
+    <title>شورای اداری استان-27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (همدان)</sub-title>
+    <length units="seconds">1112</length>
+  </programme>
+  <programme start="20260517105957 +0000" stop="20260517114736 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>خانه و زندگی (همدان)</sub-title>
+    <length units="seconds">2849</length>
+  </programme>
+  <programme start="20260517080002 +0000" stop="20260517085333 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>صبح عالی (همدان)</sub-title>
+    <length units="seconds">3189</length>
+  </programme>
+  <programme start="20260517050522 +0000" stop="20260517054717 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>چشم و چراغ (همدان)</sub-title>
+    <length units="seconds">2513</length>
+  </programme>
+  <programme start="20260517035440 +0000" stop="20260517045353 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>ترتیل قرآن کریم (همدان)</sub-title>
+    <length units="seconds">3532</length>
+  </programme>
+  <programme start="20260517020756 +0000" stop="20260517024548 +0000" channel="sina">
+    <title>مستند ایران از بالا-27 اردیبهشت 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
+    <length units="seconds">2262</length>
+  </programme>
+  <programme start="20260517000025 +0000" stop="20260517003256 +0000" channel="sina">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>ندای آدینه</sub-title>
+    <length units="seconds">1939</length>
+  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260517200000 +0000" stop="20260517202800 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خاوران)</sub-title>
+    <length units="seconds">1659</length>
+  </programme>
+  <programme start="20260517190730 +0000" stop="20260517195430 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>شبهای زعفرونی (خاوران)</sub-title>
+    <length units="seconds">2791</length>
+  </programme>
+  <programme start="20260517183700 +0000" stop="20260517184200 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260517175330 +0000" stop="20260517181800 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>هرمز جان</sub-title>
+    <length units="seconds">1469</length>
+  </programme>
+  <programme start="20260517172100 +0000" stop="20260517175100 +0000" channel="khavaran">
+    <title>شهید سید اسماعیل خطیب - 27 اردیبهشت 1405</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">1799</length>
+  </programme>
+  <programme start="20260517165500 +0000" stop="20260517171830 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>پرسمان (خاوران)</sub-title>
+    <length units="seconds">1410</length>
+  </programme>
+  <programme start="20260517162630 +0000" stop="20260517164500 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>به روایت مردم</sub-title>
+    <length units="seconds">1109</length>
+  </programme>
+  <programme start="20260517160000 +0000" stop="20260517162215 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خاوران)</sub-title>
+    <length units="seconds">1335</length>
+  </programme>
+  <programme start="20260517140800 +0000" stop="20260517142530 +0000" channel="khavaran">
+    <title>27 اردیبهشت 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">1049</length>
+  </programme>
   <programme start="20260517120000 +0000" stop="20260517130500 +0000" channel="khavaran">
     <title>27 اردبیهشت 1405</title>
     <sub-title>سیمای سلامت (خاوران)</sub-title>
@@ -2048,17 +3508,19 @@
   <channel id="sport3">
     <display-name>sport3</display-name>
   </channel>
+  <programme start="20260517185030 +0000" stop="20260517204030 +0000" channel="sport3">
+    <title>تنیس 1000 امتیازی مسترز رم(فینال)</title>
+    <sub-title>تنیس</sub-title>
+    <length units="seconds">6610</length>
+  </programme>
   <channel id="palestine">
     <display-name>palestine</display-name>
   </channel>
+  <channel id="nesfejahan">
+    <display-name>nesfejahan channel</display-name>
+  </channel>
   <channel id="kawthar">
     <display-name>kawthar</display-name>
-  </channel>
-  <channel id="presstv">
-    <display-name>Press TV channel </display-name>
-  </channel>
-  <channel id="Al-Alam">
-    <display-name>Al-Alam channel</display-name>
   </channel>
   <channel id="radioava">
     <display-name>radioava</display-name>
