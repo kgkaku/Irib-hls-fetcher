@@ -3,6 +3,66 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260524210000 +0000" stop="20260524220010 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">3610</length>
+  </programme>
+  <programme start="20260524200026 +0000" stop="20260524204537 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>جریان </sub-title>
+    <length units="seconds">2710</length>
+  </programme>
+  <programme start="20260524190741 +0000" stop="20260524192230 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>سنگر</sub-title>
+    <length units="seconds">650</length>
+  </programme>
+  <programme start="20260524190203 +0000" stop="20260524190300 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>قاب یک</sub-title>
+    <length units="seconds">58</length>
+  </programme>
+  <programme start="20260524181825 +0000" stop="20260524185934 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>لاله خیز </sub-title>
+    <length units="seconds">2470</length>
+  </programme>
+  <programme start="20260524181737 +0000" stop="20260524181820 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>عکس یک</sub-title>
+    <length units="seconds">44</length>
+  </programme>
+  <programme start="20260524180540 +0000" stop="20260524181400 +0000" channel="tv1">
+    <title>3 خرداد 1405 - بخش3</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">500</length>
+  </programme>
+  <programme start="20260524172322 +0000" stop="20260524172430 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>تیتر یک </sub-title>
+    <length units="seconds">58</length>
+  </programme>
+  <programme start="20260524171430 +0000" stop="20260524172310 +0000" channel="tv1">
+    <title>3 خرداد 1405 - بخش 2</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260524165723 +0000" stop="20260524170948 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>خاکریز مردم</sub-title>
+    <length units="seconds">746</length>
+  </programme>
+  <programme start="20260524162010 +0000" stop="20260524165610 +0000" channel="tv1">
+    <title>3 خرداد 1405</title>
+    <sub-title>شما و سیما 1405</sub-title>
+    <length units="seconds">2160</length>
+  </programme>
+  <programme start="20260524160930 +0000" stop="20260524161938 +0000" channel="tv1">
+    <title>3 خرداد 1405 - بخش 1</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">608</length>
+  </programme>
   <programme start="20260524140000 +0000" stop="20260524150025 +0000" channel="tv1">
     <title>3 خرداد 1405</title>
     <sub-title>اخبار نیمروزی </sub-title>
@@ -51,6 +111,41 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260524212729 +0000" stop="20260524221808 +0000" channel="tv2">
+    <title>قسمت ۵</title>
+    <sub-title>در و تخته</sub-title>
+    <length units="seconds">2708</length>
+  </programme>
+  <programme start="20260524205938 +0000" stop="20260524211533 +0000" channel="tv2">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>نوسان (شبکه 2)</sub-title>
+    <length units="seconds">956</length>
+  </programme>
+  <programme start="20260524203014 +0000" stop="20260524205830 +0000" channel="tv2">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1696</length>
+  </programme>
+  <programme start="20260524195830 +0000" stop="20260524201827 +0000" channel="tv2">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>پاورقی</sub-title>
+    <length units="seconds">1196</length>
+  </programme>
+  <programme start="20260524194013 +0000" stop="20260524195155 +0000" channel="tv2">
+    <title>حدیث کساء - 3 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">702</length>
+  </programme>
+  <programme start="20260524180039 +0000" stop="20260524192516 +0000" channel="tv2">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>عصر خانواده </sub-title>
+    <length units="seconds">5076</length>
+  </programme>
+  <programme start="20260524170952 +0000" stop="20260524174930 +0000" channel="tv2">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>ایدانو </sub-title>
+    <length units="seconds">2378</length>
+  </programme>
   <programme start="20260524150813 +0000" stop="20260524160049 +0000" channel="tv2">
     <title>گزیده - 3 خرداد ۱۴۰۵</title>
     <sub-title>زمانه </sub-title>
@@ -129,6 +224,36 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260524222757 +0000" stop="20260524222950 +0000" channel="tv3">
+    <title>3 خرداد 1405</title>
+    <sub-title>محفل (شبکه 3)</sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260524215958 +0000" stop="20260524221621 +0000" channel="tv3">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:00 (۱۴05)</sub-title>
+    <length units="seconds">984</length>
+  </programme>
+  <programme start="20260524212940 +0000" stop="20260524222754 +0000" channel="tv3">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">2504</length>
+  </programme>
+  <programme start="20260524204348 +0000" stop="20260524212937 +0000" channel="tv3">
+    <title>قسمت 26</title>
+    <sub-title>کلینیک رویا</sub-title>
+    <length units="seconds">2420</length>
+  </programme>
+  <programme start="20260524180937 +0000" stop="20260524181320 +0000" channel="tv3">
+    <title>عملیات بیت المقدس - 3 خرداد 1405</title>
+    <sub-title>ویژه برنامه‌ های دفاع مقدس شبکه 3</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260524175750 +0000" stop="20260524180742 +0000" channel="tv3">
+    <title>3 خرداد 1405</title>
+    <sub-title>روایت ایران</sub-title>
+    <length units="seconds">592</length>
+  </programme>
   <programme start="20260524151530 +0000" stop="20260524160041 +0000" channel="tv3">
     <title>3 خرداد 1405 - دکتر علی خضریان</title>
     <sub-title>سیاست خارجی ۱۴۰5</sub-title>
@@ -241,6 +366,66 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260524215145 +0000" stop="20260524223159 +0000" channel="tv4">
+    <title>3 خرداد 1405</title>
+    <sub-title>وضعیت جنگی</sub-title>
+    <length units="seconds">2414</length>
+  </programme>
+  <programme start="20260524211122 +0000" stop="20260524214712 +0000" channel="tv4">
+    <title>میز سنجه - 3 خرداد 1405</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">2149</length>
+  </programme>
+  <programme start="20260524204825 +0000" stop="20260524211112 +0000" channel="tv4">
+    <title>3 خرداد 1405</title>
+    <sub-title>نان و هنر (شبکه 4)</sub-title>
+    <length units="seconds">1365</length>
+  </programme>
+  <programme start="20260524201253 +0000" stop="20260524204822 +0000" channel="tv4">
+    <title>3 خرداد 1405 - بخش 5</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">2130</length>
+  </programme>
+  <programme start="20260524200936 +0000" stop="20260524201100 +0000" channel="tv4">
+    <title>3 خرداد 1405 - بخش 4</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20260524200114 +0000" stop="20260524200934 +0000" channel="tv4">
+    <title>شب خاطره - 3 خرداد 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (شبکه 4)</sub-title>
+    <length units="seconds">499</length>
+  </programme>
+  <programme start="20260524195936 +0000" stop="20260524200112 +0000" channel="tv4">
+    <title>3 خرداد 1405 - بخش 3</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">95</length>
+  </programme>
+  <programme start="20260524194752 +0000" stop="20260524195934 +0000" channel="tv4">
+    <title>3 خرداد 1405</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">703</length>
+  </programme>
+  <programme start="20260524185557 +0000" stop="20260524192159 +0000" channel="tv4">
+    <title>3 خرداد 1405 - بخش 2</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">1560</length>
+  </programme>
+  <programme start="20260524180742 +0000" stop="20260524185556 +0000" channel="tv4">
+    <title>3 خرداد 1405</title>
+    <sub-title>پایان نامه 1405</sub-title>
+    <length units="seconds">2893</length>
+  </programme>
+  <programme start="20260524180002 +0000" stop="20260524180738 +0000" channel="tv4">
+    <title>3 خرداد 1405 - بخش 1</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">454</length>
+  </programme>
+  <programme start="20260524174257 +0000" stop="20260524174606 +0000" channel="tv4">
+    <title>نقش هوانیروز در عملیات بیت المقدس - 3 خرداد 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (شبکه 4)</sub-title>
+    <length units="seconds">188</length>
+  </programme>
   <programme start="20260524160343 +0000" stop="20260524160640 +0000" channel="tv4">
     <title>خرمشهر - 3 خرداد 1405</title>
     <sub-title>نماهنگ (شبکه 4)</sub-title>
@@ -314,6 +499,111 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260524223015 +0000" stop="20260524223505 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20260524220015 +0000" stop="20260524222955 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵ - سردار محمدرضا نقدی</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1780</length>
+  </programme>
+  <programme start="20260524210005 +0000" stop="20260524220015 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3610</length>
+  </programme>
+  <programme start="20260524205710 +0000" stop="20260524205950 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">160</length>
+  </programme>
+  <programme start="20260524200245 +0000" stop="20260524205710 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">3266</length>
+  </programme>
+  <programme start="20260524200015 +0000" stop="20260524200240 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (خبر)</sub-title>
+    <length units="seconds">146</length>
+  </programme>
+  <programme start="20260524193810 +0000" stop="20260524200005 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">1314</length>
+  </programme>
+  <programme start="20260524193305 +0000" stop="20260524193805 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30</sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260524192600 +0000" stop="20260524192805 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">124</length>
+  </programme>
+  <programme start="20260524190935 +0000" stop="20260524192135 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>گفتگوی تلویزیونی سخنگوی دولت</sub-title>
+    <length units="seconds">720</length>
+  </programme>
+  <programme start="20260524190015 +0000" stop="20260524190935 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">560</length>
+  </programme>
+  <programme start="20260524183835 +0000" stop="20260524185820 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>روایت همدلی</sub-title>
+    <length units="seconds">1186</length>
+  </programme>
+  <programme start="20260524183015 +0000" stop="20260524183830 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>خبر اقتصاد و بازار (خبر)</sub-title>
+    <length units="seconds">496</length>
+  </programme>
+  <programme start="20260524180730 +0000" stop="20260524182635 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>شاهد عینی</sub-title>
+    <length units="seconds">1146</length>
+  </programme>
+  <programme start="20260524180015 +0000" stop="20260524180730 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20260524173515 +0000" stop="20260524175940 +0000" channel="irinn">
+    <title>خوشه به دوش - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خبر)</sub-title>
+    <length units="seconds">1464</length>
+  </programme>
+  <programme start="20260524173015 +0000" stop="20260524173515 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (خبر)</sub-title>
+    <length units="seconds">302</length>
+  </programme>
+  <programme start="20260524170815 +0000" stop="20260524172925 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵ - سید محمدتقی آقایان</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1272</length>
+  </programme>
+  <programme start="20260524170015 +0000" stop="20260524170815 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
+    <length units="seconds">480</length>
+  </programme>
+  <programme start="20260524165345 +0000" stop="20260524165550 +0000" channel="irinn">
+    <title>سوخت‌رسانی بدون توقف - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">124</length>
+  </programme>
+  <programme start="20260524163320 +0000" stop="20260524165340 +0000" channel="irinn">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>لبنان امروز</sub-title>
+    <length units="seconds">1220</length>
+  </programme>
   <programme start="20260524163020 +0000" stop="20260524163320 +0000" channel="irinn">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>اخبار ساعت 16:30 </sub-title>
@@ -323,11 +613,6 @@
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>بوم بیدار</sub-title>
     <length units="seconds">64</length>
-  </programme>
-  <programme start="20260524161027 +0000" stop="20260524161322 +0000" channel="irinn">
-    <title>نبرد منافع؛ ترامپ، اسرائیل و بن‌بست پیش‌رو</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">175</length>
   </programme>
   <programme start="20260524160800 +0000" stop="20260524162910 +0000" channel="irinn">
     <title>پترودلار در تیررس ایران - ۳ خرداد ۱۴۰۵</title>
@@ -449,11 +734,6 @@
     <sub-title>حرف دیگران</sub-title>
     <length units="seconds">80</length>
   </programme>
-  <programme start="20260524093500 +0000" stop="20260524095500 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>روایت همدلی</sub-title>
-    <length units="seconds">1200</length>
-  </programme>
   <programme start="20260524093015 +0000" stop="20260524093455 +0000" channel="irinn">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
@@ -469,79 +749,79 @@
     <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
     <length units="seconds">590</length>
   </programme>
-  <programme start="20260524083335 +0000" stop="20260524090015 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵ - شاه حسینی</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1600</length>
-  </programme>
-  <programme start="20260524080005 +0000" stop="20260524083005 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1800</length>
-  </programme>
-  <programme start="20260524073255 +0000" stop="20260524075945 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵ - دکتر علی‌اصغر جعفری</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">1610</length>
-  </programme>
-  <programme start="20260524073015 +0000" stop="20260524073250 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
-    <length units="seconds">154</length>
-  </programme>
-  <programme start="20260524070925 +0000" stop="20260524073015 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵ - احمدی</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">1250</length>
-  </programme>
-  <programme start="20260524070015 +0000" stop="20260524070920 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">544</length>
-  </programme>
-  <programme start="20260524063010 +0000" stop="20260524063415 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
-    <length units="seconds">244</length>
-  </programme>
-  <programme start="20260524060025 +0000" stop="20260524060959 +0000" channel="irinn">
-    <title>3 خرداد 1405</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">574</length>
-  </programme>
-  <programme start="20260524050021 +0000" stop="20260524051027 +0000" channel="irinn">
-    <title>3 خرداد 1405</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">606</length>
-  </programme>
-  <programme start="20260524040014 +0000" stop="20260524041124 +0000" channel="irinn">
-    <title>3 خرداد 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">672</length>
-  </programme>
-  <programme start="20260524030015 +0000" stop="20260524030730 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">436</length>
-  </programme>
-  <programme start="20260524020015 +0000" stop="20260524020825 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">490</length>
-  </programme>
-  <programme start="20260524010015 +0000" stop="20260524011020 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">604</length>
-  </programme>
-  <programme start="20260524000005 +0000" stop="20260524002925 +0000" channel="irinn">
-    <title>۳ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">1760</length>
-  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260524215930 +0000" stop="20260524222155 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>شاهد باش </sub-title>
+    <length units="seconds">1346</length>
+  </programme>
+  <programme start="20260524211135 +0000" stop="20260524215705 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>ایستگاه ایران</sub-title>
+    <length units="seconds">2430</length>
+  </programme>
+  <programme start="20260524195925 +0000" stop="20260524210310 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>شهروند و مافیا ۱۴۰۵</sub-title>
+    <length units="seconds">3490</length>
+  </programme>
+  <programme start="20260524194100 +0000" stop="20260524194655 +0000" channel="nasim">
+    <title>ناد علی - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
+    <length units="seconds">356</length>
+  </programme>
+  <programme start="20260524192300 +0000" stop="20260524193000 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه </sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20260524192135 +0000" stop="20260524192300 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>در ناب</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20260524191550 +0000" stop="20260524192130 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>گردون</sub-title>
+    <length units="seconds">340</length>
+  </programme>
+  <programme start="20260524190200 +0000" stop="20260524191345 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>اجاق</sub-title>
+    <length units="seconds">706</length>
+  </programme>
+  <programme start="20260524185505 +0000" stop="20260524185850 +0000" channel="nasim">
+    <title>دنا - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">224</length>
+  </programme>
+  <programme start="20260524183055 +0000" stop="20260524185500 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>نفیس</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20260524182120 +0000" stop="20260524182450 +0000" channel="nasim">
+    <title>عمار داره این خاک - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260524180115 +0000" stop="20260524181740 +0000" channel="nasim">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>دیدی نو </sub-title>
+    <length units="seconds">984</length>
+  </programme>
+  <programme start="20260524175540 +0000" stop="20260524175925 +0000" channel="nasim">
+    <title>سرود فتح - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">226</length>
+  </programme>
+  <programme start="20260524174930 +0000" stop="20260524175510 +0000" channel="nasim">
+    <title>آقای عزیزم - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">340</length>
+  </programme>
   <programme start="20260524154635 +0000" stop="20260524160150 +0000" channel="nasim">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>اجاق</sub-title>
@@ -565,6 +845,21 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260524204914 +0000" stop="20260524220425 +0000" channel="varzesh">
+    <title>3 خرداد 1405</title>
+    <sub-title>قهرمان ایران</sub-title>
+    <length units="seconds">4510</length>
+  </programme>
+  <programme start="20260524173057 +0000" stop="20260524173848 +0000" channel="varzesh">
+    <title>گل های برتر ساموئل اتوئو - 3 خرداد 1405</title>
+    <sub-title>توی دروازه</sub-title>
+    <length units="seconds">472</length>
+  </programme>
+  <programme start="20260524170029 +0000" stop="20260524172425 +0000" channel="varzesh">
+    <title>3 خرداد 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1436</length>
+  </programme>
   <programme start="20260524150012 +0000" stop="20260524163639 +0000" channel="varzesh">
     <title>هندبال مس کرمان - سپاهان اصفهان - 3 خرداد 1405</title>
     <sub-title>لیگ برتر هندبال</sub-title>
@@ -606,6 +901,86 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260524221505 +0000" stop="20260524222705 +0000" channel="pooya">
+    <title>یک عکس زیبا - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>شب رویایی</sub-title>
+    <length units="seconds">720</length>
+  </programme>
+  <programme start="20260524220950 +0000" stop="20260524221505 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۷</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20260524220425 +0000" stop="20260524220850 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۶</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">264</length>
+  </programme>
+  <programme start="20260524214645 +0000" stop="20260524220100 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>من می خونم تو گوش کن</sub-title>
+    <length units="seconds">854</length>
+  </programme>
+  <programme start="20260524214055 +0000" stop="20260524214340 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>روایت نودی ها</sub-title>
+    <length units="seconds">164</length>
+  </programme>
+  <programme start="20260524213145 +0000" stop="20260524214050 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>هزار و یک داستان</sub-title>
+    <length units="seconds">544</length>
+  </programme>
+  <programme start="20260524195020 +0000" stop="20260524195545 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۵</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">326</length>
+  </programme>
+  <programme start="20260524193515 +0000" stop="20260524193945 +0000" channel="pooya">
+    <title>راه نجات - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260524192550 +0000" stop="20260524192710 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>حکمت ستاره ها</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20260524192150 +0000" stop="20260524192425 +0000" channel="pooya">
+    <title>نهال امید - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>عروسک خونه</sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20260524183945 +0000" stop="20260524184450 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>چی چی</sub-title>
+    <length units="seconds">304</length>
+  </programme>
+  <programme start="20260524180020 +0000" stop="20260524182430 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۴</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">1450</length>
+  </programme>
+  <programme start="20260524175450 +0000" stop="20260524175955 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>ماجراهای نوید </sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260524172540 +0000" stop="20260524173030 +0000" channel="pooya">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۳</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20260524170040 +0000" stop="20260524171300 +0000" channel="pooya">
+    <title>قسمت ۲۳</title>
+    <sub-title>مثل نامه</sub-title>
+    <length units="seconds">740</length>
+  </programme>
+  <programme start="20260524164600 +0000" stop="20260524165940 +0000" channel="pooya">
+    <title>قسمت ۱</title>
+    <sub-title>بافنده بهار</sub-title>
+    <length units="seconds">820</length>
+  </programme>
   <programme start="20260524160050 +0000" stop="20260524164340 +0000" channel="pooya">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>دلیران</sub-title>
@@ -729,12 +1104,92 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260524210034 +0000" stop="20260524214914 +0000" channel="ifilm">
+    <title>قسمت ۱۳</title>
+    <sub-title>دلدادگان</sub-title>
+    <length units="seconds">2480</length>
+  </programme>
+  <programme start="20260524200030 +0000" stop="20260524204128 +0000" channel="ifilm">
+    <title>قسمت ۲۵</title>
+    <sub-title>زمانه</sub-title>
+    <length units="seconds">1998</length>
+  </programme>
+  <programme start="20260524190021 +0000" stop="20260524195959 +0000" channel="ifilm">
+    <title>قسمت ۲۹</title>
+    <sub-title>ناریا </sub-title>
+    <length units="seconds">2440</length>
+  </programme>
+  <programme start="20260524185011 +0000" stop="20260524185500 +0000" channel="ifilm">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>شما و آی فیلم (سری جدید)</sub-title>
+    <length units="seconds">288</length>
+  </programme>
+  <programme start="20260524180025 +0000" stop="20260524185004 +0000" channel="ifilm">
+    <title>قسمت ۷</title>
+    <sub-title>فراری</sub-title>
+    <length units="seconds">2760</length>
+  </programme>
+  <programme start="20260524170025 +0000" stop="20260524174645 +0000" channel="ifilm">
+    <title>قسمت ۲۳</title>
+    <sub-title>در قلب من </sub-title>
+    <length units="seconds">2574</length>
+  </programme>
+  <programme start="20260524160030 +0000" stop="20260524165415 +0000" channel="ifilm">
+    <title>قسمت ۱۹</title>
+    <sub-title>کهنه سوار</sub-title>
+    <length units="seconds">3034</length>
+  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20260524184850 +0000" stop="20260524185730 +0000" channel="namayesh">
+    <title>3 خرداد 1405</title>
+    <sub-title>جادوی سینما</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260524182840 +0000" stop="20260524184845 +0000" channel="namayesh">
+    <title>3 خرداد 1405</title>
+    <sub-title>کلاس استاد (شبکه نمایش)</sub-title>
+    <length units="seconds">1205</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260524210020 +0000" stop="20260524214400 +0000" channel="tehran">
+    <title>میدان انقلاب اسلامی - 3 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه مردمی</sub-title>
+    <length units="seconds">2602</length>
+  </programme>
+  <programme start="20260524200030 +0000" stop="20260524205010 +0000" channel="tehran">
+    <title>3 خرداد 1405</title>
+    <sub-title>تهران 20 (1405)</sub-title>
+    <length units="seconds">2980</length>
+  </programme>
+  <programme start="20260524185946 +0000" stop="20260524195400 +0000" channel="tehran">
+    <title>قسمت 12</title>
+    <sub-title>عملیات 125</sub-title>
+    <length units="seconds">2886</length>
+  </programme>
+  <programme start="20260524175552 +0000" stop="20260524185530 +0000" channel="tehran">
+    <title>خرمشهر جمعیت 80میلیون نفر - 3 خرداد 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (شبکه تهران)</sub-title>
+    <length units="seconds">3559</length>
+  </programme>
+  <programme start="20260524172800 +0000" stop="20260524175205 +0000" channel="tehran">
+    <title>3 خرداد 1405</title>
+    <sub-title>برگی از تاریخ</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20260524161500 +0000" stop="20260524172222 +0000" channel="tehran">
+    <title>3 خرداد 1405</title>
+    <sub-title>به خانه بر می گردیم 1405</sub-title>
+    <length units="seconds">4033</length>
+  </programme>
+  <programme start="20260524150913 +0000" stop="20260524151538 +0000" channel="tehran">
+    <title>گردهمایی دختران شهدای جنگ رمضان - 3 خرداد 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">384</length>
+  </programme>
   <programme start="20260524133415 +0000" stop="20260524150500 +0000" channel="tehran">
     <title>آزاد راه </title>
     <sub-title>آزاد راه</sub-title>
@@ -772,9 +1227,79 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260524200000 +0000" stop="20260524204400 +0000" channel="mostanad">
+    <title>3 خرداد 1405</title>
+    <sub-title>نجات خودرو</sub-title>
+    <length units="seconds">2640</length>
+  </programme>
+  <programme start="20260524183100 +0000" stop="20260524185355 +0000" channel="mostanad">
+    <title>پنجره های بهشت - 3 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (مستند)</sub-title>
+    <length units="seconds">1374</length>
+  </programme>
+  <programme start="20260524180015 +0000" stop="20260524182830 +0000" channel="mostanad">
+    <title>خاکریز پرویز - 3 خرداد 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (مستند)</sub-title>
+    <length units="seconds">1694</length>
+  </programme>
+  <programme start="20260524174235 +0000" stop="20260524175520 +0000" channel="mostanad">
+    <title>3 خرداد 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (مستند)</sub-title>
+    <length units="seconds">764</length>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260524174100 +0000" channel="mostanad">
+    <title>3 خرداد 1405</title>
+    <sub-title>چونان سرو (مستند)</sub-title>
+    <length units="seconds">2460</length>
+  </programme>
+  <programme start="20260524165320 +0000" stop="20260524165900 +0000" channel="mostanad">
+    <title>3 خرداد 1405</title>
+    <sub-title>فرانما (مستند)</sub-title>
+    <length units="seconds">340</length>
+  </programme>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260524205945 +0000" stop="20260524215430 +0000" channel="quran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>مسابقه قرآنی بهشت</sub-title>
+    <length units="seconds">3286</length>
+  </programme>
+  <programme start="20260524204530 +0000" stop="20260524205432 +0000" channel="quran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">542</length>
+  </programme>
+  <programme start="20260524202745 +0000" stop="20260524202917 +0000" channel="quran">
+    <title>عملیات بیت المقدس - 3 خرداد ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (قرآن)</sub-title>
+    <length units="seconds">92</length>
+  </programme>
+  <programme start="20260524200413 +0000" stop="20260524202727 +0000" channel="quran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">1394</length>
+  </programme>
+  <programme start="20260524194727 +0000" stop="20260524200214 +0000" channel="quran">
+    <title>حدیث کساء - 3 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">888</length>
+  </programme>
+  <programme start="20260524191849 +0000" stop="20260524192640 +0000" channel="quran">
+    <title>محمدحسین ظهیری - 3 خرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">472</length>
+  </programme>
+  <programme start="20260524183857 +0000" stop="20260524191657 +0000" channel="quran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">2280</length>
+  </programme>
+  <programme start="20260524182938 +0000" stop="20260524183451 +0000" channel="quran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>جان فدا </sub-title>
+    <length units="seconds">312</length>
+  </programme>
   <programme start="20260524161002 +0000" stop="20260524163829 +0000" channel="quran">
     <title>3 خرداد ۱۴۰۵</title>
     <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
@@ -973,6 +1498,51 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260524214905 +0000" stop="20260524215550 +0000" channel="amouzesh">
+    <title>همه با هم - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
+    <length units="seconds">405</length>
+  </programme>
+  <programme start="20260524212505 +0000" stop="20260524214805 +0000" channel="amouzesh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>مدهوش</sub-title>
+    <length units="seconds">1380</length>
+  </programme>
+  <programme start="20260524205005 +0000" stop="20260524205630 +0000" channel="amouzesh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">384</length>
+  </programme>
+  <programme start="20260524203150 +0000" stop="20260524205000 +0000" channel="amouzesh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>از زمین خاکی</sub-title>
+    <length units="seconds">1091</length>
+  </programme>
+  <programme start="20260524200155 +0000" stop="20260524201830 +0000" channel="amouzesh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا</sub-title>
+    <length units="seconds">993</length>
+  </programme>
+  <programme start="20260524185935 +0000" stop="20260524191505 +0000" channel="amouzesh">
+    <title>۳ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>زنگ آموزش</sub-title>
+    <length units="seconds">929</length>
+  </programme>
+  <programme start="20260524174515 +0000" stop="20260524175855 +0000" channel="amouzesh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>زنگ آموزش</sub-title>
+    <length units="seconds">819</length>
+  </programme>
+  <programme start="20260524170155 +0000" stop="20260524174350 +0000" channel="amouzesh">
+    <title>زندگی اینجاست - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه مذهبی (آموزش)</sub-title>
+    <length units="seconds">2513</length>
+  </programme>
+  <programme start="20260524165705 +0000" stop="20260524170035 +0000" channel="amouzesh">
+    <title>سرود فتح - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
   <programme start="20260524163540 +0000" stop="20260524163915 +0000" channel="amouzesh">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>الف تا</sub-title>
@@ -1101,6 +1671,56 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260524220805 +0000" stop="20260524221608 +0000" channel="salamat">
+    <title>همایش پیاده روی خانوادگی - 3 خرداد ۱۴۰۵</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">473</length>
+  </programme>
+  <programme start="20260524215924 +0000" stop="20260524220350 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>همراه با مردم </sub-title>
+    <length units="seconds">266</length>
+  </programme>
+  <programme start="20260524210216 +0000" stop="20260524214717 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>حال خوب </sub-title>
+    <length units="seconds">2624</length>
+  </programme>
+  <programme start="20260524202053 +0000" stop="20260524205054 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>استودیو سلامت 1405</sub-title>
+    <length units="seconds">1748</length>
+  </programme>
+  <programme start="20260524185809 +0000" stop="20260524191522 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>برگی از دفتر وجود (سلامت)</sub-title>
+    <length units="seconds">1032</length>
+  </programme>
+  <programme start="20260524182833 +0000" stop="20260524185328 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>خانه سلامت</sub-title>
+    <length units="seconds">1495</length>
+  </programme>
+  <programme start="20260524174557 +0000" stop="20260524175924 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه رادیویی من ایرانی هستم </sub-title>
+    <length units="seconds">807</length>
+  </programme>
+  <programme start="20260524173327 +0000" stop="20260524174530 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>با هم تا بهشت </sub-title>
+    <length units="seconds">724</length>
+  </programme>
+  <programme start="20260524170155 +0000" stop="20260524173137 +0000" channel="salamat">
+    <title>قسمت ۲</title>
+    <sub-title>جانان </sub-title>
+    <length units="seconds">1754</length>
+  </programme>
+  <programme start="20260524170005 +0000" stop="20260524170151 +0000" channel="salamat">
+    <title>3 خرداد ۱۴۰۵ - بخش ۳</title>
+    <sub-title>نود ثانیه با سلامت</sub-title>
+    <length units="seconds">106</length>
+  </programme>
   <programme start="20260524160211 +0000" stop="20260524164717 +0000" channel="salamat">
     <title>3 خرداد ۱۴۰۵</title>
     <sub-title>مادر کودک (سلامت)</sub-title>
@@ -1117,8 +1737,8 @@
     <length units="seconds">362</length>
   </programme>
   <programme start="20260524153613 +0000" stop="20260524155009 +0000" channel="salamat">
-    <title>برنامه رادیویی سلامت علوی - 3 خرداد ۱۴۰۵</title>
-    <sub-title>برنامه اجتماعی (سلامت)</sub-title>
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه رادیویی من ایرانی هستم </sub-title>
     <length units="seconds">826</length>
   </programme>
   <programme start="20260524143023 +0000" stop="20260524145532 +0000" channel="salamat">
@@ -1154,6 +1774,56 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260524214141 +0000" stop="20260524215800 +0000" channel="ofogh">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>سروستان </sub-title>
+    <length units="seconds">209</length>
+  </programme>
+  <programme start="20260524210235 +0000" stop="20260524213906 +0000" channel="ofogh">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>رزم آهنگ (افق)</sub-title>
+    <length units="seconds">515</length>
+  </programme>
+  <programme start="20260524202623 +0000" stop="20260524210012 +0000" channel="ofogh">
+    <title>تبیین - 3 خرداد ۱۴۰۵</title>
+    <sub-title>قرارگاه</sub-title>
+    <length units="seconds">1247</length>
+  </programme>
+  <programme start="20260524193549 +0000" stop="20260524202135 +0000" channel="ofogh">
+    <title>قسمت ۶</title>
+    <sub-title>پسران هور</sub-title>
+    <length units="seconds">1021</length>
+  </programme>
+  <programme start="20260524185930 +0000" stop="20260524191453 +0000" channel="ofogh">
+    <title>حدیث کساء - 3 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (افق)</sub-title>
+    <length units="seconds">627</length>
+  </programme>
+  <programme start="20260524184447 +0000" stop="20260524185127 +0000" channel="ofogh">
+    <title>صدای ایران - 3 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">400</length>
+  </programme>
+  <programme start="20260524175927 +0000" stop="20260524183448 +0000" channel="ofogh">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>پرونده باز </sub-title>
+    <length units="seconds">2122</length>
+  </programme>
+  <programme start="20260524171531 +0000" stop="20260524171708 +0000" channel="ofogh">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>بیانات مقام معظم رهبری دام ظله</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260524170210 +0000" stop="20260524170851 +0000" channel="ofogh">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>صدای مردم</sub-title>
+    <length units="seconds">401</length>
+  </programme>
+  <programme start="20260524165851 +0000" stop="20260524170209 +0000" channel="ofogh">
+    <title>پوشش کثیف مذاکره - 3 خرداد ۱۴۰۵</title>
+    <sub-title>موشن گرافیک</sub-title>
+    <length units="seconds">198</length>
+  </programme>
   <programme start="20260524160042 +0000" stop="20260524160237 +0000" channel="ofogh">
     <title>3 خرداد ۱۴۰۵</title>
     <sub-title>باهنر (افق)</sub-title>
@@ -1222,6 +1892,46 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260524203006 +0000" stop="20260524205730 +0000" channel="omid">
+    <title>3 خرداد 1405</title>
+    <sub-title>سفرقند 3 (امید)</sub-title>
+    <length units="seconds">1642</length>
+  </programme>
+  <programme start="20260524201717 +0000" stop="20260524202144 +0000" channel="omid">
+    <title>انصار حزب الله - 3 خرداد 1405</title>
+    <sub-title>نماهنگ (شهید خدمت)</sub-title>
+    <length units="seconds">266</length>
+  </programme>
+  <programme start="20260524194505 +0000" stop="20260524201110 +0000" channel="omid">
+    <title>3 خرداد 1405</title>
+    <sub-title>هیس طوری</sub-title>
+    <length units="seconds">1566</length>
+  </programme>
+  <programme start="20260524191347 +0000" stop="20260524192500 +0000" channel="omid">
+    <title>3 خرداد 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">674</length>
+  </programme>
+  <programme start="20260524183100 +0000" stop="20260524185500 +0000" channel="omid">
+    <title>قسمت 28</title>
+    <sub-title>جوانمردان</sub-title>
+    <length units="seconds">1440</length>
+  </programme>
+  <programme start="20260524173000 +0000" stop="20260524181700 +0000" channel="omid">
+    <title>3 خرداد 1405</title>
+    <sub-title>وارثان حبیب </sub-title>
+    <length units="seconds">2820</length>
+  </programme>
+  <programme start="20260524154700 +0000" stop="20260524164400 +0000" channel="omid">
+    <title>3 خرداد 1405</title>
+    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
+    <length units="seconds">3420</length>
+  </programme>
+  <programme start="20260524143030 +0000" stop="20260524154655 +0000" channel="omid">
+    <title>3 خرداد 1405</title>
+    <sub-title>دست به توپ</sub-title>
+    <length units="seconds">4584</length>
+  </programme>
   <programme start="20260524090100 +0000" stop="20260524093930 +0000" channel="omid">
     <title>بازپخش قسمت 1</title>
     <sub-title>کلاه سبز ها</sub-title>
@@ -1230,6 +1940,21 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260524212500 +0000" stop="20260524224000 +0000" channel="irinn2">
+    <title>موج 85 حضور حماسی مردم - 3 خرداد 1405 - بخش 2</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">4422</length>
+  </programme>
+  <programme start="20260524200930 +0000" stop="20260524212500 +0000" channel="irinn2">
+    <title>موج 85 حضور حماسی مردم - 3 خرداد 1405 - بخش 1</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">4455</length>
+  </programme>
+  <programme start="20260524161536 +0000" stop="20260524171957 +0000" channel="irinn2">
+    <title>گرامیداشت شهدای جنگ تحمیلی سوم - 3 خرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3817</length>
+  </programme>
   <programme start="20260524141527 +0000" stop="20260524142528 +0000" channel="irinn2">
     <title>40 مفقود در پی فرو ریختن هتل در حال ساخت در فیلیپین - 3 خرداد 1405</title>
     <sub-title>گزارش خبری </sub-title>
@@ -1253,6 +1978,26 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20260524203733 +0000" stop="20260524210930 +0000" channel="azarbayjangharbi">
+    <title>3 خرداد 1405</title>
+    <sub-title>زاویه</sub-title>
+    <length units="seconds">1905</length>
+  </programme>
+  <programme start="20260524200338 +0000" stop="20260524202105 +0000" channel="azarbayjangharbi">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آذربایجان غربی)</sub-title>
+    <length units="seconds">1048</length>
+  </programme>
+  <programme start="20260524164300 +0000" stop="20260524165359 +0000" channel="azarbayjangharbi">
+    <title>وقتی باران می بارد - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">644</length>
+  </programme>
+  <programme start="20260524160352 +0000" stop="20260524163932 +0000" channel="azarbayjangharbi">
+    <title>میعاد در میقات - 3 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
+    <length units="seconds">2117</length>
+  </programme>
   <programme start="20260524130010 +0000" stop="20260524132010 +0000" channel="azarbayjangharbi">
     <title>3 خرداد 1405</title>
     <sub-title>اخبار ساعت 13:00 (آذربایجان غربی)</sub-title>
@@ -1311,6 +2056,26 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260524193000 +0000" stop="20260524195455 +0000" channel="sahand">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1446</length>
+  </programme>
+  <programme start="20260524182810 +0000" stop="20260524191800 +0000" channel="sahand">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>عاشورائیان (سهند)</sub-title>
+    <length units="seconds">2968</length>
+  </programme>
+  <programme start="20260524173000 +0000" stop="20260524174530 +0000" channel="sahand">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (سهند)</sub-title>
+    <length units="seconds">929</length>
+  </programme>
+  <programme start="20260524132950 +0000" stop="20260524133505 +0000" channel="sahand">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:30 (سهند)</sub-title>
+    <length units="seconds">315</length>
+  </programme>
   <programme start="20260524125430 +0000" stop="20260524131840 +0000" channel="sahand">
     <title>شهید اقتدار - ۳ خرداد ۱۴۰۵</title>
     <sub-title>برنامه اجتماعی (سهند)</sub-title>
@@ -1344,6 +2109,46 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260524200004 +0000" stop="20260524203634 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (البرز)</sub-title>
+    <length units="seconds">2190</length>
+  </programme>
+  <programme start="20260524190029 +0000" stop="20260524195218 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>نگاه مردم (البرز)</sub-title>
+    <length units="seconds">2848</length>
+  </programme>
+  <programme start="20260524184141 +0000" stop="20260524184317 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>100 ثانیه با خبرنگار مردمی البرز (شبکه البرز)</sub-title>
+    <length units="seconds">96</length>
+  </programme>
+  <programme start="20260524183649 +0000" stop="20260524185249 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">960</length>
+  </programme>
+  <programme start="20260524183218 +0000" stop="20260524183517 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">180</length>
+  </programme>
+  <programme start="20260524183105 +0000" stop="20260524183209 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>خبر 68 ثانیه ای (شبکه البرز)</sub-title>
+    <length units="seconds">64</length>
+  </programme>
+  <programme start="20260524170134 +0000" stop="20260524183100 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>سین هشتم</sub-title>
+    <length units="seconds">5366</length>
+  </programme>
+  <programme start="20260524164945 +0000" stop="20260524170130 +0000" channel="alborz">
+    <title>3 خرداد 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">704</length>
+  </programme>
   <programme start="20260524140200 +0000" stop="20260524141703 +0000" channel="alborz">
     <title>3 خرداد 1405</title>
     <sub-title>اینجا البرزه </sub-title>
@@ -1402,6 +2207,31 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260524210000 +0000" stop="20260524221058 +0000" channel="esfahan">
+    <title>3 خرداد 1405</title>
+    <sub-title>تا پای جان برای ایران</sub-title>
+    <length units="seconds">4258</length>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524202924 +0000" channel="esfahan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
+    <length units="seconds">1764</length>
+  </programme>
+  <programme start="20260524183109 +0000" stop="20260524183457 +0000" channel="esfahan">
+    <title>ارتباط با مکه مکرمه - 3 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (اصفهان)</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20260524173007 +0000" stop="20260524183011 +0000" channel="esfahan">
+    <title>3 خرداد 1405</title>
+    <sub-title>گفتگوی پزشکی سیب (اصفهان)</sub-title>
+    <length units="seconds">3604</length>
+  </programme>
+  <programme start="20260524164615 +0000" stop="20260524171610 +0000" channel="esfahan">
+    <title>ریاضی نهم - 3 خرداد 1405</title>
+    <sub-title>مدرسه تلویزیونی اصفهان</sub-title>
+    <length units="seconds">1794</length>
+  </programme>
   <programme start="20260524161715 +0000" stop="20260524164612 +0000" channel="esfahan">
     <title>قمر - 3 خرداد 1405</title>
     <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
@@ -1465,9 +2295,114 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260524203647 +0000" stop="20260524205317 +0000" channel="sabalan">
+    <title>بیزیم ملت - 3 خرداد 1405 - بخش 2</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">940</length>
+  </programme>
+  <programme start="20260524195956 +0000" stop="20260524203219 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (سبلان)</sub-title>
+    <length units="seconds">1715</length>
+  </programme>
+  <programme start="20260524190030 +0000" stop="20260524194213 +0000" channel="sabalan">
+    <title>ساحات - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">2337</length>
+  </programme>
+  <programme start="20260524182330 +0000" stop="20260524183825 +0000" channel="sabalan">
+    <title>3 خرداد 1405 - بخش 2</title>
+    <sub-title>با مردم </sub-title>
+    <length units="seconds">847</length>
+  </programme>
+  <programme start="20260524161802 +0000" stop="20260524162419 +0000" channel="sabalan">
+    <title>رژه خودرویی - 3 خرداد 1405 - بخش 2</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">366</length>
+  </programme>
+  <programme start="20260524155954 +0000" stop="20260524161535 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار 16:00 </sub-title>
+    <length units="seconds">869</length>
+  </programme>
+  <programme start="20260524152517 +0000" stop="20260524155736 +0000" channel="sabalan">
+    <title>رژه خودرویی - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">1819</length>
+  </programme>
+  <programme start="20260524122830 +0000" stop="20260524124012 +0000" channel="sabalan">
+    <title>دعای کسا - 3 خرداد 1405</title>
+    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
+    <length units="seconds">663</length>
+  </programme>
+  <programme start="20260524114103 +0000" stop="20260524114456 +0000" channel="sabalan">
+    <title>گلبرگ - 3 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">220</length>
+  </programme>
+  <programme start="20260524110007 +0000" stop="20260524111756 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار اردبیل (سبلان)</sub-title>
+    <length units="seconds">1028</length>
+  </programme>
+  <programme start="20260524094001 +0000" stop="20260524095500 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>با مردم </sub-title>
+    <length units="seconds">827</length>
+  </programme>
+  <programme start="20260524080036 +0000" stop="20260524085600 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>تزه گون (سبلان)</sub-title>
+    <length units="seconds">3074</length>
+  </programme>
+  <programme start="20260524071700 +0000" stop="20260524075631 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>ایرانگرد (سبلان)</sub-title>
+    <length units="seconds">2258</length>
+  </programme>
+  <programme start="20260524063210 +0000" stop="20260524065800 +0000" channel="sabalan">
+    <title>هرمز جان - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">1492</length>
+  </programme>
+  <programme start="20260524060702 +0000" stop="20260524062646 +0000" channel="sabalan">
+    <title>3 خرداد 1405</title>
+    <sub-title>جهان گرد (سبلان)</sub-title>
+    <length units="seconds">1084</length>
+  </programme>
+  <programme start="20260524045633 +0000" stop="20260524051205 +0000" channel="sabalan">
+    <title>بیزیم ملت - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">876</length>
+  </programme>
+  <programme start="20260524032855 +0000" stop="20260524033740 +0000" channel="sabalan">
+    <title>دعای عهد - 3 خرداد 1405</title>
+    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
+    <length units="seconds">514</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20260524203029 +0000" stop="20260524214200 +0000" channel="ilam">
+    <title>3 خرداد 1405 - بخش 3</title>
+    <sub-title>ملت بیدارتر </sub-title>
+    <length units="seconds">4291</length>
+  </programme>
+  <programme start="20260524195956 +0000" stop="20260524201441 +0000" channel="ilam">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (ایلام)</sub-title>
+    <length units="seconds">885</length>
+  </programme>
+  <programme start="20260524170004 +0000" stop="20260524172748 +0000" channel="ilam">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 17:00 (ایلام)</sub-title>
+    <length units="seconds">1663</length>
+  </programme>
+  <programme start="20260524153017 +0000" stop="20260524163004 +0000" channel="ilam">
+    <title>3 خرداد 1405 - بخش 2</title>
+    <sub-title>ملت بیدارتر </sub-title>
+    <length units="seconds">3586</length>
+  </programme>
   <programme start="20260524150010 +0000" stop="20260524153015 +0000" channel="ilam">
     <title>رهبر شهید - 3 خرداد 1405</title>
     <sub-title>ویژه برنامه های دفاع مقدس (ایلام)</sub-title>
@@ -1506,6 +2441,31 @@
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260524202644 +0000" stop="20260524211428 +0000" channel="bushehr">
+    <title>3 خرداد 1405</title>
+    <sub-title>شو نشینی (بوشهر)</sub-title>
+    <length units="seconds">2865</length>
+  </programme>
+  <programme start="20260524200009 +0000" stop="20260524202155 +0000" channel="bushehr">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (بوشهر)</sub-title>
+    <length units="seconds">1304</length>
+  </programme>
+  <programme start="20260524173155 +0000" stop="20260524185600 +0000" channel="bushehr">
+    <title>مستند پل آزادی - 3 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (بوشهر)</sub-title>
+    <length units="seconds">5032</length>
+  </programme>
+  <programme start="20260524170007 +0000" stop="20260524171726 +0000" channel="bushehr">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 17:00 (بوشهر)</sub-title>
+    <length units="seconds">1039</length>
+  </programme>
+  <programme start="20260524165700 +0000" stop="20260524165905 +0000" channel="bushehr">
+    <title>رنگ و جنگ - 3 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">126</length>
+  </programme>
   <programme start="20260524124241 +0000" stop="20260524130801 +0000" channel="bushehr">
     <title>هرمزجان - 3 خرداد 1405</title>
     <sub-title>برنامه فرهنگی و هنری (بوشهر)</sub-title>
@@ -1522,6 +2482,31 @@
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20260524201102 +0000" stop="20260524211138 +0000" channel="abadan">
+    <title>3 خرداد 1405</title>
+    <sub-title>سرو و لاله</sub-title>
+    <length units="seconds">3628</length>
+  </programme>
+  <programme start="20260524200020 +0000" stop="20260524200900 +0000" channel="abadan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آبادان)</sub-title>
+    <length units="seconds">526</length>
+  </programme>
+  <programme start="20260524172650 +0000" stop="20260524181056 +0000" channel="abadan">
+    <title>طلائیه - 3 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (آبادان)</sub-title>
+    <length units="seconds">2660</length>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260524172219 +0000" channel="abadan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 17:00 (آبادان)</sub-title>
+    <length units="seconds">1340</length>
+  </programme>
+  <programme start="20260524165005 +0000" stop="20260524165209 +0000" channel="abadan">
+    <title>رنگ و جنگ - 3 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">120</length>
+  </programme>
   <programme start="20260524130201 +0000" stop="20260524133839 +0000" channel="abadan">
     <title>3 خرداد 1405</title>
     <sub-title>ملت بیدارتر </sub-title>
@@ -1555,6 +2540,36 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260524203206 +0000" stop="20260524210026 +0000" channel="khorasanrazavi">
+    <title>3 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1658</length>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524202916 +0000" channel="khorasanrazavi">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20</sub-title>
+    <length units="seconds">1750</length>
+  </programme>
+  <programme start="20260524191546 +0000" stop="20260524195635 +0000" channel="khorasanrazavi">
+    <title>3 خرداد 1405</title>
+    <sub-title>فرکانس</sub-title>
+    <length units="seconds">2462</length>
+  </programme>
+  <programme start="20260524182204 +0000" stop="20260524185500 +0000" channel="khorasanrazavi">
+    <title>3 خرداد 1405</title>
+    <sub-title>آکادمی نشان</sub-title>
+    <length units="seconds">1978</length>
+  </programme>
+  <programme start="20260524180443 +0000" stop="20260524182107 +0000" channel="khorasanrazavi">
+    <title>راویان فتح - 3 خرداد 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (خراسان رضوی)</sub-title>
+    <length units="seconds">986</length>
+  </programme>
+  <programme start="20260524173851 +0000" stop="20260524180413 +0000" channel="khorasanrazavi">
+    <title>شهید یونس نظرزاده - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">1522</length>
+  </programme>
   <programme start="20260524160030 +0000" stop="20260524162709 +0000" channel="khorasanrazavi">
     <title>3 خرداد 1405</title>
     <sub-title>اخبار ساعت 16:00 (خراسان رضوی)</sub-title>
@@ -1588,6 +2603,16 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260524210049 +0000" stop="20260524221928 +0000" channel="atrak">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر</sub-title>
+    <length units="seconds">4720</length>
+  </programme>
+  <programme start="20260524195957 +0000" stop="20260524202540 +0000" channel="atrak">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
+    <length units="seconds">1542</length>
+  </programme>
   <programme start="20260524111702 +0000" stop="20260524112500 +0000" channel="atrak">
     <title>یادواره شهدای درق - 3 خرداد ۱۴۰۵</title>
     <sub-title>برنامه اجتماعی (اترک)</sub-title>
@@ -1621,6 +2646,41 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260524195950 +0000" stop="20260524202930 +0000" channel="khalijefars">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خلیج فارس)</sub-title>
+    <length units="seconds">1659</length>
+  </programme>
+  <programme start="20260524192036 +0000" stop="20260524194448 +0000" channel="khalijefars">
+    <title>شهر در محاصره - 3 خرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (خلیج فارس)</sub-title>
+    <length units="seconds">1450</length>
+  </programme>
+  <programme start="20260524191855 +0000" stop="20260524192032 +0000" channel="khalijefars">
+    <title>خرمشهر ها در پیش است - 3 خرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (خلیج فارس)</sub-title>
+    <length units="seconds">96</length>
+  </programme>
+  <programme start="20260524181340 +0000" stop="20260524181803 +0000" channel="khalijefars">
+    <title>بر پا خیز- 3 خرداد 1405</title>
+    <sub-title>نماهنگ (خلیج فارس)</sub-title>
+    <length units="seconds">263</length>
+  </programme>
+  <programme start="20260524171525 +0000" stop="20260524173230 +0000" channel="khalijefars">
+    <title>روستای محمد شمسی - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">1014</length>
+  </programme>
+  <programme start="20260524170211 +0000" stop="20260524170618 +0000" channel="khalijefars">
+    <title>امن است این خانه - 3 خرداد 1405</title>
+    <sub-title>نماهنگ (خلیج فارس)</sub-title>
+    <length units="seconds">246</length>
+  </programme>
+  <programme start="20260524164500 +0000" stop="20260524170210 +0000" channel="khalijefars">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت ۱۶:۴۵ (خلیج فارس)</sub-title>
+    <length units="seconds">912</length>
+  </programme>
   <programme start="20260524094611 +0000" stop="20260524102900 +0000" channel="khalijefars">
     <title>شور و شعور - 3 خرداد 1405</title>
     <sub-title>برنامه سیاسی و تاریخی (خلیج فارس)</sub-title>
@@ -1674,6 +2734,51 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260524213550 +0000" stop="20260524224426 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر (خوزستان )</sub-title>
+    <length units="seconds">4116</length>
+  </programme>
+  <programme start="20260524212324 +0000" stop="20260524213545 +0000" channel="khoozestan">
+    <title>اجتماع مردمی - 3 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">740</length>
+  </programme>
+  <programme start="20260524211244 +0000" stop="20260524212320 +0000" channel="khoozestan">
+    <title>سنگرهای بی نشان - 3 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">626</length>
+  </programme>
+  <programme start="20260524210809 +0000" stop="20260524211230 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>به صرف هشتگ (خوزستان)</sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20260524194110 +0000" stop="20260524204121 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>مراحب</sub-title>
+    <length units="seconds">3556</length>
+  </programme>
+  <programme start="20260524184300 +0000" stop="20260524191925 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>این روزها</sub-title>
+    <length units="seconds">2172</length>
+  </programme>
+  <programme start="20260524182958 +0000" stop="20260524184255 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:30 (خوزستان)</sub-title>
+    <length units="seconds">776</length>
+  </programme>
+  <programme start="20260524175028 +0000" stop="20260524175935 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>روز خدا</sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20260524165956 +0000" stop="20260524172852 +0000" channel="khoozestan">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خوزستان)</sub-title>
+    <length units="seconds">1703</length>
+  </programme>
   <programme start="20260524123530 +0000" stop="20260524124511 +0000" channel="khoozestan">
     <title>باغ موزه دفاع مقدس - 3 خرداد ۱۴۰۵</title>
     <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
@@ -1712,6 +2817,21 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260524190010 +0000" stop="20260524192245 +0000" channel="eshragh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>برکت (اشراق)</sub-title>
+    <length units="seconds">1346</length>
+  </programme>
+  <programme start="20260524185005 +0000" stop="20260524185950 +0000" channel="eshragh">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>خیابان</sub-title>
+    <length units="seconds">584</length>
+  </programme>
+  <programme start="20260524175235 +0000" stop="20260524185000 +0000" channel="eshragh">
+    <title>این یک واقعیت است - ۳ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3444</length>
+  </programme>
   <programme start="20260524120350 +0000" stop="20260524120840 +0000" channel="eshragh">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>تقویم عزت (اشراق)</sub-title>
@@ -1753,6 +2873,26 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260524204448 +0000" stop="20260524214508 +0000" channel="hamoon">
+    <title>اجتماع مردمی - 3 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">2815</length>
+  </programme>
+  <programme start="20260524200001 +0000" stop="20260524202151 +0000" channel="hamoon">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (هامون)</sub-title>
+    <length units="seconds">1124</length>
+  </programme>
+  <programme start="20260524190000 +0000" stop="20260524193710 +0000" channel="hamoon">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر</sub-title>
+    <length units="seconds">1177</length>
+  </programme>
+  <programme start="20260524163012 +0000" stop="20260524164636 +0000" channel="hamoon">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:30 (هامون)</sub-title>
+    <length units="seconds">984</length>
+  </programme>
   <programme start="20260524150911 +0000" stop="20260524155645 +0000" channel="hamoon">
     <title>3 خرداد ۱۴۰۵</title>
     <sub-title>مل ترمی (هامون)</sub-title>
@@ -1781,6 +2921,46 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260524200000 +0000" stop="20260524202600 +0000" channel="fars">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">1560</length>
+  </programme>
+  <programme start="20260524193530 +0000" stop="20260524194800 +0000" channel="fars">
+    <title>3 خرداد 1405</title>
+    <sub-title>روایت خانه</sub-title>
+    <length units="seconds">750</length>
+  </programme>
+  <programme start="20260524181615 +0000" stop="20260524190000 +0000" channel="fars">
+    <title>3 خرداد 1405</title>
+    <sub-title>میدان نخبگان</sub-title>
+    <length units="seconds">2624</length>
+  </programme>
+  <programme start="20260524180350 +0000" stop="20260524181430 +0000" channel="fars">
+    <title>3 خرداد 1405</title>
+    <sub-title>رادار</sub-title>
+    <length units="seconds">640</length>
+  </programme>
+  <programme start="20260524173230 +0000" stop="20260524180315 +0000" channel="fars">
+    <title>3 خرداد 1405</title>
+    <sub-title>سرو قامتان</sub-title>
+    <length units="seconds">1846</length>
+  </programme>
+  <programme start="20260524170530 +0000" stop="20260524173130 +0000" channel="fars">
+    <title>عالمان عامل - 3 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (فارس)</sub-title>
+    <length units="seconds">1560</length>
+  </programme>
+  <programme start="20260524164500 +0000" stop="20260524170230 +0000" channel="fars">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 16:45 (فارس)</sub-title>
+    <length units="seconds">1050</length>
+  </programme>
+  <programme start="20260524153800 +0000" stop="20260524161000 +0000" channel="fars">
+    <title>این روزها - 3 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (فارس)</sub-title>
+    <length units="seconds">1920</length>
+  </programme>
   <programme start="20260524122700 +0000" stop="20260524125000 +0000" channel="fars">
     <title>آیت الله ملک حسینی - 3 خرداد 1405</title>
     <sub-title>سخنرانی (فارس)</sub-title>
@@ -1824,6 +3004,26 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260524203120 +0000" stop="20260524210050 +0000" channel="qazvin">
+    <title>3 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه خبری </sub-title>
+    <length units="seconds">1770</length>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524202529 +0000" channel="qazvin">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (قزوین)</sub-title>
+    <length units="seconds">1528</length>
+  </programme>
+  <programme start="20260524170330 +0000" stop="20260524174630 +0000" channel="qazvin">
+    <title>3 خرداد 1405</title>
+    <sub-title>سروش آسمانی</sub-title>
+    <length units="seconds">2580</length>
+  </programme>
+  <programme start="20260524170026 +0000" stop="20260524170307 +0000" channel="qazvin">
+    <title>3 خرداد 1405</title>
+    <sub-title>خبر روز (قزوین)</sub-title>
+    <length units="seconds">162</length>
+  </programme>
   <programme start="20260524125511 +0000" stop="20260524131537 +0000" channel="qazvin">
     <title>3 خرداد 1405</title>
     <sub-title>گپ و گفت </sub-title>
@@ -1862,6 +3062,16 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260524203255 +0000" stop="20260524212544 +0000" channel="noor">
+    <title>3 خرداد 1405</title>
+    <sub-title>ایستاده ایم </sub-title>
+    <length units="seconds">3093</length>
+  </programme>
+  <programme start="20260524200048 +0000" stop="20260524202834 +0000" channel="noor">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1640</length>
+  </programme>
   <programme start="20260524125234 +0000" stop="20260524131658 +0000" channel="noor">
     <title>3 خرداد 1405</title>
     <sub-title>روایت حماسه </sub-title>
@@ -1890,6 +3100,26 @@
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20260524210240 +0000" stop="20260524222540 +0000" channel="aflak">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>بهار ایستادگی </sub-title>
+    <length units="seconds">4980</length>
+  </programme>
+  <programme start="20260524200011 +0000" stop="20260524203138 +0000" channel="aflak">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (لرستان)</sub-title>
+    <length units="seconds">1886</length>
+  </programme>
+  <programme start="20260524185742 +0000" stop="20260524192237 +0000" channel="aflak">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>سند افتخار (لرستان)</sub-title>
+    <length units="seconds">1496</length>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260524172325 +0000" channel="aflak">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (لرستان)</sub-title>
+    <length units="seconds">1406</length>
+  </programme>
   <programme start="20260524160225 +0000" stop="20260524164420 +0000" channel="aflak">
     <title>3 خرداد ۱۴۰۵</title>
     <sub-title>مدرسه تلویزیونی اینترنتی لرستان</sub-title>
@@ -1918,6 +3148,41 @@
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
+  <programme start="20260524195936 +0000" stop="20260524202735 +0000" channel="kerman">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (کرمان)</sub-title>
+    <length units="seconds">1680</length>
+  </programme>
+  <programme start="20260524183737 +0000" stop="20260524184210 +0000" channel="kerman">
+    <title>صهبای تسنیم - 3 خرداد 1405 - بخش 3</title>
+    <sub-title>برنامه مذهبی (کرمان)</sub-title>
+    <length units="seconds">268</length>
+  </programme>
+  <programme start="20260524164506 +0000" stop="20260524170115 +0000" channel="kerman">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت ۱۶:۴۵ (کرمان)</sub-title>
+    <length units="seconds">936</length>
+  </programme>
+  <programme start="20260524150042 +0000" stop="20260524163725 +0000" channel="kerman">
+    <title>هندبال مس کرمان - سپاهان - 3 خرداد 1405</title>
+    <sub-title>مسابقات ورزشی (کرمان)</sub-title>
+    <length units="seconds">5088</length>
+  </programme>
+  <programme start="20260524124016 +0000" stop="20260524130305 +0000" channel="kerman">
+    <title>هرمز جان - 3 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
+    <length units="seconds">1368</length>
+  </programme>
+  <programme start="20260524120313 +0000" stop="20260524123505 +0000" channel="kerman">
+    <title>3 خرداد 1405</title>
+    <sub-title>ره عشق (کرمان)</sub-title>
+    <length units="seconds">1896</length>
+  </programme>
+  <programme start="20260524111236 +0000" stop="20260524111645 +0000" channel="kerman">
+    <title>صهبای تسنیم - 3 حرداد 1405 - بخش 2</title>
+    <sub-title>برنامه مذهبی (کرمان)</sub-title>
+    <length units="seconds">266</length>
+  </programme>
   <programme start="20260524090125 +0000" stop="20260524100109 +0000" channel="kerman">
     <title>مکتب خانه - 3 خرداد 1405</title>
     <sub-title>برنامه مذهبی (کرمان)</sub-title>
@@ -1951,6 +3216,21 @@
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260524193008 +0000" stop="20260524195929 +0000" channel="zagros">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 19:30 (زاگرس)</sub-title>
+    <length units="seconds">1761</length>
+  </programme>
+  <programme start="20260524130009 +0000" stop="20260524132005 +0000" channel="zagros">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار 13 </sub-title>
+    <length units="seconds">1201</length>
+  </programme>
+  <programme start="20260524104613 +0000" stop="20260524112955 +0000" channel="zagros">
+    <title>3 خرداد 1405</title>
+    <sub-title>ایرانگرد (زاگرس)</sub-title>
+    <length units="seconds">2619</length>
+  </programme>
   <programme start="20260524101347 +0000" stop="20260524104505 +0000" channel="zagros">
     <title>مسجد نشان - 3 خرداد 1405</title>
     <sub-title>برنامه مذهبی (زاگرس)</sub-title>
@@ -2014,6 +3294,31 @@
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20260524203245 +0000" stop="20260524212641 +0000" channel="dena">
+    <title>3 خرداد 1405</title>
+    <sub-title>ملت بیدارتر </sub-title>
+    <length units="seconds">3170</length>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524202429 +0000" channel="dena">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (دنا)</sub-title>
+    <length units="seconds">1442</length>
+  </programme>
+  <programme start="20260524193544 +0000" stop="20260524195010 +0000" channel="dena">
+    <title>3 خرداد 1405</title>
+    <sub-title>دنا نما</sub-title>
+    <length units="seconds">865</length>
+  </programme>
+  <programme start="20260524170439 +0000" stop="20260524175002 +0000" channel="dena">
+    <title>3 خرداد 1405</title>
+    <sub-title>گفتگو (دنا)</sub-title>
+    <length units="seconds">2711</length>
+  </programme>
+  <programme start="20260524164500 +0000" stop="20260524170347 +0000" channel="dena">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 16:45 (دنا)</sub-title>
+    <length units="seconds">1117</length>
+  </programme>
   <programme start="20260524110606 +0000" stop="20260524112122 +0000" channel="dena">
     <title>ارتباط مستقیم با باغ موزه دفاع مقدس خرمشهر - 3 خرداد 1405 - بخش 2</title>
     <sub-title>برنامه اجتماعی (دنا)</sub-title>
@@ -2045,6 +3350,36 @@
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260524210150 +0000" stop="20260524215950 +0000" channel="sabz">
+    <title>اجتماع مردمی - 3 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3472</length>
+  </programme>
+  <programme start="20260524202458 +0000" stop="20260524204534 +0000" channel="sabz">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (سبز)</sub-title>
+    <length units="seconds">1236</length>
+  </programme>
+  <programme start="20260524200006 +0000" stop="20260524202457 +0000" channel="sabz">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (سبز)</sub-title>
+    <length units="seconds">1478</length>
+  </programme>
+  <programme start="20260524181731 +0000" stop="20260524190847 +0000" channel="sabz">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدار تر </sub-title>
+    <length units="seconds">3060</length>
+  </programme>
+  <programme start="20260524170600 +0000" stop="20260524171008 +0000" channel="sabz">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (سبز)</sub-title>
+    <length units="seconds">346</length>
+  </programme>
+  <programme start="20260524160005 +0000" stop="20260524163700 +0000" channel="sabz">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:00 (سبز)</sub-title>
+    <length units="seconds">2802</length>
+  </programme>
   <programme start="20260524142414 +0000" stop="20260524155430 +0000" channel="sabz">
     <title>من ایرانم - 3 خرداد ۱۴۰۵</title>
     <sub-title>برنامه اجتماعی (سبز)</sub-title>
@@ -2083,6 +3418,21 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260524203550 +0000" stop="20260524205539 +0000" channel="baran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (باران)</sub-title>
+    <length units="seconds">1188</length>
+  </programme>
+  <programme start="20260524200050 +0000" stop="20260524203549 +0000" channel="baran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (باران)</sub-title>
+    <length units="seconds">2019</length>
+  </programme>
+  <programme start="20260524190102 +0000" stop="20260524192740 +0000" channel="baran">
+    <title>3 خرداد ۱۴۰۵</title>
+    <sub-title>نماز آدینه (باران)</sub-title>
+    <length units="seconds">1598</length>
+  </programme>
   <programme start="20260524123535 +0000" stop="20260524130740 +0000" channel="baran">
     <title>3 خرداد ۱۴۰۵</title>
     <sub-title>تفسیر قرآن کریم(شبکه باران)</sub-title>
@@ -2131,6 +3481,21 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260524193750 +0000" stop="20260524194505 +0000" channel="kordestan">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>صهبای جان (کردستان)</sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20260524185810 +0000" stop="20260524192800 +0000" channel="kordestan">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">1790</length>
+  </programme>
+  <programme start="20260524170200 +0000" stop="20260524172955 +0000" channel="kordestan">
+    <title>۳ خرداد ۱۴۰۵</title>
+    <sub-title>پهلوانان </sub-title>
+    <length units="seconds">1676</length>
+  </programme>
   <programme start="20260524120045 +0000" stop="20260524121630 +0000" channel="kordestan">
     <title>۳ خرداد ۱۴۰۵</title>
     <sub-title>به ره و رووناکی (کردستان)</sub-title>
@@ -2167,6 +3532,21 @@
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260524200040 +0000" stop="20260524202603 +0000" channel="tabarestan">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (تبرستان)</sub-title>
+    <length units="seconds">1523</length>
+  </programme>
+  <programme start="20260524130015 +0000" stop="20260524135045 +0000" channel="tabarestan">
+    <title>3 خرداد 1405</title>
+    <sub-title>راز سلامت (تبرستان)</sub-title>
+    <length units="seconds">3030</length>
+  </programme>
+  <programme start="20260524121230 +0000" stop="20260524121741 +0000" channel="tabarestan">
+    <title>دعای هفتم صحیفه سجادیه -3 خرداد 1405</title>
+    <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
+    <length units="seconds">310</length>
+  </programme>
   <programme start="20260524111628 +0000" stop="20260524113030 +0000" channel="tabarestan">
     <title>3 خرداد 1405</title>
     <sub-title>پرس و جو </sub-title>
@@ -2250,6 +3630,31 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260524205731 +0000" stop="20260524211051 +0000" channel="aftab">
+    <title>3 خرداد 1405</title>
+    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
+    <length units="seconds">692</length>
+  </programme>
+  <programme start="20260524204545 +0000" stop="20260524205708 +0000" channel="aftab">
+    <title>3 خرداد 1405</title>
+    <sub-title>در استان (آفتاب)</sub-title>
+    <length units="seconds">474</length>
+  </programme>
+  <programme start="20260524200010 +0000" stop="20260524203244 +0000" channel="aftab">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آفتاب)</sub-title>
+    <length units="seconds">1876</length>
+  </programme>
+  <programme start="20260524190715 +0000" stop="20260524192620 +0000" channel="aftab">
+    <title>3 خرداد 1405</title>
+    <sub-title>غدیری شویم</sub-title>
+    <length units="seconds">1150</length>
+  </programme>
+  <programme start="20260524165916 +0000" stop="20260524180213 +0000" channel="aftab">
+    <title>فیزیک یازدهم - 3 خرداد 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">2865</length>
+  </programme>
   <programme start="20260524160849 +0000" stop="20260524164412 +0000" channel="aftab">
     <title>اجتماع حماسی مردم در بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 3 خرداد 1405</title>
     <sub-title>جنگ تحمیلی سوم</sub-title>
@@ -2283,6 +3688,11 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260524192925 +0000" stop="20260524195314 +0000" channel="mahabad">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 19:30 (مهاباد)</sub-title>
+    <length units="seconds">1428</length>
+  </programme>
   <programme start="20260524124545 +0000" stop="20260524125012 +0000" channel="mahabad">
     <title>3 خرداد 1405</title>
     <sub-title>هاوری یانی هه تاو (مهاباد)</sub-title>
@@ -2321,6 +3731,26 @@
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20260524203010 +0000" stop="20260524212950 +0000" channel="sina">
+    <title>3 خرداد 1405</title>
+    <sub-title>شب های الوند (همدان)</sub-title>
+    <length units="seconds">3557</length>
+  </programme>
+  <programme start="20260524190000 +0000" stop="20260524192901 +0000" channel="sina">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 19:00 (همدان)</sub-title>
+    <length units="seconds">1730</length>
+  </programme>
+  <programme start="20260524170007 +0000" stop="20260524171704 +0000" channel="sina">
+    <title>3 خرداد 1405</title>
+    <sub-title>خیابان با ما</sub-title>
+    <length units="seconds">1017</length>
+  </programme>
+  <programme start="20260524160123 +0000" stop="20260524165127 +0000" channel="sina">
+    <title>مستند شناسایی ناتمام - 3 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (همدان)</sub-title>
+    <length units="seconds">2981</length>
+  </programme>
   <programme start="20260524110005 +0000" stop="20260524115003 +0000" channel="sina">
     <title>3 خرداد 1405</title>
     <sub-title>خانه و زندگی (همدان)</sub-title>
@@ -2349,6 +3779,46 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260524204000 +0000" stop="20260524205600 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">961</length>
+  </programme>
+  <programme start="20260524200000 +0000" stop="20260524203500 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خاوران)</sub-title>
+    <length units="seconds">2101</length>
+  </programme>
+  <programme start="20260524190500 +0000" stop="20260524195435 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>شبهای زعفرونی (خاوران)</sub-title>
+    <length units="seconds">2962</length>
+  </programme>
+  <programme start="20260524183900 +0000" stop="20260524184645 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>گوهر سخن (خاوران)</sub-title>
+    <length units="seconds">464</length>
+  </programme>
+  <programme start="20260524180200 +0000" stop="20260524182930 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>هرمز جان</sub-title>
+    <length units="seconds">1640</length>
+  </programme>
+  <programme start="20260524170200 +0000" stop="20260524172530 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>پرسمان (خاوران)</sub-title>
+    <length units="seconds">1408</length>
+  </programme>
+  <programme start="20260524163200 +0000" stop="20260524164900 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>به روایت مردم</sub-title>
+    <length units="seconds">1009</length>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524162900 +0000" channel="khavaran">
+    <title>3 خرداد 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خاوران)</sub-title>
+    <length units="seconds">1741</length>
+  </programme>
   <programme start="20260524132830 +0000" stop="20260524135800 +0000" channel="khavaran">
     <title>زن زندگی - 3 خرداد 1405</title>
     <sub-title>برنامه اجتماعی (خاوران)</sub-title>
